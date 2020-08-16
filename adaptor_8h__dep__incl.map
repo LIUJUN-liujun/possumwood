@@ -3,6 +3,8 @@
 <area shape="rect" id="node3" href="$apps_2possumwood_2main_8cpp.html" title="src/apps/possumwood\l/main.cpp" alt="" coords="57,184,224,225"/>
 <area shape="rect" id="node4" href="$main__window_8h.html" title="src/apps/possumwood\l/main_window.h" alt="" coords="248,95,415,136"/>
 <area shape="rect" id="node5" href="$main__window_8cpp.html" title="src/apps/possumwood\l/main_window.cpp" alt="" coords="439,184,605,225"/>
-<area shape="rect" id="node7" href="$tree__widget_8cpp.html" title="src/apps/possumwood\l/tree_widget.cpp" alt="" coords="491,95,657,136"/>
+<area shape="rect" id="node7" href="$node__menu_8h.html" title="src/apps/possumwood\l/node_menu.h" alt="" coords="491,95,657,136"/>
+<area shape="rect" id="node9" href="$tree__widget_8cpp.html" title="src/apps/possumwood\l/tree_widget.cpp" alt="" coords="681,95,848,136"/>
 <area shape="rect" id="node6" href="$toolbar_8cpp.html" title="src/apps/possumwood\l/toolbar.cpp" alt="" coords="248,184,415,225"/>
+<area shape="rect" id="node8" href="$node__menu_8cpp.html" title="src/apps/possumwood\l/node_menu.cpp" alt="" coords="629,184,796,225"/>
 </map>

@@ -21,6 +21,7 @@ var searchData=
   ['bsplinehierarchy',['BSplineHierarchy',['../classpossumwood_1_1opencv_1_1BSplineHierarchy.html#a2f29d72cabd1c4aa87de3a14de6e3087',1,'possumwood::opencv::BSplineHierarchy']]],
   ['buffer',['Buffer',['../classpossumwood_1_1Buffer_3_01float_01_4.html#a0b254ed6c3c0cb9557dd0bc6e91f8c78',1,'possumwood::Buffer&lt; float &gt;::Buffer()'],['../classpossumwood_1_1Buffer_3_01double_01_4.html#aa7e7382995637f4e984eae2820e9df61',1,'possumwood::Buffer&lt; double &gt;::Buffer()'],['../classpossumwood_1_1Buffer_3_01int_01_4.html#a2e67d499671e759af314922e1c35bc42',1,'possumwood::Buffer&lt; int &gt;::Buffer()']]],
   ['buffertemplated',['BufferTemplated',['../classpossumwood_1_1BufferTemplated.html#a091a0d68a70dc2edd27262d12a38cec0',1,'possumwood::BufferTemplated']]],
+  ['build',['build',['../classNodeMenu.html#aeb42f2dc8a022df37c678eabf9c3feaf',1,'NodeMenu']]],
   ['buildnetwork',['buildNetwork',['../namespacepossumwood_1_1actions_1_1detail.html#a2453360e93c038a78a1ddf50696bb1b9',1,'possumwood::actions::detail']]],
   ['buttonslayout',['buttonsLayout',['../classpossumwood_1_1SourceEditor.html#a6182a1faf23e9a63c301cf6a8ae2c124',1,'possumwood::SourceEditor']]]
 ];

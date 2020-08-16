@@ -1,7 +1,5 @@
 <map id="src/apps/possumwood/searchable_menu.h" name="src/apps/possumwood/searchable_menu.h">
-<area shape="rect" id="node2" href="$main__window_8h.html" title="src/apps/possumwood\l/main_window.h" alt="" coords="196,95,363,136"/>
-<area shape="rect" id="node6" href="$searchable__menu_8cpp.html" title="src/apps/possumwood\l/searchable_menu.cpp" alt="" coords="387,95,555,136"/>
-<area shape="rect" id="node3" href="$apps_2possumwood_2main_8cpp.html" title="src/apps/possumwood\l/main.cpp" alt="" coords="5,184,172,225"/>
-<area shape="rect" id="node4" href="$main__window_8cpp.html" title="src/apps/possumwood\l/main_window.cpp" alt="" coords="196,184,363,225"/>
-<area shape="rect" id="node5" href="$toolbar_8cpp.html" title="src/apps/possumwood\l/toolbar.cpp" alt="" coords="387,184,553,225"/>
+<area shape="rect" id="node2" href="$main__window_8cpp.html" title="src/apps/possumwood\l/main_window.cpp" alt="" coords="5,95,172,136"/>
+<area shape="rect" id="node3" href="$node__menu_8cpp.html" title="src/apps/possumwood\l/node_menu.cpp" alt="" coords="196,95,363,136"/>
+<area shape="rect" id="node4" href="$searchable__menu_8cpp.html" title="src/apps/possumwood\l/searchable_menu.cpp" alt="" coords="387,95,555,136"/>
 </map>

@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['base',['Base',['../classanim_1_1metric_1_1Base.html',1,'anim::metric::Base'],['../classanim_1_1filter_1_1Base.html',1,'anim::filter::Base']]],
+  ['base',['Base',['../classanim_1_1filter_1_1Base.html',1,'anim::filter::Base'],['../classanim_1_1metric_1_1Base.html',1,'anim::metric::Base']]],
   ['basic_5fjson',['basic_json',['../classpossumwood_1_1io_1_1basic__json.html',1,'possumwood::io']]],
   ['bfsvisitors',['BFSVisitors',['../classlightfields_1_1BFSVisitors.html',1,'lightfields']]],
   ['binary_5freader',['binary_reader',['../classpossumwood_1_1io_1_1basic__json_1_1binary__reader.html',1,'possumwood::io::basic_json']]],

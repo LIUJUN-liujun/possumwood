@@ -1,5 +1,13 @@
 var NAVTREEINDEX7 =
 {
+"classlightfields_1_1Raw.html#aefe948fd13973d22fc353aeb986167c2":[2,0,2,24,5],
+"classlightfields_1_1Raw.html#afaa58382367a7f18d4ed377175c4a5d5":[2,0,2,24,2],
+"classlightfields_1_1Samples.html":[2,0,2,25],
+"classlightfields_1_1Samples.html#a00e4f4cb7e6c22be86f3a7d5613d4a7b":[2,0,2,25,4],
+"classlightfields_1_1Samples.html#a16dcf8bb335b11dbb678f0afcf181d3b":[2,0,2,25,17],
+"classlightfields_1_1Samples.html#a1c5759283b1ef3db6be514687c4ccf4a":[2,0,2,25,13],
+"classlightfields_1_1Samples.html#a1f4fc73ebef46c68e43fed18ff4977d3":[2,0,2,25,3],
+"classlightfields_1_1Samples.html#a285b98f0186ff1e976a3d3c434ca393d":[2,0,2,25,18],
 "classlightfields_1_1Samples.html#a2a3a1c240f90e52345407af65306b03d":[2,0,2,25,9],
 "classlightfields_1_1Samples.html#a34a64bb232f595ce292b3582a6abf127":[2,0,2,25,5],
 "classlightfields_1_1Samples.html#a413b200b9c8ebe74c19340456c385d99":[2,0,2,25,12],
@@ -241,13 +249,5 @@ var NAVTREEINDEX7 =
 "classpossumwood_1_1Buffer_3_01double_01_4.html#aa7e7382995637f4e984eae2820e9df61":[2,0,5,11,0],
 "classpossumwood_1_1Buffer_3_01float_01_4.html":[2,0,5,12],
 "classpossumwood_1_1Buffer_3_01float_01_4.html#a0b254ed6c3c0cb9557dd0bc6e91f8c78":[2,0,5,12,0],
-"classpossumwood_1_1Buffer_3_01int_01_4.html":[2,0,5,13],
-"classpossumwood_1_1Buffer_3_01int_01_4.html#a2e67d499671e759af314922e1c35bc42":[2,0,5,13,0],
-"classpossumwood_1_1CGALBuilder.html":[2,0,5,16],
-"classpossumwood_1_1CGALBuilder.html#a4131849be165402ef38945cad7f6283c":[2,0,5,16,1],
-"classpossumwood_1_1CGALBuilder.html#a7f10d139f423c0dacd5bfab7e458d12f":[2,0,5,16,2],
-"classpossumwood_1_1CGALBuilder.html#ab71c46f1a5fb2027d506e193bf289ecf":[2,0,5,16,0],
-"classpossumwood_1_1CGALBuilder.html#afd0fc35d246ebcc790a234921785669c":[2,0,5,16,3],
-"classpossumwood_1_1CGALVertex.html":[2,0,5,20],
-"classpossumwood_1_1CGALVertex.html#a2f2781c66e760f9d0451d24cf015c126":[2,0,5,20,6]
+"classpossumwood_1_1Buffer_3_01int_01_4.html":[2,0,5,13]
 };

@@ -12,6 +12,6 @@ var searchData=
   ['lexicalcasthelper_3c_20std_3a_3astring_2c_20std_3a_3avector_3c_20t_20_3e_20_3e',['LexicalCastHelper&lt; std::string, std::vector&lt; T &gt; &gt;',['../structanim_1_1LexicalCastHelper_3_01std_1_1string_00_01std_1_1vector_3_01T_01_4_01_4.html',1,'anim']]],
   ['lightfieldvignetting',['LightfieldVignetting',['../classpossumwood_1_1opencv_1_1LightfieldVignetting.html',1,'possumwood::opencv']]],
   ['lineartransition',['LinearTransition',['../classanim_1_1filter_1_1LinearTransition.html',1,'anim::filter']]],
-  ['link',['Link',['../classlightfields_1_1Link.html',1,'lightfields::Link'],['../structpossumwood_1_1actions_1_1detail_1_1Link.html',1,'possumwood::actions::detail::Link']]],
+  ['link',['Link',['../structpossumwood_1_1actions_1_1detail_1_1Link.html',1,'possumwood::actions::detail::Link'],['../classlightfields_1_1Link.html',1,'lightfields::Link']]],
   ['localangle',['LocalAngle',['../classanim_1_1metric_1_1LocalAngle.html',1,'anim::metric']]]
 ];

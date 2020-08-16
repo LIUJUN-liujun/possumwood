@@ -1,0 +1,26 @@
+<map id="src/apps/possumwood/node_menu.h" name="src/apps/possumwood/node_menu.h">
+<area shape="rect" id="node6" href="$metadata__register_8h.html" title="dependency_graph/metadata\l_register.h" alt="" coords="681,393,893,435"/>
+<area shape="rect" id="node27" href="$adaptor_8h.html" title="adaptor.h" alt="" coords="1993,95,2076,121"/>
+<area shape="rect" id="node7" href="$dependency__graph_2metadata_8h.html" title="metadata.h" alt="" coords="1229,483,1326,509"/>
+<area shape="rect" id="node15" href="$libs_2dependency__graph_2state_8h.html" title="state.h" alt="" coords="469,565,536,591"/>
+<area shape="rect" id="node17" href="$data_8h.html" title="data.h" alt="" coords="1325,647,1387,673"/>
+<area shape="rect" id="node24" href="$attr_8h.html" title="attr.h" alt="" coords="1452,565,1508,591"/>
+<area shape="rect" id="node26" href="$unique__id_8h.html" title="unique_id.h" alt="" coords="297,565,394,591"/>
+<area shape="rect" id="node23" href="$data__traits_8h.html" title="data_traits.h" alt="" coords="1215,721,1319,748"/>
+<area shape="rect" id="node31" href="$drawable_8h.html" title="possumwood_sdk/drawable.h" alt="" coords="255,244,470,271"/>
+<area shape="rect" id="node35" href="$possumwood__sdk_2index_8h.html" title="possumwood_sdk/index.h" alt="" coords="475,169,666,196"/>
+<area shape="rect" id="node38" href="$dependency__graph_2graph_8h.html" title="dependency_graph/graph.h" alt="" coords="1582,169,1781,196"/>
+<area shape="rect" id="node42" href="$selection_8h.html" title="dependency_graph/selection.h" alt="" coords="1286,319,1506,345"/>
+<area shape="rect" id="node43" href="$graph__widget_8h.html" title="qt_node_editor/graph\l_widget.h" alt="" coords="2016,393,2176,435"/>
+<area shape="rect" id="node46" href="$path__widget_8h.html" title="path_widget.h" alt="" coords="2337,169,2452,196"/>
+<area shape="rect" id="node49" href="$tree__widget_8h.html" title="tree_widget.h" alt="" coords="1979,244,2090,271"/>
+<area shape="rect" id="node32" href="$dependency__graph_2values_8h.html" title="dependency_graph/values.h" alt="" coords="289,319,493,345"/>
+<area shape="rect" id="node34" href="$viewport__state_8h.html" title="viewport_state.h" alt="" coords="517,319,648,345"/>
+<area shape="rect" id="node33" href="$dependency__graph_2node_8h.html" title="node.h" alt="" coords="1512,401,1579,427"/>
+<area shape="rect" id="node36" href="$node__data_8h.html" title="actions/node_data.h" alt="" coords="494,244,647,271"/>
+<area shape="rect" id="node37" href="$qt__node__editor_2node_8h.html" title="qt_node_editor/node.h" alt="" coords="561,565,727,591"/>
+<area shape="rect" id="node39" href="$dependency__graph_2nodes_8h.html" title="nodes.h" alt="" coords="1582,319,1655,345"/>
+<area shape="rect" id="node40" href="$dependency__graph_2connections_8h.html" title="connections.h" alt="" coords="967,401,1079,427"/>
+<area shape="rect" id="node41" href="$network_8h.html" title="network.h" alt="" coords="1419,244,1506,271"/>
+<area shape="rect" id="node45" href="$graph__scene_8h.html" title="graph_scene.h" alt="" coords="1975,483,2091,509"/>
+</map>
