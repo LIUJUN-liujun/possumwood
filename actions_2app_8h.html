@@ -86,32 +86,35 @@ $(document).ready(function(){initNavTree('actions_2app_8h.html','');});
 <div class="title">app.h File Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &lt;boost/noncopyable.hpp&gt;</code><br />
-<code>#include &lt;boost/filesystem/path.hpp&gt;</code><br />
+<div class="textblock"><code>#include &lt;boost/filesystem/path.hpp&gt;</code><br />
+<code>#include &lt;boost/noncopyable.hpp&gt;</code><br />
 <code>#include &lt;boost/signals2.hpp&gt;</code><br />
 <code>#include &lt;<a class="el" href="dependency__graph_2graph_8h_source.html">dependency_graph/graph.h</a>&gt;</code><br />
+<code>#include &quot;<a class="el" href="filesystem_8h_source.html">filesystem.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="undo__stack_8h_source.html">undo_stack.h</a>&quot;</code><br />
 </div><div class="textblock"><div class="dynheader">
 Include dependency graph for app.h:</div>
 <div class="dyncontent">
 <div class="center"><img src="actions_2app_8h__incl.png" border="0" usemap="#src_2libs_2actions_2app_8h" alt=""/></div>
 <map name="src_2libs_2actions_2app_8h" id="src_2libs_2actions_2app_8h">
-<area shape="rect" id="node5" href="dependency__graph_2graph_8h.html" title="dependency_graph/graph.h" alt="" coords="1751,80,1950,107"/>
-<area shape="rect" id="node41" href="undo__stack_8h.html" title="undo_stack.h" alt="" coords="1990,557,2098,584"/>
-<area shape="rect" id="node8" href="dependency__graph_2node_8h.html" title="node.h" alt="" coords="1817,304,1884,331"/>
-<area shape="rect" id="node34" href="dependency__graph_2nodes_8h.html" title="nodes.h" alt="" coords="517,229,590,256"/>
-<area shape="rect" id="node38" href="dependency__graph_2connections_8h.html" title="connections.h" alt="" coords="828,386,940,413"/>
-<area shape="rect" id="node40" href="network_8h.html" title="network.h" alt="" coords="841,155,927,181"/>
-<area shape="rect" id="node10" href="node__base_8h.html" title="node_base.h" alt="" coords="1455,386,1559,413"/>
-<area shape="rect" id="node23" href="dependency__graph_2metadata_8h.html" title="metadata.h" alt="" coords="1181,557,1278,584"/>
-<area shape="rect" id="node29" href="attr_8h.html" title="attr.h" alt="" coords="2040,639,2096,666"/>
-<area shape="rect" id="node32" href="dependency__graph_2port_8h.html" title="port.h" alt="" coords="1937,386,1997,413"/>
-<area shape="rect" id="node13" href="data_8h.html" title="data.h" alt="" coords="1269,721,1331,748"/>
-<area shape="rect" id="node19" href="libs_2dependency__graph_2state_8h.html" title="state.h" alt="" coords="1645,639,1712,666"/>
-<area shape="rect" id="node21" href="unique__id_8h.html" title="unique_id.h" alt="" coords="651,639,749,666"/>
-<area shape="rect" id="node31" href="datablock_8h.html" title="datablock.h" alt="" coords="1457,475,1556,502"/>
-<area shape="rect" id="node18" href="data__traits_8h.html" title="data_traits.h" alt="" coords="1060,796,1164,823"/>
-<area shape="rect" id="node35" href="nodes__iterator_8h.html" title="nodes_iterator.h" alt="" coords="313,304,439,331"/>
+<area shape="rect" id="node5" href="dependency__graph_2graph_8h.html" title="dependency_graph/graph.h" alt="" coords="1550,80,1749,107"/>
+<area shape="rect" id="node41" href="filesystem_8h.html" title="filesystem.h" alt="" coords="142,80,245,107"/>
+<area shape="rect" id="node43" href="undo__stack_8h.html" title="undo_stack.h" alt="" coords="2075,557,2183,584"/>
+<area shape="rect" id="node8" href="dependency__graph_2node_8h.html" title="node.h" alt="" coords="1687,304,1753,331"/>
+<area shape="rect" id="node34" href="dependency__graph_2nodes_8h.html" title="nodes.h" alt="" coords="809,229,882,256"/>
+<area shape="rect" id="node38" href="dependency__graph_2connections_8h.html" title="connections.h" alt="" coords="1116,386,1228,413"/>
+<area shape="rect" id="node40" href="network_8h.html" title="network.h" alt="" coords="686,155,773,181"/>
+<area shape="rect" id="node10" href="node__base_8h.html" title="node_base.h" alt="" coords="712,386,816,413"/>
+<area shape="rect" id="node23" href="dependency__graph_2metadata_8h.html" title="metadata.h" alt="" coords="1311,557,1409,584"/>
+<area shape="rect" id="node29" href="attr_8h.html" title="attr.h" alt="" coords="1696,639,1752,666"/>
+<area shape="rect" id="node32" href="dependency__graph_2port_8h.html" title="port.h" alt="" coords="1881,386,1941,413"/>
+<area shape="rect" id="node13" href="data_8h.html" title="data.h" alt="" coords="347,721,410,748"/>
+<area shape="rect" id="node19" href="libs_2dependency__graph_2state_8h.html" title="state.h" alt="" coords="1776,639,1843,666"/>
+<area shape="rect" id="node21" href="unique__id_8h.html" title="unique_id.h" alt="" coords="550,639,647,666"/>
+<area shape="rect" id="node31" href="datablock_8h.html" title="datablock.h" alt="" coords="463,475,561,502"/>
+<area shape="rect" id="node18" href="data__traits_8h.html" title="data_traits.h" alt="" coords="476,796,580,823"/>
+<area shape="rect" id="node35" href="nodes__iterator_8h.html" title="nodes_iterator.h" alt="" coords="401,304,527,331"/>
+<area shape="rect" id="node42" href="filepath_8h.html" title="filepath.h" alt="" coords="152,155,235,181"/>
 </map>
 </div>
 </div><div class="textblock"><div class="dynheader">
@@ -119,15 +122,15 @@ This graph shows which files directly or indirectly include this file:</div>
 <div class="dyncontent">
 <div class="center"><img src="actions_2app_8h__dep__incl.png" border="0" usemap="#src_2libs_2actions_2app_8hdep" alt=""/></div>
 <map name="src_2libs_2actions_2app_8hdep" id="src_2libs_2actions_2app_8hdep">
-<area shape="rect" id="node2" href="libs_2actions_2actions_8cpp.html" title="src/libs/actions/actions.cpp" alt="" coords="2429,87,2626,114"/>
-<area shape="rect" id="node3" href="actions_2app_8cpp.html" title="src/libs/actions/app.cpp" alt="" coords="2651,87,2825,114"/>
-<area shape="rect" id="node4" href="actions_2detail_2nodes_8cpp.html" title="src/libs/actions/detail\l/nodes.cpp" alt="" coords="2850,80,3010,121"/>
-<area shape="rect" id="node5" href="libs_2actions_2detail_2tools_8cpp.html" title="src/libs/actions/detail\l/tools.cpp" alt="" coords="3034,80,3194,121"/>
-<area shape="rect" id="node6" href="actions_2detail_2values_8cpp.html" title="src/libs/actions/detail\l/values.cpp" alt="" coords="3218,80,3378,121"/>
-<area shape="rect" id="node7" href="possumwood__sdk_2app_8h.html" title="src/libs/possumwood\l_sdk/app.h" alt="" coords="3403,80,3561,121"/>
-<area shape="rect" id="node48" href="nested_8cpp.html" title="src/tests/possumwood\l/nested.cpp" alt="" coords="3585,80,3752,121"/>
-<area shape="rect" id="node49" href="subnetwork__connections_8cpp.html" title="src/tests/possumwood\l/subnetwork_connections.cpp" alt="" coords="3776,80,3991,121"/>
-<area shape="rect" id="node50" href="subnetwork__evaluation_8cpp.html" title="src/tests/possumwood\l/subnetwork_evaluation.cpp" alt="" coords="4015,80,4221,121"/>
+<area shape="rect" id="node2" href="libs_2actions_2actions_8cpp.html" title="src/libs/actions/actions.cpp" alt="" coords="2459,87,2657,114"/>
+<area shape="rect" id="node3" href="actions_2app_8cpp.html" title="src/libs/actions/app.cpp" alt="" coords="2681,87,2856,114"/>
+<area shape="rect" id="node4" href="actions_2detail_2nodes_8cpp.html" title="src/libs/actions/detail\l/nodes.cpp" alt="" coords="2881,80,3041,121"/>
+<area shape="rect" id="node5" href="libs_2actions_2detail_2tools_8cpp.html" title="src/libs/actions/detail\l/tools.cpp" alt="" coords="3065,80,3225,121"/>
+<area shape="rect" id="node6" href="actions_2detail_2values_8cpp.html" title="src/libs/actions/detail\l/values.cpp" alt="" coords="3249,80,3409,121"/>
+<area shape="rect" id="node7" href="possumwood__sdk_2app_8h.html" title="src/libs/possumwood\l_sdk/app.h" alt="" coords="3433,80,3592,121"/>
+<area shape="rect" id="node48" href="nested_8cpp.html" title="src/tests/possumwood\l/nested.cpp" alt="" coords="3616,80,3783,121"/>
+<area shape="rect" id="node49" href="subnetwork__connections_8cpp.html" title="src/tests/possumwood\l/subnetwork_connections.cpp" alt="" coords="3807,80,4021,121"/>
+<area shape="rect" id="node50" href="subnetwork__evaluation_8cpp.html" title="src/tests/possumwood\l/subnetwork_evaluation.cpp" alt="" coords="4046,80,4251,121"/>
 <area shape="rect" id="node8" href="apps_2common_8cpp.html" title="src/apps/common.cpp" alt="" coords="5,184,169,211"/>
 <area shape="rect" id="node9" href="adaptor_8cpp.html" title="src/apps/possumwood\l/adaptor.cpp" alt="" coords="193,177,360,218"/>
 <area shape="rect" id="node10" href="apps_2possumwood_2main_8cpp.html" title="src/apps/possumwood\l/main.cpp" alt="" coords="280,273,447,315"/>
@@ -139,35 +142,35 @@ This graph shows which files directly or indirectly include this file:</div>
 <area shape="rect" id="node16" href="timeline__widget_8cpp.html" title="src/apps/possumwood\l/timeline_widget.cpp" alt="" coords="1111,177,1277,218"/>
 <area shape="rect" id="node17" href="apps_2possumwood__cli_2main_8cpp.html" title="src/apps/possumwood\l_cli/main.cpp" alt="" coords="1301,177,1468,218"/>
 <area shape="rect" id="node18" href="render__context_8cpp.html" title="src/apps/possumwood\l_cli/render_context.cpp" alt="" coords="1493,177,1666,218"/>
-<area shape="rect" id="node19" href="possumwood__sdk_2app_8cpp.html" title="src/libs/possumwood\l_sdk/app.cpp" alt="" coords="1691,177,1849,218"/>
-<area shape="rect" id="node20" href="datatypes_2filename_8cpp.html" title="src/libs/possumwood\l_sdk/datatypes/filename.cpp" alt="" coords="1873,177,2083,218"/>
-<area shape="rect" id="node21" href="datatypes_2filenames_8cpp.html" title="src/libs/possumwood\l_sdk/datatypes/filenames.cpp" alt="" coords="2107,177,2323,218"/>
-<area shape="rect" id="node22" href="libs_2possumwood__sdk_2nodes_2frame_8cpp.html" title="src/libs/possumwood\l_sdk/nodes/frame.cpp" alt="" coords="2347,177,2513,218"/>
-<area shape="rect" id="node23" href="input_8cpp.html" title="src/libs/possumwood\l_sdk/nodes/input.cpp" alt="" coords="2537,177,2696,218"/>
-<area shape="rect" id="node24" href="output_8cpp.html" title="src/libs/possumwood\l_sdk/nodes/output.cpp" alt="" coords="2721,177,2889,218"/>
-<area shape="rect" id="node25" href="time_8cpp.html" title="src/libs/possumwood\l_sdk/nodes/time.cpp" alt="" coords="2913,177,3072,218"/>
-<area shape="rect" id="node26" href="libs_2possumwood__sdk_2properties_2property_8h.html" title="src/libs/possumwood\l_sdk/properties/property.h" alt="" coords="3096,177,3287,218"/>
-<area shape="rect" id="node27" href="ui_2filename_8cpp.html" title="src/libs/possumwood\l_sdk/ui/filename.cpp" alt="" coords="3311,177,3469,218"/>
-<area shape="rect" id="node28" href="ui_2filenames_8cpp.html" title="src/libs/possumwood\l_sdk/ui/filenames.cpp" alt="" coords="3494,177,3657,218"/>
-<area shape="rect" id="node29" href="string_8cpp.html" title="src/libs/possumwood\l_sdk/ui/string.cpp" alt="" coords="3681,177,3840,218"/>
-<area shape="rect" id="node30" href="detect__stationary_8cpp.html" title="src/plugins/anim/nodes\l/animation/constraints\l/detect_stationary.cpp" alt="" coords="3864,169,4036,225"/>
-<area shape="rect" id="node31" href="animation_2constraints_2display_8cpp.html" title="src/plugins/anim/nodes\l/animation/constraints\l/display.cpp" alt="" coords="4060,169,4232,225"/>
-<area shape="rect" id="node32" href="filter__median_8cpp.html" title="src/plugins/anim/nodes\l/animation/constraints\l/filter_median.cpp" alt="" coords="4256,169,4428,225"/>
-<area shape="rect" id="node33" href="animation_2constraints_2from__animation_8cpp.html" title="src/plugins/anim/nodes\l/animation/constraints\l/from_animation.cpp" alt="" coords="4452,169,4624,225"/>
-<area shape="rect" id="node34" href="create_8cpp.html" title="src/plugins/anim/nodes\l/animation/motiongraph\l/create.cpp" alt="" coords="4649,169,4827,225"/>
-<area shape="rect" id="node35" href="random__walk_8cpp.html" title="src/plugins/anim/nodes\l/animation/motiongraph\l/random_walk.cpp" alt="" coords="4851,169,5030,225"/>
-<area shape="rect" id="node36" href="periodic_8cpp.html" title="src/plugins/anim/nodes\l/animation/periodic.cpp" alt="" coords="5055,177,5229,218"/>
-<area shape="rect" id="node37" href="y__project_8cpp.html" title="src/plugins/anim/nodes\l/animation/trajectory\l/y_project.cpp" alt="" coords="5253,169,5425,225"/>
-<area shape="rect" id="node38" href="transition_8cpp.html" title="src/plugins/anim/nodes\l/animation/transition.cpp" alt="" coords="5449,177,5635,218"/>
-<area shape="rect" id="node39" href="frame_2display_8cpp.html" title="src/plugins/anim/nodes\l/frame/display.cpp" alt="" coords="5659,177,5831,218"/>
-<area shape="rect" id="node40" href="frame_2from__animation_8cpp.html" title="src/plugins/anim/nodes\l/frame/from_animation.cpp" alt="" coords="5855,177,6055,218"/>
-<area shape="rect" id="node41" href="mesh_2display_8cpp.html" title="src/plugins/anim/nodes\l/mesh/display.cpp" alt="" coords="6080,177,6252,218"/>
-<area shape="rect" id="node42" href="cube_8cpp.html" title="src/plugins/maths/nodes\l/cube.cpp" alt="" coords="6276,177,6456,218"/>
-<area shape="rect" id="node43" href="ui_2interval_8cpp.html" title="src/plugins/maths/ui\l/interval.cpp" alt="" coords="6480,177,6633,218"/>
-<area shape="rect" id="node44" href="normal_8cpp.html" title="src/plugins/opencv\l/nodes/random/normal.cpp" alt="" coords="6657,177,6853,218"/>
-<area shape="rect" id="node45" href="uniform_8cpp.html" title="src/plugins/opencv\l/nodes/random/uniform.cpp" alt="" coords="6877,177,7079,218"/>
-<area shape="rect" id="node46" href="opencv_2nodes_2texture_8cpp.html" title="src/plugins/opencv\l/nodes/texture.cpp" alt="" coords="7103,177,7245,218"/>
-<area shape="rect" id="node47" href="texture__sequence_8cpp.html" title="src/plugins/opencv\l/nodes/texture_sequence.cpp" alt="" coords="7269,177,7481,218"/>
+<area shape="rect" id="node19" href="filepath_8cpp.html" title="src/libs/actions/filepath.cpp" alt="" coords="1691,184,1889,211"/>
+<area shape="rect" id="node20" href="possumwood__sdk_2app_8cpp.html" title="src/libs/possumwood\l_sdk/app.cpp" alt="" coords="1913,177,2072,218"/>
+<area shape="rect" id="node21" href="datatypes_2filename_8cpp.html" title="src/libs/possumwood\l_sdk/datatypes/filename.cpp" alt="" coords="2096,177,2305,218"/>
+<area shape="rect" id="node22" href="datatypes_2filenames_8cpp.html" title="src/libs/possumwood\l_sdk/datatypes/filenames.cpp" alt="" coords="2330,177,2546,218"/>
+<area shape="rect" id="node23" href="libs_2possumwood__sdk_2nodes_2frame_8cpp.html" title="src/libs/possumwood\l_sdk/nodes/frame.cpp" alt="" coords="2570,177,2735,218"/>
+<area shape="rect" id="node24" href="input_8cpp.html" title="src/libs/possumwood\l_sdk/nodes/input.cpp" alt="" coords="2760,177,2919,218"/>
+<area shape="rect" id="node25" href="output_8cpp.html" title="src/libs/possumwood\l_sdk/nodes/output.cpp" alt="" coords="2943,177,3111,218"/>
+<area shape="rect" id="node26" href="time_8cpp.html" title="src/libs/possumwood\l_sdk/nodes/time.cpp" alt="" coords="3136,177,3295,218"/>
+<area shape="rect" id="node27" href="libs_2possumwood__sdk_2properties_2property_8h.html" title="src/libs/possumwood\l_sdk/properties/property.h" alt="" coords="3319,177,3509,218"/>
+<area shape="rect" id="node28" href="ui_2filename_8cpp.html" title="src/libs/possumwood\l_sdk/ui/filename.cpp" alt="" coords="3533,177,3692,218"/>
+<area shape="rect" id="node29" href="ui_2filenames_8cpp.html" title="src/libs/possumwood\l_sdk/ui/filenames.cpp" alt="" coords="3717,177,3879,218"/>
+<area shape="rect" id="node30" href="string_8cpp.html" title="src/libs/possumwood\l_sdk/ui/string.cpp" alt="" coords="3904,177,4063,218"/>
+<area shape="rect" id="node31" href="detect__stationary_8cpp.html" title="src/plugins/anim/nodes\l/animation/constraints\l/detect_stationary.cpp" alt="" coords="4087,169,4259,225"/>
+<area shape="rect" id="node32" href="animation_2constraints_2display_8cpp.html" title="src/plugins/anim/nodes\l/animation/constraints\l/display.cpp" alt="" coords="4283,169,4455,225"/>
+<area shape="rect" id="node33" href="filter__median_8cpp.html" title="src/plugins/anim/nodes\l/animation/constraints\l/filter_median.cpp" alt="" coords="4479,169,4651,225"/>
+<area shape="rect" id="node34" href="animation_2constraints_2from__animation_8cpp.html" title="src/plugins/anim/nodes\l/animation/constraints\l/from_animation.cpp" alt="" coords="4675,169,4847,225"/>
+<area shape="rect" id="node35" href="create_8cpp.html" title="src/plugins/anim/nodes\l/animation/motiongraph\l/create.cpp" alt="" coords="4871,169,5050,225"/>
+<area shape="rect" id="node36" href="random__walk_8cpp.html" title="src/plugins/anim/nodes\l/animation/motiongraph\l/random_walk.cpp" alt="" coords="5074,169,5253,225"/>
+<area shape="rect" id="node37" href="periodic_8cpp.html" title="src/plugins/anim/nodes\l/animation/periodic.cpp" alt="" coords="5277,177,5452,218"/>
+<area shape="rect" id="node38" href="y__project_8cpp.html" title="src/plugins/anim/nodes\l/animation/trajectory\l/y_project.cpp" alt="" coords="5476,169,5648,225"/>
+<area shape="rect" id="node39" href="transition_8cpp.html" title="src/plugins/anim/nodes\l/animation/transition.cpp" alt="" coords="5672,177,5857,218"/>
+<area shape="rect" id="node40" href="frame_2display_8cpp.html" title="src/plugins/anim/nodes\l/frame/display.cpp" alt="" coords="5881,177,6053,218"/>
+<area shape="rect" id="node41" href="frame_2from__animation_8cpp.html" title="src/plugins/anim/nodes\l/frame/from_animation.cpp" alt="" coords="6078,177,6278,218"/>
+<area shape="rect" id="node42" href="mesh_2display_8cpp.html" title="src/plugins/anim/nodes\l/mesh/display.cpp" alt="" coords="6303,177,6475,218"/>
+<area shape="rect" id="node43" href="cube_8cpp.html" title="src/plugins/maths/nodes\l/cube.cpp" alt="" coords="6499,177,6679,218"/>
+<area shape="rect" id="node44" href="ui_2interval_8cpp.html" title="src/plugins/maths/ui\l/interval.cpp" alt="" coords="6703,177,6856,218"/>
+<area shape="rect" id="node45" href="normal_8cpp.html" title="src/plugins/opencv\l/nodes/random/normal.cpp" alt="" coords="6880,177,7076,218"/>
+<area shape="rect" id="node46" href="uniform_8cpp.html" title="src/plugins/opencv\l/nodes/random/uniform.cpp" alt="" coords="7100,177,7301,218"/>
+<area shape="rect" id="node47" href="opencv_2nodes_2texture_8cpp.html" title="src/plugins/opencv\l/nodes/texture.cpp" alt="" coords="7325,177,7468,218"/>
 </map>
 </div>
 </div>
@@ -189,7 +192,7 @@ Namespaces</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="dir_68267d1309a1af8e8297ef4c3efbcdba.html">src</a></li><li class="navelem"><a class="el" href="dir_87a455bccb09a92130c26a11a880c98a.html">libs</a></li><li class="navelem"><a class="el" href="dir_39f6e4dc4b8664433288beae21406efc.html">actions</a></li><li class="navelem"><a class="el" href="actions_2app_8h.html">app.h</a></li>
-    <li class="footer">Generated on Sun Aug 16 2020 16:18:00 for possumwood by
+    <li class="footer">Generated on Thu Aug 27 2020 18:59:37 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.13 </li>
   </ul>

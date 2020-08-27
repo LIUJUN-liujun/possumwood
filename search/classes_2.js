@@ -15,7 +15,7 @@ var searchData=
   ['children',['Children',['../classanim_1_1Children.html',1,'anim']]],
   ['clipboard',['Clipboard',['../classpossumwood_1_1Clipboard.html',1,'possumwood']]],
   ['colours',['Colours',['../classpossumwood_1_1Colours.html',1,'possumwood']]],
-  ['compare',['Compare',['../structdependency__graph_1_1Nodes_1_1Compare.html',1,'dependency_graph::Nodes::Compare'],['../structdependency__graph_1_1MetadataRegister_1_1Compare.html',1,'dependency_graph::MetadataRegister::Compare'],['../structpossumwood_1_1polymesh_1_1GenericBase_1_1Handles_1_1Compare.html',1,'possumwood::polymesh::GenericBase::Handles::Compare']]],
+  ['compare',['Compare',['../structdependency__graph_1_1MetadataRegister_1_1Compare.html',1,'dependency_graph::MetadataRegister::Compare'],['../structdependency__graph_1_1Nodes_1_1Compare.html',1,'dependency_graph::Nodes::Compare'],['../structpossumwood_1_1polymesh_1_1GenericBase_1_1Handles_1_1Compare.html',1,'possumwood::polymesh::GenericBase::Handles::Compare']]],
   ['config',['Config',['../classpossumwood_1_1Config.html',1,'possumwood']]],
   ['configdialog',['ConfigDialog',['../classConfigDialog.html',1,'']]],
   ['conjunction',['conjunction',['../structpossumwood_1_1io_1_1detail_1_1conjunction.html',1,'possumwood::io::detail']]],
