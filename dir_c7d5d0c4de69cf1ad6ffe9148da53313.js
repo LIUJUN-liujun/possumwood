@@ -33,6 +33,10 @@ var dir_c7d5d0c4de69cf1ad6ffe9148da53313 =
     [ "main_window.h", "main__window_8h.html", [
       [ "MainWindow", "classMainWindow.html", "classMainWindow" ]
     ] ],
+    [ "node_menu.cpp", "node__menu_8cpp.html", null ],
+    [ "node_menu.h", "node__menu_8h.html", [
+      [ "NodeMenu", "classNodeMenu.html", "classNodeMenu" ]
+    ] ],
     [ "path_widget.cpp", "path__widget_8cpp.html", null ],
     [ "path_widget.h", "path__widget_8h.html", [
       [ "PathWidget", "classPathWidget.html", "classPathWidget" ],

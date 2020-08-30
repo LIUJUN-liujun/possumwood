@@ -11,6 +11,7 @@ var classAdaptor =
     [ "graph", "classAdaptor.html#ad9101caff9d30030dcc950f9d456f6fc", null ],
     [ "graphWidget", "classAdaptor.html#abe4df5967289b4474e2363326f90bfad", null ],
     [ "index", "classAdaptor.html#ae0482a6dc11127c863f1734d76c8759a", null ],
+    [ "isReadOnly", "classAdaptor.html#ae28bf2cd682fae6dc43b71131bd9ee5a", null ],
     [ "mapToScene", "classAdaptor.html#a101bc3474a7eba9ff8bda8ba250f9d87", null ],
     [ "onAddNode", "classAdaptor.html#ad61077e2cb76d91762d11b9238417d4c", null ],
     [ "onBlindDataChanged", "classAdaptor.html#a985c2b8a961cd6fb02a87ed1327baf0d", null ],

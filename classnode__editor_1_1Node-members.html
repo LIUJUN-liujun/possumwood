@@ -88,6 +88,8 @@ $(document).ready(function(){initNavTree('classnode__editor_1_1Node.html','');})
 <table class="directory">
   <tr class="even"><td class="entry"><a class="el" href="classnode__editor_1_1Node.html#a9b1bc8065a17a611f8f9f31cdceb0fb1">addPort</a>(const PortDefinition &amp;def)</td><td class="entry"><a class="el" href="classnode__editor_1_1Node.html">node_editor::Node</a></td><td class="entry"></td></tr>
   <tr><td class="entry"><a class="el" href="classnode__editor_1_1Node.html#aa086974343be84cc9dc5a1972df6186b">boundingRect</a>() const override</td><td class="entry"><a class="el" href="classnode__editor_1_1Node.html">node_editor::Node</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="classnode__editor_1_1Node.html#a1f1f5438d09457274e9f71ade113dd16">color</a>() const</td><td class="entry"><a class="el" href="classnode__editor_1_1Node.html">node_editor::Node</a></td><td class="entry"></td></tr>
+  <tr><td class="entry"><a class="el" href="classnode__editor_1_1Node.html#aff700d161d54a3b8b09acfb7e8f97e04">isReadOnly</a>() const</td><td class="entry"><a class="el" href="classnode__editor_1_1Node.html">node_editor::Node</a></td><td class="entry"></td></tr>
   <tr class="even"><td class="entry"><a class="el" href="classnode__editor_1_1Node.html#aa7b04856920858f8baddedd8627afd35">itemChange</a>(GraphicsItemChange change, const QVariant &amp;value) override</td><td class="entry"><a class="el" href="classnode__editor_1_1Node.html">node_editor::Node</a></td><td class="entry"><span class="mlabel">protected</span><span class="mlabel">virtual</span></td></tr>
   <tr><td class="entry"><a class="el" href="classnode__editor_1_1Node.html#a34b6a04a0eb552d7f9bcd55aa92f4ca4a190d3749aa15f47831ffe5e12822b6aa">kError</a> enum value</td><td class="entry"><a class="el" href="classnode__editor_1_1Node.html">node_editor::Node</a></td><td class="entry"></td></tr>
   <tr class="even"><td class="entry"><a class="el" href="classnode__editor_1_1Node.html#a34b6a04a0eb552d7f9bcd55aa92f4ca4a2125b27b5b478e11a71bc06f42f04b2a">kInfo</a> enum value</td><td class="entry"><a class="el" href="classnode__editor_1_1Node.html">node_editor::Node</a></td><td class="entry"></td></tr>
@@ -105,10 +107,12 @@ $(document).ready(function(){initNavTree('classnode__editor_1_1Node.html','');})
   <tr class="even"><td class="entry"><a class="el" href="classnode__editor_1_1Node.html#ab8f1d7cc15cb6e008e63d40758afc39b">port</a>(unsigned i)</td><td class="entry"><a class="el" href="classnode__editor_1_1Node.html">node_editor::Node</a></td><td class="entry"></td></tr>
   <tr><td class="entry"><a class="el" href="classnode__editor_1_1Node.html#a8533ca76bcb85214e06e7b1b029a94c8">portCount</a>() const</td><td class="entry"><a class="el" href="classnode__editor_1_1Node.html">node_editor::Node</a></td><td class="entry"></td></tr>
   <tr class="even"><td class="entry"><a class="el" href="classnode__editor_1_1Node.html#a6951eeb0dda1932132ac0d48f36a7749">removePort</a>(Port &amp;p)</td><td class="entry"><a class="el" href="classnode__editor_1_1Node.html">node_editor::Node</a></td><td class="entry"></td></tr>
-  <tr><td class="entry"><a class="el" href="classnode__editor_1_1Node.html#acc357f14e96f1cf4e42e39e18247b201">setName</a>(const QString &amp;name)</td><td class="entry"><a class="el" href="classnode__editor_1_1Node.html">node_editor::Node</a></td><td class="entry"></td></tr>
+  <tr><td class="entry"><a class="el" href="classnode__editor_1_1Node.html#a8be95a27c283e0e2fd218471499fa804">setColor</a>(const QColor &amp;color)</td><td class="entry"><a class="el" href="classnode__editor_1_1Node.html">node_editor::Node</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="classnode__editor_1_1Node.html#acc357f14e96f1cf4e42e39e18247b201">setName</a>(const QString &amp;name)</td><td class="entry"><a class="el" href="classnode__editor_1_1Node.html">node_editor::Node</a></td><td class="entry"></td></tr>
+  <tr><td class="entry"><a class="el" href="classnode__editor_1_1Node.html#abae3cf16524ea8a5d39c1da1741bd582">setReadOnly</a>(bool ro)</td><td class="entry"><a class="el" href="classnode__editor_1_1Node.html">node_editor::Node</a></td><td class="entry"></td></tr>
   <tr class="even"><td class="entry"><a class="el" href="classnode__editor_1_1Node.html#aaf2afc8721796d018f309c5b940428a4">setState</a>(const State &amp;s)</td><td class="entry"><a class="el" href="classnode__editor_1_1Node.html">node_editor::Node</a></td><td class="entry"></td></tr>
-  <tr><td class="entry"><a class="el" href="classnode__editor_1_1Node.html#a34b6a04a0eb552d7f9bcd55aa92f4ca4">State</a> enum name</td><td class="entry"><a class="el" href="classnode__editor_1_1Node.html">node_editor::Node</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="classnode__editor_1_1Node.html#a22f1f15a5359d53d8e2b269c64a75ed7">state</a>() const</td><td class="entry"><a class="el" href="classnode__editor_1_1Node.html">node_editor::Node</a></td><td class="entry"></td></tr>
+  <tr><td class="entry"><a class="el" href="classnode__editor_1_1Node.html#a22f1f15a5359d53d8e2b269c64a75ed7">state</a>() const</td><td class="entry"><a class="el" href="classnode__editor_1_1Node.html">node_editor::Node</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="classnode__editor_1_1Node.html#a34b6a04a0eb552d7f9bcd55aa92f4ca4">State</a> enum name</td><td class="entry"><a class="el" href="classnode__editor_1_1Node.html">node_editor::Node</a></td><td class="entry"></td></tr>
   <tr><td class="entry"><a class="el" href="classnode__editor_1_1Node.html#ab15809a52cee2bc2f4e816c99f3202d4">updateRect</a>()</td><td class="entry"><a class="el" href="classnode__editor_1_1Node.html">node_editor::Node</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
   <tr class="even"><td class="entry"><a class="el" href="classnode__editor_1_1Node.html#a814624c79800141cc263bc75ccd31191">~Node</a>()</td><td class="entry"><a class="el" href="classnode__editor_1_1Node.html">node_editor::Node</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
 </table></div><!-- contents -->
@@ -116,7 +120,7 @@ $(document).ready(function(){initNavTree('classnode__editor_1_1Node.html','');})
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Sun Aug 30 2020 13:27:09 for possumwood by
+    <li class="footer">Generated on Sun Aug 30 2020 13:39:39 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.13 </li>
   </ul>

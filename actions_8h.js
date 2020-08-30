@@ -7,6 +7,7 @@ var actions_8h =
     [ "cut", "actions_8h.html#a18d5142acb19b72d436ee5b2ce5c8b57", null ],
     [ "disconnect", "actions_8h.html#a8efc21c35ab2c51066a08009167d558d", null ],
     [ "fromJson", "actions_8h.html#a82aa421fc890a6bb4a0c19964b7366ad", null ],
+    [ "importNetwork", "actions_8h.html#abbd66146adbe13b8fdba075f5c6dbcbf", null ],
     [ "move", "actions_8h.html#af0fde5c225e95d30604f3898dc834239", null ],
     [ "paste", "actions_8h.html#a87863d30fa938557d195a660cbeaf8b0", null ],
     [ "paste", "actions_8h.html#aeef58bef022943de1b08d7622560f8e7", null ],

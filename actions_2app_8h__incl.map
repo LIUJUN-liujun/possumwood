@@ -1,18 +1,20 @@
 <map id="src/libs/actions/app.h" name="src/libs/actions/app.h">
-<area shape="rect" id="node5" href="$dependency__graph_2graph_8h.html" title="dependency_graph/graph.h" alt="" coords="1751,80,1950,107"/>
-<area shape="rect" id="node41" href="$undo__stack_8h.html" title="undo_stack.h" alt="" coords="1990,557,2098,584"/>
-<area shape="rect" id="node8" href="$dependency__graph_2node_8h.html" title="node.h" alt="" coords="1817,304,1884,331"/>
-<area shape="rect" id="node34" href="$dependency__graph_2nodes_8h.html" title="nodes.h" alt="" coords="517,229,590,256"/>
-<area shape="rect" id="node38" href="$dependency__graph_2connections_8h.html" title="connections.h" alt="" coords="828,386,940,413"/>
-<area shape="rect" id="node40" href="$network_8h.html" title="network.h" alt="" coords="841,155,927,181"/>
-<area shape="rect" id="node10" href="$node__base_8h.html" title="node_base.h" alt="" coords="1455,386,1559,413"/>
-<area shape="rect" id="node23" href="$dependency__graph_2metadata_8h.html" title="metadata.h" alt="" coords="1181,557,1278,584"/>
-<area shape="rect" id="node29" href="$attr_8h.html" title="attr.h" alt="" coords="2040,639,2096,666"/>
-<area shape="rect" id="node32" href="$dependency__graph_2port_8h.html" title="port.h" alt="" coords="1937,386,1997,413"/>
-<area shape="rect" id="node13" href="$data_8h.html" title="data.h" alt="" coords="1269,721,1331,748"/>
-<area shape="rect" id="node19" href="$libs_2dependency__graph_2state_8h.html" title="state.h" alt="" coords="1645,639,1712,666"/>
-<area shape="rect" id="node21" href="$unique__id_8h.html" title="unique_id.h" alt="" coords="651,639,749,666"/>
-<area shape="rect" id="node31" href="$datablock_8h.html" title="datablock.h" alt="" coords="1457,475,1556,502"/>
-<area shape="rect" id="node18" href="$data__traits_8h.html" title="data_traits.h" alt="" coords="1060,796,1164,823"/>
-<area shape="rect" id="node35" href="$nodes__iterator_8h.html" title="nodes_iterator.h" alt="" coords="313,304,439,331"/>
+<area shape="rect" id="node5" href="$dependency__graph_2graph_8h.html" title="dependency_graph/graph.h" alt="" coords="1550,80,1749,107"/>
+<area shape="rect" id="node41" href="$filesystem_8h.html" title="filesystem.h" alt="" coords="142,80,245,107"/>
+<area shape="rect" id="node43" href="$undo__stack_8h.html" title="undo_stack.h" alt="" coords="2075,557,2183,584"/>
+<area shape="rect" id="node8" href="$dependency__graph_2node_8h.html" title="node.h" alt="" coords="1687,304,1753,331"/>
+<area shape="rect" id="node34" href="$dependency__graph_2nodes_8h.html" title="nodes.h" alt="" coords="809,229,882,256"/>
+<area shape="rect" id="node38" href="$dependency__graph_2connections_8h.html" title="connections.h" alt="" coords="1116,386,1228,413"/>
+<area shape="rect" id="node40" href="$network_8h.html" title="network.h" alt="" coords="686,155,773,181"/>
+<area shape="rect" id="node10" href="$node__base_8h.html" title="node_base.h" alt="" coords="712,386,816,413"/>
+<area shape="rect" id="node23" href="$dependency__graph_2metadata_8h.html" title="metadata.h" alt="" coords="1311,557,1409,584"/>
+<area shape="rect" id="node29" href="$attr_8h.html" title="attr.h" alt="" coords="1696,639,1752,666"/>
+<area shape="rect" id="node32" href="$dependency__graph_2port_8h.html" title="port.h" alt="" coords="1881,386,1941,413"/>
+<area shape="rect" id="node13" href="$data_8h.html" title="data.h" alt="" coords="347,721,410,748"/>
+<area shape="rect" id="node19" href="$libs_2dependency__graph_2state_8h.html" title="state.h" alt="" coords="1776,639,1843,666"/>
+<area shape="rect" id="node21" href="$unique__id_8h.html" title="unique_id.h" alt="" coords="550,639,647,666"/>
+<area shape="rect" id="node31" href="$datablock_8h.html" title="datablock.h" alt="" coords="463,475,561,502"/>
+<area shape="rect" id="node18" href="$data__traits_8h.html" title="data_traits.h" alt="" coords="476,796,580,823"/>
+<area shape="rect" id="node35" href="$nodes__iterator_8h.html" title="nodes_iterator.h" alt="" coords="401,304,527,331"/>
+<area shape="rect" id="node42" href="$filepath_8h.html" title="filepath.h" alt="" coords="152,155,235,181"/>
 </map>

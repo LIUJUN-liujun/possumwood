@@ -39,6 +39,7 @@ var searchData=
   ['_7egraphscene',['~GraphScene',['../classnode__editor_1_1GraphScene.html#aad44ea9c1747e76d1129a05f125e6c9d',1,'node_editor::GraphScene']]],
   ['_7eholder',['~Holder',['../structdependency__graph_1_1Data_1_1Holder.html#a98349b15c7d5924e17ea095691efd303',1,'dependency_graph::Data::Holder']]],
   ['_7eholderbase',['~HolderBase',['../structpossumwood_1_1lua_1_1Variable_1_1HolderBase.html#a4739bac64f685125ea87a258fb889f65',1,'possumwood::lua::Variable::HolderBase']]],
+  ['_7eifilesystem',['~IFilesystem',['../classpossumwood_1_1IFilesystem.html#aaa75b91bf4f66fcfd3eddbed46d16436',1,'possumwood::IFilesystem']]],
   ['_7einput_5fadapter',['~input_adapter',['../classpossumwood_1_1io_1_1basic__json_1_1input__adapter.html#a893a90875bbc35700de6c092c5170d03',1,'possumwood::io::basic_json::input_adapter']]],
   ['_7einterval_5fui',['~interval_ui',['../classinterval__ui.html#ab7d660cba3218b1deccc02c91271279b',1,'interval_ui']]],
   ['_7eiobase',['~IOBase',['../classpossumwood_1_1IOBase.html#a3e1f55847240ef7e9b8c73df915ba850',1,'possumwood::IOBase']]],

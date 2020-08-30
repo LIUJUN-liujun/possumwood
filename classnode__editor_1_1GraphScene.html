@@ -137,6 +137,10 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a9f4618283fb8c5f76003e62b997f3592"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aad44ea9c1747e76d1129a05f125e6c9d"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classnode__editor_1_1GraphScene.html#aad44ea9c1747e76d1129a05f125e6c9d">~GraphScene</a> ()</td></tr>
 <tr class="separator:aad44ea9c1747e76d1129a05f125e6c9d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a428029721c4f54e2c0c8983f89dd1013"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classnode__editor_1_1GraphScene.html#a428029721c4f54e2c0c8983f89dd1013">isReadOnly</a> () const</td></tr>
+<tr class="separator:a428029721c4f54e2c0c8983f89dd1013"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5de450652c87e61584cc4b2f6d55fe8a"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classnode__editor_1_1GraphScene.html#a5de450652c87e61584cc4b2f6d55fe8a">setReadOnly</a> (bool ro)</td></tr>
+<tr class="separator:a5de450652c87e61584cc4b2f6d55fe8a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a801f9b85cdd57727b65875a55645c31d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classnode__editor_1_1Node.html">Node</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classnode__editor_1_1GraphScene.html#a801f9b85cdd57727b65875a55645c31d">node</a> (unsigned index)</td></tr>
 <tr class="separator:a801f9b85cdd57727b65875a55645c31d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a49eff304d8e1ef908d3fda4c40421792"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="classnode__editor_1_1Node.html">Node</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classnode__editor_1_1GraphScene.html#a49eff304d8e1ef908d3fda4c40421792">node</a> (unsigned index) const</td></tr>
@@ -207,6 +211,8 @@ Private Attributes</h2></td></tr>
 <tr class="separator:af0d4d4f4a5aac1fceee20f76f07b46c3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a853833818eb1fabfbd80e34690abb18f"><td class="memItemLeft" align="right" valign="top">std::set&lt; <a class="el" href="classnode__editor_1_1Node.html">Node</a> * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classnode__editor_1_1GraphScene.html#a853833818eb1fabfbd80e34690abb18f">m_movingNodes</a></td></tr>
 <tr class="separator:a853833818eb1fabfbd80e34690abb18f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae3e860f234237fa8c295348e2a722498"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classnode__editor_1_1GraphScene.html#ae3e860f234237fa8c295348e2a722498">m_readOnly</a></td></tr>
+<tr class="separator:ae3e860f234237fa8c295348e2a722498"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="friends"></a>
 Friends</h2></td></tr>
@@ -545,6 +551,23 @@ Friends</h2></td></tr>
       <table class="memname">
         <tr>
           <td class="memname">bool node_editor::GraphScene::isEdgeEditInProgress </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a428029721c4f54e2c0c8983f89dd1013"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a428029721c4f54e2c0c8983f89dd1013">&#9670;&nbsp;</a></span>isReadOnly()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool node_editor::GraphScene::isReadOnly </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td> const</td>
@@ -972,6 +995,24 @@ Friends</h2></td></tr>
 
 </div>
 </div>
+<a id="a5de450652c87e61584cc4b2f6d55fe8a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5de450652c87e61584cc4b2f6d55fe8a">&#9670;&nbsp;</a></span>setReadOnly()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void node_editor::GraphScene::setReadOnly </td>
+          <td>(</td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>ro</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <h2 class="groupheader">Friends And Related Function Documentation</h2>
 <a id="ad2c8ba04c9d9989ccbf3c5aba267a3d7"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#ad2c8ba04c9d9989ccbf3c5aba267a3d7">&#9670;&nbsp;</a></span>Edge</h2>
@@ -1150,6 +1191,28 @@ Friends</h2></td></tr>
 
 </div>
 </div>
+<a id="ae3e860f234237fa8c295348e2a722498"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae3e860f234237fa8c295348e2a722498">&#9670;&nbsp;</a></span>m_readOnly</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool node_editor::GraphScene::m_readOnly</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <hr/>The documentation for this class was generated from the following files:<ul>
 <li>src/libs/qt_node_editor/<a class="el" href="graph__scene_8h_source.html">graph_scene.h</a></li>
 <li>src/libs/qt_node_editor/<a class="el" href="graph__scene_8cpp.html">graph_scene.cpp</a></li>
@@ -1160,7 +1223,7 @@ Friends</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacenode__editor.html">node_editor</a></li><li class="navelem"><a class="el" href="classnode__editor_1_1GraphScene.html">GraphScene</a></li>
-    <li class="footer">Generated on Sun Aug 30 2020 13:27:09 for possumwood by
+    <li class="footer">Generated on Sun Aug 30 2020 13:39:39 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.13 </li>
   </ul>

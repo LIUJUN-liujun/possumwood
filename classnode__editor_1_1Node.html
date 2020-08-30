@@ -124,7 +124,7 @@ Public Types</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a7894b1d6c8036ee0724de3b70f98e1bd"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classnode__editor_1_1Node.html#a7894b1d6c8036ee0724de3b70f98e1bd">Node</a> (const QString &amp;<a class="el" href="classnode__editor_1_1Node.html#ad994a909a1d20d53cd63ae684044f44a">name</a>, const QPointF &amp;position=QPointF(0, 0), const QColor &amp;color=QColor(64, 64, 64))</td></tr>
+<tr class="memitem:a7894b1d6c8036ee0724de3b70f98e1bd"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classnode__editor_1_1Node.html#a7894b1d6c8036ee0724de3b70f98e1bd">Node</a> (const QString &amp;<a class="el" href="classnode__editor_1_1Node.html#ad994a909a1d20d53cd63ae684044f44a">name</a>, const QPointF &amp;position=QPointF(0, 0), const QColor &amp;<a class="el" href="classnode__editor_1_1Node.html#a1f1f5438d09457274e9f71ade113dd16">color</a>=QColor(64, 64, 64))</td></tr>
 <tr class="separator:a7894b1d6c8036ee0724de3b70f98e1bd"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a814624c79800141cc263bc75ccd31191"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classnode__editor_1_1Node.html#a814624c79800141cc263bc75ccd31191">~Node</a> ()</td></tr>
 <tr class="separator:a814624c79800141cc263bc75ccd31191"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -144,8 +144,16 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:aaf2afc8721796d018f309c5b940428a4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a22f1f15a5359d53d8e2b269c64a75ed7"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="classnode__editor_1_1Node.html#a34b6a04a0eb552d7f9bcd55aa92f4ca4">State</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classnode__editor_1_1Node.html#a22f1f15a5359d53d8e2b269c64a75ed7">state</a> () const</td></tr>
 <tr class="separator:a22f1f15a5359d53d8e2b269c64a75ed7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8be95a27c283e0e2fd218471499fa804"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classnode__editor_1_1Node.html#a8be95a27c283e0e2fd218471499fa804">setColor</a> (const QColor &amp;<a class="el" href="classnode__editor_1_1Node.html#a1f1f5438d09457274e9f71ade113dd16">color</a>)</td></tr>
+<tr class="separator:a8be95a27c283e0e2fd218471499fa804"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1f1f5438d09457274e9f71ade113dd16"><td class="memItemLeft" align="right" valign="top">const QColor&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classnode__editor_1_1Node.html#a1f1f5438d09457274e9f71ade113dd16">color</a> () const</td></tr>
+<tr class="separator:a1f1f5438d09457274e9f71ade113dd16"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa086974343be84cc9dc5a1972df6186b"><td class="memItemLeft" align="right" valign="top">virtual QRectF&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classnode__editor_1_1Node.html#aa086974343be84cc9dc5a1972df6186b">boundingRect</a> () const override</td></tr>
 <tr class="separator:aa086974343be84cc9dc5a1972df6186b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aff700d161d54a3b8b09acfb7e8f97e04"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classnode__editor_1_1Node.html#aff700d161d54a3b8b09acfb7e8f97e04">isReadOnly</a> () const</td></tr>
+<tr class="separator:aff700d161d54a3b8b09acfb7e8f97e04"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abae3cf16524ea8a5d39c1da1741bd582"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classnode__editor_1_1Node.html#abae3cf16524ea8a5d39c1da1741bd582">setReadOnly</a> (bool ro)</td></tr>
+<tr class="separator:abae3cf16524ea8a5d39c1da1741bd582"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pro-methods"></a>
 Protected Member Functions</h2></td></tr>
@@ -299,6 +307,40 @@ Private Attributes</h2></td></tr>
 
 </div>
 </div>
+<a id="a1f1f5438d09457274e9f71ade113dd16"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1f1f5438d09457274e9f71ade113dd16">&#9670;&nbsp;</a></span>color()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">const QColor node_editor::Node::color </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="aff700d161d54a3b8b09acfb7e8f97e04"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aff700d161d54a3b8b09acfb7e8f97e04">&#9670;&nbsp;</a></span>isReadOnly()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool node_editor::Node::isReadOnly </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a id="aa7b04856920858f8baddedd8627afd35"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#aa7b04856920858f8baddedd8627afd35">&#9670;&nbsp;</a></span>itemChange()</h2>
 
@@ -447,6 +489,24 @@ Private Attributes</h2></td></tr>
 
 </div>
 </div>
+<a id="a8be95a27c283e0e2fd218471499fa804"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8be95a27c283e0e2fd218471499fa804">&#9670;&nbsp;</a></span>setColor()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void node_editor::Node::setColor </td>
+          <td>(</td>
+          <td class="paramtype">const QColor &amp;&#160;</td>
+          <td class="paramname"><em>color</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a id="acc357f14e96f1cf4e42e39e18247b201"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#acc357f14e96f1cf4e42e39e18247b201">&#9670;&nbsp;</a></span>setName()</h2>
 
@@ -458,6 +518,24 @@ Private Attributes</h2></td></tr>
           <td>(</td>
           <td class="paramtype">const QString &amp;&#160;</td>
           <td class="paramname"><em>name</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="abae3cf16524ea8a5d39c1da1741bd582"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abae3cf16524ea8a5d39c1da1741bd582">&#9670;&nbsp;</a></span>setReadOnly()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void node_editor::Node::setReadOnly </td>
+          <td>(</td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>ro</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
@@ -668,7 +746,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacenode__editor.html">node_editor</a></li><li class="navelem"><a class="el" href="classnode__editor_1_1Node.html">Node</a></li>
-    <li class="footer">Generated on Sun Aug 30 2020 13:27:09 for possumwood by
+    <li class="footer">Generated on Sun Aug 30 2020 13:39:39 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.13 </li>
   </ul>

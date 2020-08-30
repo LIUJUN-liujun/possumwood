@@ -1,8 +1,9 @@
 var searchData=
 [
   ['main',['main',['../apps_2node__editor__sandbox_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97',1,'main(int argc, char *argv[]):&#160;main.cpp'],['../apps_2possumwood_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97',1,'main(int argc, char *argv[]):&#160;main.cpp'],['../apps_2possumwood__cli_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97',1,'main(int argc, char *argv[]):&#160;main.cpp']]],
-  ['mainwindow',['MainWindow',['../classMainWindow.html#a34c4b4207b46d11a4100c9b19f0e81bb',1,'MainWindow::MainWindow()'],['../classpossumwood_1_1App.html#a717dbab453a954a56c67800cd3034d2e',1,'possumwood::App::mainWindow()']]],
+  ['mainwindow',['mainWindow',['../classpossumwood_1_1App.html#a717dbab453a954a56c67800cd3034d2e',1,'possumwood::App::mainWindow()'],['../classMainWindow.html#a34c4b4207b46d11a4100c9b19f0e81bb',1,'MainWindow::MainWindow()']]],
   ['makeconsistentwith',['makeConsistentWith',['../classanim_1_1Skeleton.html#a6f289aa10a5810dc6f7d9f048fbaffc5',1,'anim::Skeleton']]],
+  ['makefilepath',['makeFilepath',['../classpossumwood_1_1IFilesystem.html#a8034f57115892ba4f9d605c85aed9e3c',1,'possumwood::IFilesystem']]],
   ['makepath',['makePath',['../classnode__editor_1_1Edge.html#af57c275349db0988ab3d0ed93668dac0',1,'node_editor::Edge']]],
   ['makerowoffsets',['makeRowOffsets',['../classlightfields_1_1Samples.html#a413b200b9c8ebe74c19340456c385d99',1,'lightfields::Samples']]],
   ['makevalue',['makeValue',['../classpossumwood_1_1PropertyBase.html#a0d2b93758d802915bca5ca6548a8a9b2',1,'possumwood::PropertyBase::makeValue()'],['../classpossumwood_1_1Property.html#ac28b7e141ab4bdf9c919da7cc0ecddfd',1,'possumwood::Property::makeValue()']]],

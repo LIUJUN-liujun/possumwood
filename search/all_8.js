@@ -20,7 +20,7 @@ var searchData=
   ['hierarchy',['Hierarchy',['../classanim_1_1Hierarchy.html',1,'anim::Hierarchy'],['../classanim_1_1Hierarchy_1_1Item.html#a11617a6fb68ec7260e4acfc6d2d81ca6',1,'anim::Hierarchy::Item::Hierarchy()']]],
   ['hierarchy_2ecpp',['hierarchy.cpp',['../hierarchy_8cpp.html',1,'']]],
   ['hierarchy_2eh',['hierarchy.h',['../hierarchy_8h.html',1,'']]],
-  ['holder',['Holder',['../structdependency__graph_1_1Data_1_1Holder.html',1,'dependency_graph::Data::Holder'],['../classpossumwood_1_1lua_1_1Variable_1_1Holder.html',1,'possumwood::lua::Variable::Holder&lt; T &gt;'],['../classpossumwood_1_1lua_1_1Variable_1_1Holder.html#a643b9b19dfa32a5eb57f18811cc0ee92',1,'possumwood::lua::Variable::Holder::Holder()']]],
+  ['holder',['Holder',['../classpossumwood_1_1lua_1_1Variable_1_1Holder.html',1,'possumwood::lua::Variable::Holder&lt; T &gt;'],['../structdependency__graph_1_1Data_1_1Holder.html',1,'dependency_graph::Data::Holder'],['../classpossumwood_1_1lua_1_1Variable_1_1Holder.html#a643b9b19dfa32a5eb57f18811cc0ee92',1,'possumwood::lua::Variable::Holder::Holder()']]],
   ['holderbase',['HolderBase',['../structpossumwood_1_1lua_1_1Variable_1_1HolderBase.html',1,'possumwood::lua::Variable::HolderBase'],['../structpossumwood_1_1lua_1_1Variable_1_1HolderBase.html#a8f173cf073801c7549fe8727c7aaeb1a',1,'possumwood::lua::Variable::HolderBase::HolderBase()=default'],['../structpossumwood_1_1lua_1_1Variable_1_1HolderBase.html#a3a6800e23f43b69060aa844b2aad39d1',1,'possumwood::lua::Variable::HolderBase::HolderBase(const HolderBase &amp;)=delete']]],
   ['html',['html',['../classpossumwood_1_1Description.html#a26656c5daae1485c5320704c14096c97',1,'possumwood::Description']]]
 ];

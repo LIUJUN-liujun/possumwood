@@ -15,6 +15,7 @@ var classnode__editor_1_1GraphScene =
     [ "findConnectionPort", "classnode__editor_1_1GraphScene.html#aafa996f94ca671d8f35a721f1cfa94b5", null ],
     [ "isConnected", "classnode__editor_1_1GraphScene.html#a13520b00a2694b4c07b24381d014dac2", null ],
     [ "isEdgeEditInProgress", "classnode__editor_1_1GraphScene.html#ad696f1614a2597598795e4d30d72db90", null ],
+    [ "isReadOnly", "classnode__editor_1_1GraphScene.html#a428029721c4f54e2c0c8983f89dd1013", null ],
     [ "middleClicked", "classnode__editor_1_1GraphScene.html#ab09be6df52ea923734a89bc0d27834ca", null ],
     [ "mouseDoubleClickEvent", "classnode__editor_1_1GraphScene.html#a61ee3e0a512c5f70350871d4bdf3b029", null ],
     [ "mouseMoveEvent", "classnode__editor_1_1GraphScene.html#a8092c07a0f31237ee1d304aef5bcecb0", null ],
@@ -32,6 +33,7 @@ var classnode__editor_1_1GraphScene =
     [ "removeNode", "classnode__editor_1_1GraphScene.html#adc7cff9373a8e2023933d39d5e614040", null ],
     [ "rightClicked", "classnode__editor_1_1GraphScene.html#add144fcba9f342b4945641db771d873a", null ],
     [ "selectionChanged", "classnode__editor_1_1GraphScene.html#a03cbc37a929fa157fb64eb6dae0f043b", null ],
+    [ "setReadOnly", "classnode__editor_1_1GraphScene.html#a5de450652c87e61584cc4b2f6d55fe8a", null ],
     [ "Edge", "classnode__editor_1_1GraphScene.html#ad2c8ba04c9d9989ccbf3c5aba267a3d7", null ],
     [ "Node", "classnode__editor_1_1GraphScene.html#a6db9d28bd448a131448276ee03de1e6d", null ],
     [ "m_connectedSide", "classnode__editor_1_1GraphScene.html#a8a32c2eeea2a661e99b3c4f983de860b", null ],
@@ -39,5 +41,6 @@ var classnode__editor_1_1GraphScene =
     [ "m_editedEdge", "classnode__editor_1_1GraphScene.html#a920643bd2c1071394dcdd529ff87a621", null ],
     [ "m_leftMouseDown", "classnode__editor_1_1GraphScene.html#af0d4d4f4a5aac1fceee20f76f07b46c3", null ],
     [ "m_movingNodes", "classnode__editor_1_1GraphScene.html#a853833818eb1fabfbd80e34690abb18f", null ],
-    [ "m_nodes", "classnode__editor_1_1GraphScene.html#a3f0566b29b5c34b3b7af7620da4659f2", null ]
+    [ "m_nodes", "classnode__editor_1_1GraphScene.html#a3f0566b29b5c34b3b7af7620da4659f2", null ],
+    [ "m_readOnly", "classnode__editor_1_1GraphScene.html#ae3e860f234237fa8c295348e2a722498", null ]
 ];

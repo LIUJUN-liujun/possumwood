@@ -1,3 +1,12 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$structpossumwood_1_1polymesh_1_1GenericBase_1_1Handles_1_1Compare.html" title="possumwood::polymesh\l::GenericBase::Handles\l::Compare" alt="" coords="5,5,185,61"/>
+<area shape="rect" id="node1" href="$classpossumwood_1_1polymesh_1_1GenericBase.html" title="possumwood::polymesh\l::GenericBase" alt="" coords="5,199,185,240"/>
+<area shape="rect" id="node2" href="$classpossumwood_1_1polymesh_1_1GenericContainer.html" title="possumwood::polymesh\l::GenericContainer\&lt; Index \&gt;" alt="" coords="251,5,460,47"/>
+<area shape="rect" id="node4" href="$classpossumwood_1_1polymesh_1_1GenericContainer.html" title="possumwood::polymesh\l::GenericContainer\&lt; Polygon \&gt;" alt="" coords="243,71,468,112"/>
+<area shape="rect" id="node6" href="$classpossumwood_1_1polymesh_1_1GenericContainer.html" title="possumwood::polymesh\l::GenericContainer\&lt; possumwood\l::polymesh::GenericPolymesh\l::Index \&gt;" alt="" coords="233,136,477,207"/>
+<area shape="rect" id="node7" href="$classpossumwood_1_1polymesh_1_1GenericContainer.html" title="possumwood::polymesh\l::GenericContainer\&lt; possumwood\l::polymesh::GenericPolymesh\l::Vertex \&gt;" alt="" coords="233,231,477,301"/>
+<area shape="rect" id="node8" href="$classpossumwood_1_1polymesh_1_1GenericContainer.html" title="possumwood::polymesh\l::GenericContainer\&lt; Vertex \&gt;" alt="" coords="248,325,463,367"/>
+<area shape="rect" id="node10" href="$classpossumwood_1_1polymesh_1_1GenericContainer.html" title="possumwood::polymesh\l::GenericContainer\&lt; ITEM \&gt;" alt="" coords="253,391,457,432"/>
+<area shape="rect" id="node3" href="$classpossumwood_1_1polymesh_1_1GenericPolymesh_1_1Indices.html" title="possumwood::polymesh\l::GenericPolymesh::Indices" alt="" coords="531,5,730,47"/>
+<area shape="rect" id="node5" href="$classpossumwood_1_1polymesh_1_1GenericPolymesh_1_1Polygons.html" title="possumwood::polymesh\l::GenericPolymesh::Polygons" alt="" coords="525,71,736,112"/>
+<area shape="rect" id="node9" href="$classpossumwood_1_1polymesh_1_1GenericPolymesh_1_1Vertices.html" title="possumwood::polymesh\l::GenericPolymesh::Vertices" alt="" coords="529,325,733,367"/>
 </map>

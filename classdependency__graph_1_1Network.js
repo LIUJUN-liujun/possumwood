@@ -9,8 +9,11 @@ var classdependency__graph_1_1Network =
     [ "empty", "classdependency__graph_1_1Network.html#a51eb8206ba9407381806df7fa1301070", null ],
     [ "nodes", "classdependency__graph_1_1Network.html#a5f95121d52d35ddffa6cbeafee1a6beb", null ],
     [ "nodes", "classdependency__graph_1_1Network.html#a6f1eb384a97621564b3bda3dddbdfe81", null ],
+    [ "setSource", "classdependency__graph_1_1Network.html#a77f76a806bbbbed256db78ddb3061210", null ],
+    [ "source", "classdependency__graph_1_1Network.html#aab7989261347f2f497b8c3c97b975938", null ],
     [ "Metadata", "classdependency__graph_1_1Network.html#aba8d19a917c0bff3a0ab2c135b11b0a4", null ],
     [ "Nodes", "classdependency__graph_1_1Network.html#a9f39f523a64c996048110330ed69202d", null ],
     [ "m_connections", "classdependency__graph_1_1Network.html#ac96db33f5f76f827bb99ff2affc33077", null ],
-    [ "m_nodes", "classdependency__graph_1_1Network.html#a33927478b0c8fbd735e51db05ace628e", null ]
+    [ "m_nodes", "classdependency__graph_1_1Network.html#a33927478b0c8fbd735e51db05ace628e", null ],
+    [ "m_source", "classdependency__graph_1_1Network.html#a467a8edd4b424cc022d091d1b7ad2faf", null ]
 ];
