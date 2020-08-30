@@ -1,25 +1,26 @@
 <map id="MainWindow" name="MainWindow">
-<area shape="rect" id="node3" href="$classProperties.html" title="A widget displaying properties of selected nodes. " alt="" coords="1371,272,1459,299"/>
-<area shape="rect" id="node5" href="$classAdaptor.html" title="A simple adaptor widget, marrying qt_graph_editor and dependency_graph. " alt="" coords="1378,455,1451,481"/>
-<area shape="rect" id="node9" href="$classTreeWidget.html" title="TreeWidget" alt="" coords="1628,409,1723,436"/>
-<area shape="rect" id="node7" href="$classPathWidget.html" title="PathWidget" alt="" coords="985,412,1081,439"/>
-<area shape="rect" id="node30" href="$classTimelineWidget.html" title="TimelineWidget" alt="" coords="1352,108,1477,135"/>
-<area shape="rect" id="node31" href="$classTimeline.html" title="A simple interactive Timeline widget. " alt="" coords="993,159,1072,185"/>
-<area shape="rect" id="node32" href="$classpossumwood_1_1Editor.html" title="A simple class allowing to edit a Node&#39;s values using a custom widget. " alt="" coords="1173,203,1328,229"/>
-<area shape="rect" id="node8" href="$classpossumwood_1_1Index.html" title="possumwood::Index" alt="" coords="957,576,1109,603"/>
-<area shape="rect" id="node10" href="$classdependency__graph_1_1Graph.html" title="The graph data structure &#45; holds node instances and connections. " alt="" coords="937,627,1129,653"/>
-<area shape="rect" id="node11" href="$classdependency__graph_1_1Network.html" title="dependency_graph::Network" alt="" coords="539,707,747,733"/>
-<area shape="rect" id="node12" href="$classdependency__graph_1_1NodeBase.html" title="dependency_graph::NodeBase" alt="" coords="923,944,1142,971"/>
-<area shape="rect" id="node18" href="$classdependency__graph_1_1Nodes.html" title="dependency_graph::Nodes" alt="" coords="935,677,1130,704"/>
-<area shape="rect" id="node20" href="$classdependency__graph_1_1Connections.html" title="dependency_graph::Connections" alt="" coords="916,729,1149,756"/>
-<area shape="rect" id="node13" href="$classdependency__graph_1_1Data.html" title="dependency_graph::Data" alt="" coords="551,992,735,1019"/>
-<area shape="rect" id="node14" href="$classdependency__graph_1_1UniqueId.html" title="dependency_graph::UniqueId" alt="" coords="537,1043,748,1069"/>
-<area shape="rect" id="node15" href="$classdependency__graph_1_1MetadataHandle.html" title="dependency_graph::Metadata\lHandle" alt="" coords="173,1025,388,1066"/>
-<area shape="rect" id="node16" href="$classdependency__graph_1_1Datablock.html" title="dependency_graph::Datablock" alt="" coords="533,891,752,917"/>
-<area shape="rect" id="node17" href="$classdependency__graph_1_1State.html" title="dependency_graph::State" alt="" coords="549,941,736,968"/>
-<area shape="rect" id="node27" href="$classViewport.html" title="Viewport" alt="" coords="993,51,1073,77"/>
-<area shape="rect" id="node21" href="$classnode__editor_1_1GraphWidget.html" title="a simple graph widget " alt="" coords="937,463,1129,489"/>
-<area shape="rect" id="node23" href="$classnode__editor_1_1GraphScene.html" title="node_editor::GraphScene" alt="" coords="550,420,735,447"/>
-<area shape="rect" id="node25" href="$classnode__editor_1_1Edge.html" title="node_editor::Edge" alt="" coords="211,449,350,476"/>
-<area shape="rect" id="node29" href="$classpossumwood_1_1ViewportState.html" title="possumwood::ViewportState" alt="" coords="539,56,747,83"/>
+<area shape="rect" id="node3" href="$classProperties.html" title="A widget displaying properties of selected nodes. " alt="" coords="1373,8,1461,35"/>
+<area shape="rect" id="node5" href="$classAdaptor.html" title="A simple adaptor widget, marrying qt_graph_editor and dependency_graph. " alt="" coords="1380,463,1453,489"/>
+<area shape="rect" id="node9" href="$classTreeWidget.html" title="TreeWidget" alt="" coords="1656,417,1751,444"/>
+<area shape="rect" id="node7" href="$classPathWidget.html" title="PathWidget" alt="" coords="985,364,1081,391"/>
+<area shape="rect" id="node32" href="$classTimelineWidget.html" title="TimelineWidget" alt="" coords="1354,121,1479,148"/>
+<area shape="rect" id="node33" href="$classTimeline.html" title="A simple interactive Timeline widget. " alt="" coords="993,111,1072,137"/>
+<area shape="rect" id="node34" href="$classpossumwood_1_1Editor.html" title="A simple class allowing to edit a Node&#39;s values using a custom widget. " alt="" coords="1173,203,1328,229"/>
+<area shape="rect" id="node8" href="$classpossumwood_1_1Index.html" title="possumwood::Index" alt="" coords="957,516,1109,543"/>
+<area shape="rect" id="node10" href="$classdependency__graph_1_1Graph.html" title="The graph data structure &#45; holds node instances and connections. " alt="" coords="937,567,1129,593"/>
+<area shape="rect" id="node11" href="$classdependency__graph_1_1Network.html" title="dependency_graph::Network" alt="" coords="539,755,747,781"/>
+<area shape="rect" id="node12" href="$classdependency__graph_1_1NodeBase.html" title="dependency_graph::NodeBase" alt="" coords="923,992,1142,1019"/>
+<area shape="rect" id="node18" href="$classdependency__graph_1_1Nodes.html" title="dependency_graph::Nodes" alt="" coords="935,687,1130,713"/>
+<area shape="rect" id="node20" href="$classdependency__graph_1_1Connections.html" title="dependency_graph::Connections" alt="" coords="916,777,1149,804"/>
+<area shape="rect" id="node13" href="$classdependency__graph_1_1Data.html" title="dependency_graph::Data" alt="" coords="551,1040,735,1067"/>
+<area shape="rect" id="node14" href="$classdependency__graph_1_1UniqueId.html" title="dependency_graph::UniqueId" alt="" coords="537,1091,748,1117"/>
+<area shape="rect" id="node15" href="$classdependency__graph_1_1MetadataHandle.html" title="dependency_graph::Metadata\lHandle" alt="" coords="173,1073,388,1114"/>
+<area shape="rect" id="node16" href="$classdependency__graph_1_1Datablock.html" title="dependency_graph::Datablock" alt="" coords="533,939,752,965"/>
+<area shape="rect" id="node17" href="$classdependency__graph_1_1State.html" title="dependency_graph::State" alt="" coords="549,989,736,1016"/>
+<area shape="rect" id="node27" href="$classViewport.html" title="Viewport" alt="" coords="993,60,1073,87"/>
+<area shape="rect" id="node21" href="$classnode__editor_1_1GraphWidget.html" title="a simple graph widget " alt="" coords="937,465,1129,492"/>
+<area shape="rect" id="node23" href="$classnode__editor_1_1GraphScene.html" title="node_editor::GraphScene" alt="" coords="550,500,735,527"/>
+<area shape="rect" id="node25" href="$classnode__editor_1_1Edge.html" title="node_editor::Edge" alt="" coords="211,529,350,556"/>
+<area shape="rect" id="node29" href="$classpossumwood_1_1ViewportState.html" title="possumwood::ViewportState" alt="" coords="539,11,747,37"/>
+<area shape="rect" id="node30" href="$classSearchableMenu.html" title="SearchableMenu" alt="" coords="1352,235,1481,261"/>
 </map>

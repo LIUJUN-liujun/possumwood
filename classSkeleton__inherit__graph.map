@@ -1,5 +1,5 @@
 <map id="Skeleton" name="Skeleton">
-<area shape="rect" id="node2" href="$classpossumwood_1_1Drawable.html" title="possumwood::Drawable" alt="" coords="5,184,184,211"/>
-<area shape="rect" id="node5" href="$classpossumwood_1_1properties_1_1property__base.html" title="possumwood::properties\l::property_base" alt="" coords="197,80,379,121"/>
-<area shape="rect" id="node4" href="$classpossumwood_1_1properties_1_1property.html" title="possumwood::properties\l::property\&lt; anim::Skeleton,\l Skeleton \&gt;" alt="" coords="208,169,411,225"/>
+<area shape="rect" id="node2" href="$classpossumwood_1_1properties_1_1property.html" title="possumwood::properties\l::property\&lt; anim::Skeleton,\l Skeleton \&gt;" alt="" coords="5,169,208,225"/>
+<area shape="rect" id="node3" href="$classpossumwood_1_1properties_1_1property__base.html" title="possumwood::properties\l::property_base" alt="" coords="58,80,241,121"/>
+<area shape="rect" id="node5" href="$classpossumwood_1_1Drawable.html" title="possumwood::Drawable" alt="" coords="232,184,411,211"/>
 </map>

@@ -1,8 +1,7 @@
 <map id="filename_ui" name="filename_ui">
-<area shape="rect" id="node2" href="$classpossumwood_1_1properties_1_1property.html" title="possumwood::properties\l::property\&lt; possumwood\l::Filename, filename_ui \&gt;" alt="" coords="929,53,1117,109"/>
+<area shape="rect" id="node2" href="$classpossumwood_1_1properties_1_1property.html" title="possumwood::properties\l::property\&lt; possumwood\l::Filename, filename_ui \&gt;" alt="" coords="880,21,1068,77"/>
 <area shape="rect" id="node3" href="$classpossumwood_1_1properties_1_1property__base.html" title="possumwood::properties\l::property_base" alt="" coords="367,5,549,47"/>
 <area shape="rect" id="node6" href="$classpossumwood_1_1properties_1_1factory.html" title="possumwood::properties\l::factory" alt="" coords="160,64,343,105"/>
 <area shape="rect" id="node5" href="$classpossumwood_1_1properties_1_1factory__typed.html" title="possumwood::properties\l::factory_typed\&lt; filename_ui \&gt;" alt="" coords="573,64,800,105"/>
-<area shape="rect" id="node7" href="$classpossumwood_1_1Filename.html" title="possumwood::Filename" alt="" coords="936,133,1111,159"/>
-<area shape="rect" id="node8" href="$classpossumwood_1_1Filepath.html" title="possumwood::Filepath" alt="" coords="603,133,770,159"/>
+<area shape="rect" id="node7" href="$classpossumwood_1_1Filename.html" title="possumwood::Filename" alt="" coords="887,101,1061,127"/>
 </map>

@@ -13,7 +13,6 @@ var searchData=
   ['nodecomparator',['NodeComparator',['../structdependency__graph_1_1Selection_1_1NodeComparator.html',1,'dependency_graph::Selection']]],
   ['nodedata',['NodeData',['../classpossumwood_1_1NodeData.html',1,'possumwood']]],
   ['nodeimplementation',['NodeImplementation',['../structpossumwood_1_1NodeImplementation.html',1,'possumwood']]],
-  ['nodemenu',['NodeMenu',['../classNodeMenu.html',1,'']]],
   ['nodes',['Nodes',['../classdependency__graph_1_1Nodes.html',1,'dependency_graph']]],
   ['nodesiterator',['NodesIterator',['../classdependency__graph_1_1NodesIterator.html',1,'dependency_graph']]],
   ['noncopyablestruct',['NoncopyableStruct',['../structNoncopyableStruct.html',1,'']]],

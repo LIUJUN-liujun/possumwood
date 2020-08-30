@@ -12,9 +12,9 @@
 <area shape="rect" id="node5" href="$main__window_8cpp.html" title="src/apps/possumwood\l/main_window.cpp" alt="" coords="1661,631,1827,672"/>
 <area shape="rect" id="node6" href="$toolbar_8cpp.html" title="src/apps/possumwood\l/toolbar.cpp" alt="" coords="1726,452,1893,493"/>
 <area shape="rect" id="node8" href="$actions_8h.html" title="src/libs/actions/actions.h" alt="" coords="1826,370,2009,397"/>
-<area shape="rect" id="node10" href="$actions_2detail_2connections_8h.html" title="src/libs/actions/detail\l/connections.h" alt="" coords="1112,184,1272,225"/>
-<area shape="rect" id="node11" href="$actions_2detail_2metadata_8h.html" title="src/libs/actions/detail\l/metadata.h" alt="" coords="1296,184,1456,225"/>
-<area shape="rect" id="node12" href="$actions_2detail_2nodes_8h.html" title="src/libs/actions/detail\l/nodes.h" alt="" coords="5,184,165,225"/>
+<area shape="rect" id="node10" href="$actions_2detail_2nodes_8h.html" title="src/libs/actions/detail\l/nodes.h" alt="" coords="1112,184,1272,225"/>
+<area shape="rect" id="node11" href="$actions_2detail_2connections_8h.html" title="src/libs/actions/detail\l/connections.h" alt="" coords="1296,184,1456,225"/>
+<area shape="rect" id="node12" href="$actions_2detail_2metadata_8h.html" title="src/libs/actions/detail\l/metadata.h" alt="" coords="5,184,165,225"/>
 <area shape="rect" id="node13" href="$actions_2detail_2values_8h.html" title="src/libs/actions/detail\l/values.h" alt="" coords="189,184,349,225"/>
 <area shape="rect" id="node14" href="$actions_2app_8h.html" title="src/libs/actions/app.h" alt="" coords="374,191,533,218"/>
 <area shape="rect" id="node15" href="$links_8h.html" title="src/libs/actions/detail\l/links.h" alt="" coords="557,184,717,225"/>

@@ -19,7 +19,6 @@ var searchData=
   ['nodecount',['nodeCount',['../classnode__editor_1_1GraphScene.html#adb93ebcd4025fe3a81b91386ca33ecb7',1,'node_editor::GraphScene']]],
   ['nodedata',['NodeData',['../classpossumwood_1_1NodeData.html#a783c85c825942b1e3e6d2b0ae14d6d89',1,'possumwood::NodeData']]],
   ['nodeimplementation',['NodeImplementation',['../structpossumwood_1_1NodeImplementation.html#aed02ca0b6c1239a33a27cb645847b545',1,'possumwood::NodeImplementation']]],
-  ['nodemenu',['NodeMenu',['../classNodeMenu.html#a909db4d2f0577e44a9ef7cb36cc71416',1,'NodeMenu']]],
   ['noderemoved',['nodeRemoved',['../classdependency__graph_1_1Graph.html#ae34f9d75da85c1d1a8c163fd48e748b0',1,'dependency_graph::Graph']]],
   ['nodes',['Nodes',['../classdependency__graph_1_1Nodes.html#a13061c25c02593625e4ce60bdf6e6068',1,'dependency_graph::Nodes::Nodes()'],['../classdependency__graph_1_1Network.html#a5f95121d52d35ddffa6cbeafee1a6beb',1,'dependency_graph::Network::nodes()'],['../classdependency__graph_1_1Network.html#a6f1eb384a97621564b3bda3dddbdfe81',1,'dependency_graph::Network::nodes() const'],['../classdependency__graph_1_1Selection.html#a81efe86ec661b2f8cdfe72edb5b3bcb4',1,'dependency_graph::Selection::nodes()']]],
   ['nodesiterator',['NodesIterator',['../classdependency__graph_1_1NodesIterator.html#a460ff180bdd4b778fe2896731d4b14c2',1,'dependency_graph::NodesIterator::NodesIterator()'],['../classdependency__graph_1_1NodesIterator.html#a8860539eb76f40af9e9c7d4673548924',1,'dependency_graph::NodesIterator::NodesIterator(ITERATOR i, ITERATOR end, bool recursive)']]],

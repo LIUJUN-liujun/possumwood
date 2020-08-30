@@ -30,7 +30,6 @@ var annotated_dup =
     [ "MainWindow", "classMainWindow.html", "classMainWindow" ],
     [ "MeshesUI", "classMeshesUI.html", "classMeshesUI" ],
     [ "MeshSubsetEditor", "classMeshSubsetEditor.html", "classMeshSubsetEditor" ],
-    [ "NodeMenu", "classNodeMenu.html", "classNodeMenu" ],
     [ "NoncopyableStruct", "structNoncopyableStruct.html", "structNoncopyableStruct" ],
     [ "NumberTraits", "structNumberTraits.html", "structNumberTraits" ],
     [ "NumberTraits< double >", "structNumberTraits_3_01double_01_4.html", "structNumberTraits_3_01double_01_4" ],

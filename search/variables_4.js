@@ -8,5 +8,5 @@ var searchData=
   ['excess',['excess',['../structlightfields_1_1ActiveQueue_1_1Item.html#af2fc3f9aa2efe6a1fa0fa8cf512d532d',1,'lightfields::ActiveQueue::Item']]],
   ['exclusionborder',['exclusionBorder',['../structlightfields_1_1LensletGraph_1_1Pimpl.html#a5bbf03d5edfb81aa31de36859b433b24',1,'lightfields::LensletGraph::Pimpl']]],
   ['exponent',['exponent',['../structTimeline_1_1TickSkip.html#ab18e33161330e8deb58d15d0fdce77d0',1,'Timeline::TickSkip']]],
-  ['expr',['expr',['../apps_2possumwood__cli_2main_8cpp.html#a4a0f1c057f4e74a5ce4649cda034f11c',1,'main.cpp']]]
+  ['expr',['expr',['../apps_2possumwood__cli_2main_8cpp.html#a9bb81da718e96f862aa8dc93eb31491e',1,'main.cpp']]]
 ];

@@ -12,6 +12,7 @@ var classMainWindow =
     [ "m_adaptor", "classMainWindow.html#a23c49ceae064122d44b98592aa1ac4ff", null ],
     [ "m_editor", "classMainWindow.html#a55dda73fa7a10bb4b1c665feaab25165", null ],
     [ "m_editorDock", "classMainWindow.html#af3b254442372262f660e989afd7d7ddb", null ],
+    [ "m_newNodeMenu", "classMainWindow.html#a91549a0c5e19b556e3e1c9e50dc55867", null ],
     [ "m_properties", "classMainWindow.html#a22f004bec556234a5eb739cfa1819647", null ],
     [ "m_statusBar", "classMainWindow.html#a9b6351507b5ce0cf250e536433c686e4", null ],
     [ "m_statusContent", "classMainWindow.html#a5d2486a02cc5d5942676ed7c7041d622", null ],
