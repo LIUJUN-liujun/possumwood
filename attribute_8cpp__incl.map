@@ -1,5 +1,5 @@
 <map id="src/plugins/anim/datatypes/attribute.cpp" name="src/plugins/anim/datatypes/attribute.cpp">
-<area shape="rect" id="node2" href="$attribute_8h.html" title="attribute.h" alt="" coords="248,95,339,121"/>
-<area shape="rect" id="node5" href="$rtti_8h.html" title="dependency_graph/rtti.h" alt="" coords="305,169,485,196"/>
-<area shape="rect" id="node9" href="$lexical__cast_8h.html" title="../lexical_cast.h" alt="" coords="549,169,672,196"/>
+<area shape="rect" id="node2" href="$attribute_8h.html" title="attribute.h" alt="" coords="381,95,471,121"/>
+<area shape="rect" id="node3" href="$rtti_8h.html" title="dependency_graph/rtti.h" alt="" coords="60,169,240,196"/>
+<area shape="rect" id="node9" href="$lexical__cast_8h.html" title="../lexical_cast.h" alt="" coords="563,169,686,196"/>
 </map>

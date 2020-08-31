@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['sample',['Sample',['../structlightfields_1_1Pattern_1_1Sample.html',1,'lightfields::Pattern::Sample'],['../structlightfields_1_1Samples_1_1Sample.html',1,'lightfields::Samples::Sample']]],
+  ['sample',['Sample',['../structlightfields_1_1Samples_1_1Sample.html',1,'lightfields::Samples::Sample'],['../structlightfields_1_1Pattern_1_1Sample.html',1,'lightfields::Pattern::Sample']]],
   ['samples',['Samples',['../classlightfields_1_1Samples.html',1,'lightfields']]],
   ['saveableregistration',['SaveableRegistration',['../structdependency__graph_1_1io_1_1SaveableRegistration.html',1,'dependency_graph::io']]],
   ['scopedenable',['ScopedEnable',['../classpossumwood_1_1ScopedEnable.html',1,'possumwood']]],

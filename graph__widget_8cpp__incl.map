@@ -1,8 +1,8 @@
 <map id="src/libs/qt_node_editor/graph_widget.cpp" name="src/libs/qt_node_editor/graph_widget.cpp">
-<area shape="rect" id="node2" href="$graph__widget_8h.html" title="graph_widget.h" alt="" coords="54,95,177,121"/>
-<area shape="rect" id="node24" href="$connected__edge_8h.html" title="connected_edge.h" alt="" coords="660,169,800,196"/>
-<area shape="rect" id="node4" href="$qt__node__editor_2node_8h.html" title="node.h" alt="" coords="131,244,198,271"/>
-<area shape="rect" id="node11" href="$graph__scene_8h.html" title="graph_scene.h" alt="" coords="245,169,361,196"/>
-<area shape="rect" id="node8" href="$qt__node__editor_2port_8h.html" title="port.h" alt="" coords="419,319,479,345"/>
-<area shape="rect" id="node15" href="$edge_8h.html" title="edge.h" alt="" coords="543,244,610,271"/>
+<area shape="rect" id="node2" href="$graph__widget_8h.html" title="graph_widget.h" alt="" coords="189,95,312,121"/>
+<area shape="rect" id="node24" href="$connected__edge_8h.html" title="connected_edge.h" alt="" coords="419,169,559,196"/>
+<area shape="rect" id="node4" href="$graph__scene_8h.html" title="graph_scene.h" alt="" coords="241,169,357,196"/>
+<area shape="rect" id="node15" href="$qt__node__editor_2node_8h.html" title="node.h" alt="" coords="85,244,152,271"/>
+<area shape="rect" id="node8" href="$edge_8h.html" title="edge.h" alt="" coords="496,244,563,271"/>
+<area shape="rect" id="node11" href="$qt__node__editor_2port_8h.html" title="port.h" alt="" coords="299,319,359,345"/>
 </map>

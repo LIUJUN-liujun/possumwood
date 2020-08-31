@@ -46,7 +46,7 @@ var searchData=
   ['reset',['reset',['../classpossumwood_1_1io_1_1basic__json_1_1lexer.html#aeb6ab647442f23e3e0df3764afbe0a99',1,'possumwood::io::basic_json::lexer::reset()'],['../classdependency__graph_1_1Datablock.html#afdc762ca3a8bf992a42f370504306d4e',1,'dependency_graph::Datablock::reset()'],['../classpossumwood_1_1Config.html#ac910e070b56ae49ce5967fcd68a61670',1,'possumwood::Config::reset()']]],
   ['resettransform',['resetTransform',['../classanim_1_1FrameEditorData.html#aa30a8f5b21be38a9b713f4dfdf2ffc3e',1,'anim::FrameEditorData']]],
   ['residualcapacity',['residualCapacity',['../classlightfields_1_1Link_1_1Direction.html#abdfd8f253ac1779758e20b4a4dc0a887',1,'lightfields::Link::Direction']]],
-  ['resize',['resize',['../classpossumwood_1_1ViewportState.html#a838ccaf9c2674b5d1059f5a5a3ec1e22',1,'possumwood::ViewportState::resize()'],['../structpossumwood_1_1polymesh_1_1ArrayBase.html#ae03f4f39b5617c88fd606eaa49ba20cc',1,'possumwood::polymesh::ArrayBase::resize()'],['../classpossumwood_1_1polymesh_1_1Array.html#a4b72b8bc9fc6937a56227d154004c7e5',1,'possumwood::polymesh::Array::resize()'],['../classpossumwood_1_1polymesh_1_1GenericBase.html#a50b5fbc7d59b12240b613e6c7cbcdae1',1,'possumwood::polymesh::GenericBase::resize()']]],
+  ['resize',['resize',['../classpossumwood_1_1ViewportState.html#a838ccaf9c2674b5d1059f5a5a3ec1e22',1,'possumwood::ViewportState']]],
   ['resize_2ecpp',['resize.cpp',['../resize_8cpp.html',1,'']]],
   ['resizegl',['resizeGL',['../classViewport.html#abc211b07c8fb075cd24a3d9e55666aae',1,'Viewport']]],
   ['result_5ftype',['result_type',['../classpossumwood_1_1properties_1_1property.html#acae2b258b85273a35418eda93f87a4cc',1,'possumwood::properties::property']]],

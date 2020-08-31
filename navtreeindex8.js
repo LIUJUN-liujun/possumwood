@@ -1,13 +1,5 @@
 var NAVTREEINDEX8 =
 {
-"classpossumwood_1_1BufferTemplated_1_1Element.html#a2c53ba2dec69bb730fa80972812b0bd0":[2,0,5,15,0,6],
-"classpossumwood_1_1BufferTemplated_1_1Element.html#a3954e42547d69f872862b0a4eaa9be25":[2,0,5,15,0,5],
-"classpossumwood_1_1BufferTemplated_1_1Element.html#a5b4b9f06bee09b4bacd80cc6c876c948":[2,0,5,15,0,1],
-"classpossumwood_1_1BufferTemplated_1_1Element.html#a70bb906627e5f3735dd8064b54401c93":[2,0,5,15,0,3],
-"classpossumwood_1_1BufferTemplated_1_1Element.html#a791dc689a7eac8086377b7a946597307":[2,0,5,15,0,2],
-"classpossumwood_1_1BufferTemplated_1_1Element.html#a7d29f858776d86c70a88e3fe2e5ca39b":[2,0,5,15,0,0],
-"classpossumwood_1_1BufferTemplated_1_1Element.html#a90b675e210a2d3e97db10564f86bf5db":[2,0,5,15,0,4],
-"classpossumwood_1_1BufferTemplated_1_1Element.html#ad66c97ac75f1b6cc3156e49ef6ccb3a1":[2,0,5,15,0,7],
 "classpossumwood_1_1Buffer_3_01double_01_4.html":[2,0,5,11],
 "classpossumwood_1_1Buffer_3_01double_01_4.html#aa7e7382995637f4e984eae2820e9df61":[2,0,5,11,0],
 "classpossumwood_1_1Buffer_3_01float_01_4.html":[2,0,5,12],
@@ -245,9 +237,17 @@ var NAVTREEINDEX8 =
 "classpossumwood_1_1IFilesystem.html#ace17ac240d5629579b3d892e404a84b1":[2,0,5,47,4],
 "classpossumwood_1_1IFilesystem.html#adc1118eba581579db669d83f3bba471b":[2,0,5,47,7],
 "classpossumwood_1_1IFilesystem.html#ae90db1a920b73824c9cfd4dfd016cc1d":[2,0,5,47,1],
-"classpossumwood_1_1IO.html":[2,0,5,50],
-"classpossumwood_1_1IO.html#a169ac395f3e60ed11cf9042e7d2b2016":[2,0,5,50,2],
-"classpossumwood_1_1IO.html#a232b03dffdcd4befbc5237720c4a1c78":[2,0,5,50,1],
-"classpossumwood_1_1IO.html#a313655b7df9eea7a87dd16ee3dd4c21a":[2,0,5,50,0],
-"classpossumwood_1_1IOBase.html":[2,0,5,51]
+"classpossumwood_1_1IO.html":[2,0,5,49],
+"classpossumwood_1_1IO.html#a169ac395f3e60ed11cf9042e7d2b2016":[2,0,5,49,2],
+"classpossumwood_1_1IO.html#a232b03dffdcd4befbc5237720c4a1c78":[2,0,5,49,1],
+"classpossumwood_1_1IO.html#a313655b7df9eea7a87dd16ee3dd4c21a":[2,0,5,49,0],
+"classpossumwood_1_1IOBase.html":[2,0,5,50],
+"classpossumwood_1_1IOBase.html#a0b6cc6611b9197ba33886e8676123c43":[2,0,5,50,4],
+"classpossumwood_1_1IOBase.html#a3298dbe061c65ad033c2dee6593dd58b":[2,0,5,50,2],
+"classpossumwood_1_1IOBase.html#a3e1f55847240ef7e9b8c73df915ba850":[2,0,5,50,3],
+"classpossumwood_1_1IOBase.html#ad33255d89e784facc9849f8be9708c8f":[2,0,5,50,0],
+"classpossumwood_1_1IOBase.html#ae28377a83b382b0446c7adc0d1c588bd":[2,0,5,50,1],
+"classpossumwood_1_1Index.html":[2,0,5,48],
+"classpossumwood_1_1Index.html#a13eca86dde2a516fea3ac8c7bf8146e8":[2,0,5,48,1],
+"classpossumwood_1_1Index.html#a1d1755ffbbfd239bdee727bc0cfbf49e":[2,0,5,48,18]
 };

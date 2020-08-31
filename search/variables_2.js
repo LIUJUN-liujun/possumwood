@@ -16,7 +16,6 @@ var searchData=
   ['confidence',['confidence',['../structlightfields_1_1MRF_1_1Value.html#a415d90041eeca0fd993c7730506f7ae7',1,'lightfields::MRF::Value']]],
   ['connections',['connections',['../structnode__editor_1_1GraphScene_1_1Selection.html#ac4b44f9d9bf585a6d170487ba177ae2e',1,'node_editor::GraphScene::Selection']]],
   ['container',['container',['../classpossumwood_1_1io_1_1basic__json_1_1iteration__proxy.html#ab086cf301072082a20737b467adfd73e',1,'possumwood::io::basic_json::iteration_proxy::container()'],['../classanim_1_1Children.html#af5a189cf1af1a3e00c68a4385c952e9a',1,'anim::Children::CONTAINER()']]],
-  ['counter',['counter',['../polymesh_2nodes_2vertex__data_8cpp.html#ac449e05964ab2319a33c1718c5ad485b',1,'vertex_data.cpp']]],
   ['current',['current',['../classpossumwood_1_1io_1_1basic__json_1_1binary__reader.html#a3ce0452fbd60d70473603430c08d4f0c',1,'possumwood::io::basic_json::binary_reader::current()'],['../classpossumwood_1_1io_1_1basic__json_1_1lexer.html#ac48716789bb499a1cf7eec4b088c1a80',1,'possumwood::io::basic_json::lexer::current()'],['../structdependency__graph_1_1NodesIterator_1_1Item.html#ab4c9a7aad80ebd49ab9193d2496d3c31',1,'dependency_graph::NodesIterator::Item::current()'],['../edmonds__karp_8cpp.html#aec150004b933e47b7fb5e311277f7fe7',1,'current():&#160;edmonds_karp.cpp']]],
   ['cursor',['cursor',['../classpossumwood_1_1io_1_1basic__json_1_1input__buffer__adapter.html#a454cf11e0085c64ea3d4c2fdf08c6cf4',1,'possumwood::io::basic_json::input_buffer_adapter']]]
 ];

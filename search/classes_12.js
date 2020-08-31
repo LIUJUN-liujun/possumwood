@@ -49,7 +49,6 @@ var searchData=
   ['traits_3c_20opencv_3a_3aframe_20_3e',['Traits&lt; opencv::Frame &gt;',['../structpossumwood_1_1Traits_3_01opencv_1_1Frame_01_4.html',1,'possumwood']]],
   ['traits_3c_20opencv_3a_3alightfieldvignetting_20_3e',['Traits&lt; opencv::LightfieldVignetting &gt;',['../structpossumwood_1_1Traits_3_01opencv_1_1LightfieldVignetting_01_4.html',1,'possumwood']]],
   ['traits_3c_20opencv_3a_3asequence_20_3e',['Traits&lt; opencv::Sequence &gt;',['../structpossumwood_1_1Traits_3_01opencv_1_1Sequence_01_4.html',1,'possumwood']]],
-  ['traits_3c_20polymesh_3a_3agenericpolymesh_20_3e',['Traits&lt; polymesh::GenericPolymesh &gt;',['../structpossumwood_1_1Traits_3_01polymesh_1_1GenericPolymesh_01_4.html',1,'possumwood']]],
   ['traits_3c_20program_20_3e',['Traits&lt; Program &gt;',['../structpossumwood_1_1Traits_3_01Program_01_4.html',1,'possumwood']]],
   ['traits_3c_20std_3a_3ashared_5fptr_3c_20const_20std_3a_3avector_3c_20anim_3a_3askinnedmesh_20_3e_20_3e_20_3e',['Traits&lt; std::shared_ptr&lt; const std::vector&lt; anim::SkinnedMesh &gt; &gt; &gt;',['../structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01std_1_1vector_3_01anim_1_1SkinnedMesh_01_4_01_4_01_4.html',1,'possumwood']]],
   ['traits_3c_20std_3a_3astring_20_3e',['Traits&lt; std::string &gt;',['../structpossumwood_1_1Traits_3_01std_1_1string_01_4.html',1,'possumwood']]],

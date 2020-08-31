@@ -1,5 +1,7 @@
 <map id="src/plugins/cgal/builder.h" name="src/plugins/cgal/builder.h">
 <area shape="rect" id="node2" href="$anim_2nodes_2mesh_2cgal_8cpp.html" title="src/plugins/anim/nodes\l/mesh/cgal.cpp" alt="" coords="5,80,177,121"/>
-<area shape="rect" id="node3" href="$cgal_2nodes_2loader_8cpp.html" title="src/plugins/cgal/nodes\l/loader.cpp" alt="" coords="201,80,368,121"/>
-<area shape="rect" id="node4" href="$tetrahedron_8cpp.html" title="src/plugins/cgal/nodes\l/tetrahedron.cpp" alt="" coords="392,80,559,121"/>
+<area shape="rect" id="node3" href="$polyhedron_8cpp.html" title="src/plugins/cgal/lua\l/polyhedron.cpp" alt="" coords="202,80,349,121"/>
+<area shape="rect" id="node4" href="$plugins_2cgal_2nodes_2grid_8cpp.html" title="src/plugins/cgal/nodes\l/grid.cpp" alt="" coords="373,80,540,121"/>
+<area shape="rect" id="node5" href="$loader_8cpp.html" title="src/plugins/cgal/nodes\l/loader.cpp" alt="" coords="564,80,731,121"/>
+<area shape="rect" id="node6" href="$tetrahedron_8cpp.html" title="src/plugins/cgal/nodes\l/tetrahedron.cpp" alt="" coords="755,80,921,121"/>
 </map>

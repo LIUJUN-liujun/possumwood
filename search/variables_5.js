@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['faceindex',['faceIndex',['../polymesh_2nodes_2vertex__data_8cpp.html#a0cff21dd940157e46d42cbc2fed0c936',1,'vertex_data.cpp']]],
   ['factories',['factories',['../structdependency__graph_1_1StaticInitialisation_1_1Pimpl.html#ab4087d14db4334b4c2703c0d71e01028',1,'dependency_graph::StaticInitialisation::Pimpl']]],
   ['fill_5fsize',['fill_size',['../classpossumwood_1_1io_1_1basic__json_1_1cached__input__stream__adapter.html#a1d0a64b9926427c711475b2903f40f93',1,'possumwood::io::basic_json::cached_input_stream_adapter']]],
   ['fitted',['fitted',['../structlightfields_1_1LensletGraph_1_1Pimpl.html#a7120c5908c9e2d5248ea5b34925bea1c',1,'lightfields::LensletGraph::Pimpl']]],

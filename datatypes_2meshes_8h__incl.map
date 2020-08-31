@@ -1,18 +1,18 @@
 <map id="src/plugins/cgal/datatypes/meshes.h" name="src/plugins/cgal/datatypes/meshes.h">
-<area shape="rect" id="node2" href="$libs_2actions_2traits_8h.html" title="actions/traits.h" alt="" coords="2491,244,2609,271"/>
-<area shape="rect" id="node39" href="$meshes_8h.html" title="../meshes.h" alt="" coords="2981,95,3079,121"/>
-<area shape="rect" id="node4" href="$rtti_8h.html" title="dependency_graph/rtti.h" alt="" coords="2515,468,2695,495"/>
-<area shape="rect" id="node8" href="$libs_2actions_2io_8h.html" title="actions/io.h" alt="" coords="2359,319,2456,345"/>
-<area shape="rect" id="node11" href="$data_8inl.html" title="dependency_graph/data.inl" alt="" coords="2240,393,2439,420"/>
-<area shape="rect" id="node18" href="$libs_2dependency__graph_2io_8h.html" title="dependency_graph/io.h" alt="" coords="2042,393,2215,420"/>
+<area shape="rect" id="node2" href="$traits_8h.html" title="actions/traits.h" alt="" coords="2044,244,2163,271"/>
+<area shape="rect" id="node39" href="$meshes_8h.html" title="../meshes.h" alt="" coords="2544,95,2641,121"/>
+<area shape="rect" id="node3" href="$rtti_8h.html" title="dependency_graph/rtti.h" alt="" coords="1961,468,2141,495"/>
+<area shape="rect" id="node8" href="$libs_2actions_2io_8h.html" title="actions/io.h" alt="" coords="2156,319,2253,345"/>
+<area shape="rect" id="node9" href="$libs_2dependency__graph_2io_8h.html" title="dependency_graph/io.h" alt="" coords="2267,393,2441,420"/>
+<area shape="rect" id="node17" href="$data_8inl.html" title="dependency_graph/data.inl" alt="" coords="2465,393,2664,420"/>
 <area shape="rect" id="node19" href="$json_8h.html" title="io/json.h" alt="" coords="1275,468,1353,495"/>
-<area shape="rect" id="node14" href="$data_8h.html" title="data.h" alt="" coords="2092,468,2155,495"/>
-<area shape="rect" id="node17" href="$static__initialisation_8h.html" title="static_initialisation.h" alt="" coords="2179,468,2337,495"/>
-<area shape="rect" id="node40" href="$cgal_8h.html" title="cgal.h" alt="" coords="3051,244,3113,271"/>
-<area shape="rect" id="node50" href="$mesh_8h.html" title="mesh.h" alt="" coords="2973,169,3044,196"/>
-<area shape="rect" id="node44" href="$property_8inl.html" title="property.inl" alt="" coords="2884,319,2979,345"/>
-<area shape="rect" id="node45" href="$plugins_2cgal_2property_8h.html" title="property.h" alt="" coords="3249,468,3336,495"/>
-<area shape="rect" id="node47" href="$plugins_2cgal_2properties_8h.html" title="properties.h" alt="" coords="2881,393,2981,420"/>
-<area shape="rect" id="node49" href="$property__item_8inl.html" title="property_item.inl" alt="" coords="3091,468,3225,495"/>
-<area shape="rect" id="node46" href="$property__item_8h.html" title="property_item.h" alt="" coords="3040,543,3167,569"/>
+<area shape="rect" id="node10" href="$data_8h.html" title="data.h" alt="" coords="2369,468,2432,495"/>
+<area shape="rect" id="node18" href="$static__initialisation_8h.html" title="static_initialisation.h" alt="" coords="2456,468,2615,495"/>
+<area shape="rect" id="node40" href="$cgal_8h.html" title="cgal.h" alt="" coords="2614,244,2675,271"/>
+<area shape="rect" id="node50" href="$mesh_8h.html" title="mesh.h" alt="" coords="2536,169,2607,196"/>
+<area shape="rect" id="node44" href="$property_8inl.html" title="property.inl" alt="" coords="2959,319,3053,345"/>
+<area shape="rect" id="node45" href="$plugins_2cgal_2properties_8h.html" title="properties.h" alt="" coords="2868,393,2968,420"/>
+<area shape="rect" id="node47" href="$plugins_2cgal_2property_8h.html" title="property.h" alt="" coords="2960,468,3047,495"/>
+<area shape="rect" id="node49" href="$property__item_8inl.html" title="property_item.inl" alt="" coords="3071,468,3205,495"/>
+<area shape="rect" id="node48" href="$property__item_8h.html" title="property_item.h" alt="" coords="3075,543,3201,569"/>
 </map>

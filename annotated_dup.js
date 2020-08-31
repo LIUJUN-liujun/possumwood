@@ -21,7 +21,6 @@ var annotated_dup =
     [ "filenames_ui", "classfilenames__ui.html", "classfilenames__ui" ],
     [ "FrameEditor", "classFrameEditor.html", "classFrameEditor" ],
     [ "FrameUI", "classFrameUI.html", "classFrameUI" ],
-    [ "GenericMeshUI", "classGenericMeshUI.html", "classGenericMeshUI" ],
     [ "GenericProperty", "classGenericProperty.html", "classGenericProperty" ],
     [ "GlDebug", "classGlDebug.html", "classGlDebug" ],
     [ "interval_ui", "classinterval__ui.html", "classinterval__ui" ],

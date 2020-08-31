@@ -1,12 +1,12 @@
 var namespacepossumwood =
 [
     [ "actions", "namespacepossumwood_1_1actions.html", "namespacepossumwood_1_1actions" ],
+    [ "cgal", "namespacepossumwood_1_1cgal.html", "namespacepossumwood_1_1cgal" ],
     [ "images", "namespacepossumwood_1_1images.html", "namespacepossumwood_1_1images" ],
     [ "io", "namespacepossumwood_1_1io.html", "namespacepossumwood_1_1io" ],
     [ "lua", "namespacepossumwood_1_1lua.html", "namespacepossumwood_1_1lua" ],
     [ "maths", "namespacepossumwood_1_1maths.html", "namespacepossumwood_1_1maths" ],
     [ "opencv", "namespacepossumwood_1_1opencv.html", "namespacepossumwood_1_1opencv" ],
-    [ "polymesh", "namespacepossumwood_1_1polymesh.html", "namespacepossumwood_1_1polymesh" ],
     [ "properties", "namespacepossumwood_1_1properties.html", "namespacepossumwood_1_1properties" ],
     [ "App", "classpossumwood_1_1App.html", "classpossumwood_1_1App" ],
     [ "AppCore", "classpossumwood_1_1AppCore.html", "classpossumwood_1_1AppCore" ],
@@ -53,7 +53,6 @@ var namespacepossumwood =
     [ "Grid", "classpossumwood_1_1Grid.html", "classpossumwood_1_1Grid" ],
     [ "IFilesystem", "classpossumwood_1_1IFilesystem.html", "classpossumwood_1_1IFilesystem" ],
     [ "Index", "classpossumwood_1_1Index.html", "classpossumwood_1_1Index" ],
-    [ "IndexExtractor", "structpossumwood_1_1IndexExtractor.html", "structpossumwood_1_1IndexExtractor" ],
     [ "IO", "classpossumwood_1_1IO.html", "classpossumwood_1_1IO" ],
     [ "IOBase", "classpossumwood_1_1IOBase.html", "classpossumwood_1_1IOBase" ],
     [ "Mesh", "classpossumwood_1_1Mesh.html", "classpossumwood_1_1Mesh" ],
@@ -62,7 +61,6 @@ var namespacepossumwood =
     [ "NetworkCompute", "classpossumwood_1_1NetworkCompute.html", "classpossumwood_1_1NetworkCompute" ],
     [ "NodeData", "classpossumwood_1_1NodeData.html", "classpossumwood_1_1NodeData" ],
     [ "NodeImplementation", "structpossumwood_1_1NodeImplementation.html", "structpossumwood_1_1NodeImplementation" ],
-    [ "PolyExtractor", "structpossumwood_1_1PolyExtractor.html", "structpossumwood_1_1PolyExtractor" ],
     [ "Program", "classpossumwood_1_1Program.html", "classpossumwood_1_1Program" ],
     [ "Properties", "classpossumwood_1_1Properties.html", "classpossumwood_1_1Properties" ],
     [ "Property", "classpossumwood_1_1Property.html", "classpossumwood_1_1Property" ],
@@ -111,7 +109,6 @@ var namespacepossumwood =
     [ "Traits< opencv::Frame >", "structpossumwood_1_1Traits_3_01opencv_1_1Frame_01_4.html", "structpossumwood_1_1Traits_3_01opencv_1_1Frame_01_4" ],
     [ "Traits< opencv::LightfieldVignetting >", "structpossumwood_1_1Traits_3_01opencv_1_1LightfieldVignetting_01_4.html", "structpossumwood_1_1Traits_3_01opencv_1_1LightfieldVignetting_01_4" ],
     [ "Traits< opencv::Sequence >", "structpossumwood_1_1Traits_3_01opencv_1_1Sequence_01_4.html", "structpossumwood_1_1Traits_3_01opencv_1_1Sequence_01_4" ],
-    [ "Traits< polymesh::GenericPolymesh >", "structpossumwood_1_1Traits_3_01polymesh_1_1GenericPolymesh_01_4.html", "structpossumwood_1_1Traits_3_01polymesh_1_1GenericPolymesh_01_4" ],
     [ "Traits< Program >", "structpossumwood_1_1Traits_3_01Program_01_4.html", "structpossumwood_1_1Traits_3_01Program_01_4" ],
     [ "Traits< std::shared_ptr< const std::vector< anim::SkinnedMesh > > >", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01std_1_1vector_3_01anim_1_1SkinnedMesh_01_4_01_4_01_4.html", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01std_1_1vector_3_01anim_1_1SkinnedMesh_01_4_01_4_01_4" ],
     [ "Traits< std::string >", "structpossumwood_1_1Traits_3_01std_1_1string_01_4.html", "structpossumwood_1_1Traits_3_01std_1_1string_01_4" ],
@@ -133,7 +130,6 @@ var namespacepossumwood =
     [ "VBOTraits< std::array< T, WIDTH > >", "structpossumwood_1_1VBOTraits_3_01std_1_1array_3_01T_00_01WIDTH_01_4_01_4.html", "structpossumwood_1_1VBOTraits_3_01std_1_1array_3_01T_00_01WIDTH_01_4_01_4" ],
     [ "VBOTraits< std::vector< T > >", "structpossumwood_1_1VBOTraits_3_01std_1_1vector_3_01T_01_4_01_4.html", "structpossumwood_1_1VBOTraits_3_01std_1_1vector_3_01T_01_4_01_4" ],
     [ "VertexData", "classpossumwood_1_1VertexData.html", "classpossumwood_1_1VertexData" ],
-    [ "VertexExtractor", "structpossumwood_1_1VertexExtractor.html", "structpossumwood_1_1VertexExtractor" ],
     [ "VertexShader", "classpossumwood_1_1VertexShader.html", "classpossumwood_1_1VertexShader" ],
     [ "ViewportState", "classpossumwood_1_1ViewportState.html", "classpossumwood_1_1ViewportState" ]
 ];

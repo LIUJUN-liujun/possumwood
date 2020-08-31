@@ -17,7 +17,7 @@ var searchData=
   ['vec3_2eh',['vec3.h',['../vec3_8h.html',1,'']]],
   ['vec_5fui_2ecpp',['vec_ui.cpp',['../vec__ui_8cpp.html',1,'']]],
   ['vec_5fui_2eh',['vec_ui.h',['../vec__ui_8h.html',1,'']]],
-  ['vertex_5fdata_2ecpp',['vertex_data.cpp',['../polymesh_2nodes_2vertex__data_8cpp.html',1,'(Global Namespace)'],['../render_2datatypes_2vertex__data_8cpp.html',1,'(Global Namespace)']]],
+  ['vertex_5fdata_2ecpp',['vertex_data.cpp',['../vertex__data_8cpp.html',1,'']]],
   ['vertex_5fdata_2eh',['vertex_data.h',['../vertex__data_8h.html',1,'']]],
   ['vertex_5fdata_2einl',['vertex_data.inl',['../vertex__data_8inl.html',1,'']]],
   ['vertex_5fshader_2ecpp',['vertex_shader.cpp',['../vertex__shader_8cpp.html',1,'']]],

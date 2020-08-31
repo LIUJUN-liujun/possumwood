@@ -87,8 +87,11 @@ $(document).ready(function(){initNavTree('glsl__traits_8h.html','');});
 </div><!--header-->
 <div class="contents">
 <div class="textblock"><code>#include &lt;array&gt;</code><br />
-<code>#include &lt;ImathVec.h&gt;</code><br />
+<code>#include &lt;vector&gt;</code><br />
+<code>#include &lt;GL/glew.h&gt;</code><br />
+<code>#include &lt;GL/gl.h&gt;</code><br />
 <code>#include &lt;ImathMatrix.h&gt;</code><br />
+<code>#include &lt;ImathVec.h&gt;</code><br />
 </div><div class="textblock"><div class="dynheader">
 Include dependency graph for glsl_traits.h:</div>
 <div class="dyncontent">
@@ -106,7 +109,7 @@ This graph shows which files directly or indirectly include this file:</div>
 <area shape="rect" id="node3" href="opencv_2nodes_2texture_8cpp.html" title="src/plugins/opencv\l/nodes/texture.cpp" alt="" coords="5,184,148,225"/>
 <area shape="rect" id="node4" href="texture__sequence_8cpp.html" title="src/plugins/opencv\l/nodes/texture_sequence.cpp" alt="" coords="172,184,384,225"/>
 <area shape="rect" id="node5" href="datatypes_2uniforms_8cpp.html" title="src/plugins/render\l/datatypes/uniforms.cpp" alt="" coords="408,184,588,225"/>
-<area shape="rect" id="node6" href="draw_8cpp.html" title="src/plugins/render\l/nodes/draw.cpp" alt="" coords="1634,273,1773,315"/>
+<area shape="rect" id="node6" href="draw_8cpp.html" title="src/plugins/render\l/nodes/draw.cpp" alt="" coords="1706,273,1845,315"/>
 <area shape="rect" id="node7" href="float_8cpp.html" title="src/plugins/render\l/nodes/uniforms/float.cpp" alt="" coords="663,184,850,225"/>
 <area shape="rect" id="node8" href="plugins_2render_2nodes_2uniforms_2frame_8cpp.html" title="src/plugins/render\l/nodes/uniforms/frame.cpp" alt="" coords="874,184,1071,225"/>
 <area shape="rect" id="node9" href="plugins_2render_2nodes_2uniforms_2transform_8cpp.html" title="src/plugins/render\l/nodes/uniforms/transform.cpp" alt="" coords="1096,184,1319,225"/>
@@ -115,12 +118,11 @@ This graph shows which files directly or indirectly include this file:</div>
 <area shape="rect" id="node12" href="plugins_2render_2nodes_2uniforms_2viewport_8cpp.html" title="src/plugins/render\l/nodes/uniforms/viewport.cpp" alt="" coords="1799,184,2013,225"/>
 <area shape="rect" id="node13" href="uniforms_8cpp.html" title="src/plugins/render\l/uniforms.cpp" alt="" coords="2038,184,2177,225"/>
 <area shape="rect" id="node15" href="vertex__data_8inl.html" title="src/plugins/render\l/datatypes/vertex_data.inl" alt="" coords="2252,184,2445,225"/>
-<area shape="rect" id="node16" href="polymesh_2nodes_2vertex__data_8cpp.html" title="src/plugins/polymesh\l/nodes/vertex_data.cpp" alt="" coords="1797,273,1972,315"/>
-<area shape="rect" id="node17" href="render_2datatypes_2vertex__data_8cpp.html" title="src/plugins/render\l/datatypes/vertex_data.cpp" alt="" coords="1997,273,2197,315"/>
-<area shape="rect" id="node18" href="background_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/background.cpp" alt="" coords="2221,273,2476,315"/>
-<area shape="rect" id="node19" href="render_2nodes_2vertex__data_2cgal_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/cgal.cpp" alt="" coords="2501,273,2706,315"/>
-<area shape="rect" id="node20" href="plugins_2render_2nodes_2vertex__data_2frame_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/frame.cpp" alt="" coords="2731,273,2948,315"/>
-<area shape="rect" id="node21" href="render_2nodes_2vertex__data_2text_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/text.cpp" alt="" coords="2972,273,3176,315"/>
+<area shape="rect" id="node16" href="vertex__data_8cpp.html" title="src/plugins/render\l/datatypes/vertex_data.cpp" alt="" coords="1869,273,2069,315"/>
+<area shape="rect" id="node17" href="background_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/background.cpp" alt="" coords="2093,273,2348,315"/>
+<area shape="rect" id="node18" href="render_2nodes_2vertex__data_2cgal_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/cgal.cpp" alt="" coords="2373,273,2578,315"/>
+<area shape="rect" id="node19" href="plugins_2render_2nodes_2vertex__data_2frame_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/frame.cpp" alt="" coords="2603,273,2820,315"/>
+<area shape="rect" id="node20" href="render_2nodes_2vertex__data_2text_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/text.cpp" alt="" coords="2844,273,3048,315"/>
 </map>
 </div>
 </div>
@@ -156,7 +158,7 @@ Namespaces</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="dir_68267d1309a1af8e8297ef4c3efbcdba.html">src</a></li><li class="navelem"><a class="el" href="dir_7020b8b7abcceffa3f9f7a2d24718f16.html">plugins</a></li><li class="navelem"><a class="el" href="dir_7b324b578900626a6605486b3bab59bb.html">render</a></li><li class="navelem"><a class="el" href="dir_45247237aeb05763094580f9720e856e.html">datatypes</a></li><li class="navelem"><a class="el" href="glsl__traits_8h.html">glsl_traits.h</a></li>
-    <li class="footer">Generated on Sun Aug 30 2020 14:30:35 for possumwood by
+    <li class="footer">Generated on Mon Aug 31 2020 14:48:31 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.13 </li>
   </ul>

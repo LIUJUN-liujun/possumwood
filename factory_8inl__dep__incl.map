@@ -1,5 +1,5 @@
 <map id="src/libs/possumwood_sdk/properties/factory.inl" name="src/libs/possumwood_sdk/properties/factory.inl">
-<area shape="rect" id="node2" href="$libs_2possumwood__sdk_2properties_2property_8h.html" title="src/libs/possumwood\l_sdk/properties/property.h" alt="" coords="1924,95,2115,136"/>
+<area shape="rect" id="node2" href="$libs_2possumwood__sdk_2properties_2property_8h.html" title="src/libs/possumwood\l_sdk/properties/property.h" alt="" coords="1827,95,2017,136"/>
 <area shape="rect" id="node3" href="$generic__property_8h.html" title="src/apps/possumwood\l/generic_property.h" alt="" coords="100,184,267,225"/>
 <area shape="rect" id="node6" href="$apps_2possumwood_2properties_8h.html" title="src/apps/possumwood\l/properties.h" alt="" coords="291,184,457,225"/>
 <area shape="rect" id="node8" href="$factory_8cpp.html" title="src/libs/possumwood\l_sdk/properties/factory.cpp" alt="" coords="482,184,679,225"/>
@@ -17,9 +17,8 @@
 <area shape="rect" id="node30" href="$ui_2interval_8h.html" title="src/plugins/maths/ui\l/interval.h" alt="" coords="2737,184,2891,225"/>
 <area shape="rect" id="node32" href="$number__ui_8h.html" title="src/plugins/maths/ui\l/number_ui.h" alt="" coords="2915,184,3068,225"/>
 <area shape="rect" id="node34" href="$vec__ui_8h.html" title="src/plugins/maths/ui\l/vec_ui.h" alt="" coords="3092,184,3245,225"/>
-<area shape="rect" id="node36" href="$opencv_2ui_2frame_8h.html" title="src/plugins/opencv\l/ui/frame.h" alt="" coords="4107,184,4249,225"/>
-<area shape="rect" id="node49" href="$generic__mesh_8h.html" title="src/plugins/polymesh\l/ui/generic_mesh.h" alt="" coords="4274,184,4434,225"/>
-<area shape="rect" id="node50" href="$ui_2vbo_8h.html" title="src/plugins/render\l/ui/vbo.h" alt="" coords="4458,184,4597,225"/>
+<area shape="rect" id="node36" href="$opencv_2ui_2frame_8h.html" title="src/plugins/opencv\l/ui/frame.h" alt="" coords="4285,184,4428,225"/>
+<area shape="rect" id="node50" href="$ui_2vbo_8h.html" title="src/plugins/render\l/ui/vbo.h" alt="" coords="4453,184,4591,225"/>
 <area shape="rect" id="node4" href="$generic__property_8cpp.html" title="src/apps/possumwood\l/generic_property.cpp" alt="" coords="5,281,172,322"/>
 <area shape="rect" id="node5" href="$apps_2possumwood_2properties_8cpp.html" title="src/apps/possumwood\l/properties.cpp" alt="" coords="196,281,363,322"/>
 <area shape="rect" id="node7" href="$main__window_8h.html" title="src/apps/possumwood\l/main_window.h" alt="" coords="387,281,553,322"/>
@@ -48,4 +47,5 @@
 <area shape="rect" id="node46" href="$drawPattern_8cpp.html" title="src/plugins/opencv\l/nodes/calibration/drawPattern.cpp" alt="" coords="5189,281,5436,322"/>
 <area shape="rect" id="node47" href="$findPattern_8cpp.html" title="src/plugins/opencv\l/nodes/calibration/findPattern.cpp" alt="" coords="5460,281,5699,322"/>
 <area shape="rect" id="node48" href="$undistort_8cpp.html" title="src/plugins/opencv\l/nodes/calibration/undistort.cpp" alt="" coords="5723,281,5950,322"/>
+<area shape="rect" id="node49" href="$empty_8cpp.html" title="src/plugins/opencv\l/nodes/capture/empty.cpp" alt="" coords="5974,281,6163,322"/>
 </map>

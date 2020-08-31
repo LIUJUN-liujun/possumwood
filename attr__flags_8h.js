@@ -6,6 +6,6 @@ var attr__flags_8h =
       [ "kVisible", "attr__flags_8h.html#ab858c1f5823dcd657b56bd86949d7658a1157767e9b4fd4f2ffeb7ee94c8fac2f", null ],
       [ "kHidden", "attr__flags_8h.html#ab858c1f5823dcd657b56bd86949d7658a7c5019af37cb66b2492ac211b28eedc1", null ]
     ] ],
-    [ "operator&", "attr__flags_8h.html#a27cc45ab72fdb5d65a005e84b7c3f69d", null ],
+    [ "operator &", "attr__flags_8h.html#adac69c044d12e5854c5cdc6c2bf6228f", null ],
     [ "operator|", "attr__flags_8h.html#a4a4685216f6e3d89105881063736f891", null ]
 ];

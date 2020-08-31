@@ -20,12 +20,10 @@ var searchData=
   ['vectraits_3c_20imath_3a_3avec2_3c_20t_20_3e_20_3e',['VecTraits&lt; Imath::Vec2&lt; T &gt; &gt;',['../structVecTraits_3_01Imath_1_1Vec2_3_01T_01_4_01_4.html',1,'']]],
   ['vectraits_3c_20imath_3a_3avec3_3c_20t_20_3e_20_3e',['VecTraits&lt; Imath::Vec3&lt; T &gt; &gt;',['../structVecTraits_3_01Imath_1_1Vec3_3_01T_01_4_01_4.html',1,'']]],
   ['vecui',['VecUI',['../classVecUI.html',1,'']]],
-  ['vertex',['Vertex',['../classanim_1_1SkinnedVertices_1_1Vertex.html',1,'anim::SkinnedVertices::Vertex'],['../classpossumwood_1_1polymesh_1_1GenericPolymesh_1_1Vertex.html',1,'possumwood::polymesh::GenericPolymesh::Vertex']]],
+  ['vertex',['Vertex',['../classanim_1_1SkinnedVertices_1_1Vertex.html',1,'anim::SkinnedVertices']]],
   ['vertex_5fwrapper',['Vertex_wrapper',['../structpossumwood_1_1CGALItems_1_1Vertex__wrapper.html',1,'possumwood::CGALItems']]],
   ['vertexdata',['VertexData',['../classpossumwood_1_1VertexData.html',1,'possumwood']]],
-  ['vertexextractor',['VertexExtractor',['../structpossumwood_1_1VertexExtractor.html',1,'possumwood']]],
   ['vertexshader',['VertexShader',['../classpossumwood_1_1VertexShader.html',1,'possumwood']]],
-  ['vertices',['Vertices',['../classpossumwood_1_1polymesh_1_1GenericPolymesh_1_1Vertices.html',1,'possumwood::polymesh::GenericPolymesh']]],
   ['viewport',['Viewport',['../classViewport.html',1,'']]],
   ['viewportstate',['ViewportState',['../classpossumwood_1_1ViewportState.html',1,'possumwood']]]
 ];

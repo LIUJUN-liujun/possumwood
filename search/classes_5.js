@@ -1,5 +1,6 @@
 var searchData=
 [
+  ['face',['Face',['../classpossumwood_1_1cgal_1_1PolyhedronWrapper_1_1Face.html',1,'possumwood::cgal::PolyhedronWrapper']]],
   ['face_5fwrapper',['Face_wrapper',['../structpossumwood_1_1CGALItems_1_1Face__wrapper.html',1,'possumwood::CGALItems']]],
   ['factories',['factories',['../classpossumwood_1_1properties_1_1factories.html',1,'possumwood::properties']]],
   ['factory',['factory',['../classpossumwood_1_1properties_1_1factory.html',1,'possumwood::properties::factory'],['../structdependency__graph_1_1Data_1_1Factory.html',1,'dependency_graph::Data::Factory&lt; T &gt;']]],
@@ -11,7 +12,6 @@ var searchData=
   ['factory_5ftyped_3c_20filenames_5fui_20_3e',['factory_typed&lt; filenames_ui &gt;',['../classpossumwood_1_1properties_1_1factory__typed.html',1,'possumwood::properties']]],
   ['factory_5ftyped_3c_20frameeditor_20_3e',['factory_typed&lt; FrameEditor &gt;',['../classpossumwood_1_1properties_1_1factory__typed.html',1,'possumwood::properties']]],
   ['factory_5ftyped_3c_20frameui_20_3e',['factory_typed&lt; FrameUI &gt;',['../classpossumwood_1_1properties_1_1factory__typed.html',1,'possumwood::properties']]],
-  ['factory_5ftyped_3c_20genericmeshui_20_3e',['factory_typed&lt; GenericMeshUI &gt;',['../classpossumwood_1_1properties_1_1factory__typed.html',1,'possumwood::properties']]],
   ['factory_5ftyped_3c_20interval_5fui_20_3e',['factory_typed&lt; interval_ui &gt;',['../classpossumwood_1_1properties_1_1factory__typed.html',1,'possumwood::properties']]],
   ['factory_5ftyped_3c_20jointmappingeditor_20_3e',['factory_typed&lt; JointMappingEditor &gt;',['../classpossumwood_1_1properties_1_1factory__typed.html',1,'possumwood::properties']]],
   ['factory_5ftyped_3c_20meshesui_20_3e',['factory_typed&lt; MeshesUI &gt;',['../classpossumwood_1_1properties_1_1factory__typed.html',1,'possumwood::properties']]],

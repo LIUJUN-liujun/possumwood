@@ -1,9 +1,9 @@
 var classdependency__graph_1_1Connections =
 [
     [ "PortId", "structdependency__graph_1_1Connections_1_1PortId.html", "structdependency__graph_1_1Connections_1_1PortId" ],
-    [ "connections_container", "classdependency__graph_1_1Connections.html#a89589e95381c02b5e76218dff75cf5f5", null ],
-    [ "const_iterator", "classdependency__graph_1_1Connections.html#a26e759c1179b77be843088c31aa99959", null ],
-    [ "iterator", "classdependency__graph_1_1Connections.html#a90c8156c934419a644345e2ea8116608", null ],
+    [ "connections_container", "classdependency__graph_1_1Connections.html#afac97e2becdb92a7310eff8b94bf5b1c", null ],
+    [ "const_iterator", "classdependency__graph_1_1Connections.html#acb6dbd8b9533c813bf6eaa0bb26da3c4", null ],
+    [ "iterator", "classdependency__graph_1_1Connections.html#a06c4309c314cbea4a2c77adc1e0f457b", null ],
     [ "Connections", "classdependency__graph_1_1Connections.html#a67532562d81cad4b13853cc7f41ba7e6", null ],
     [ "add", "classdependency__graph_1_1Connections.html#a98983f3d5074fc3f3312bf14ee0d976a", null ],
     [ "begin", "classdependency__graph_1_1Connections.html#a7fe2f8815cf172517ebc3b6a03d6fe57", null ],

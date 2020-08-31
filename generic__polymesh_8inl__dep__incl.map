@@ -1,7 +1,0 @@
-<map id="src/plugins/polymesh/generic_polymesh.inl" name="src/plugins/polymesh/generic_polymesh.inl">
-<area shape="rect" id="node2" href="$generic__polymesh_8cpp.html" title="src/plugins/polymesh\l/generic_polymesh.cpp" alt="" coords="5,95,177,136"/>
-<area shape="rect" id="node3" href="$plugins_2polymesh_2nodes_2grid_8cpp.html" title="src/plugins/polymesh\l/nodes/grid.cpp" alt="" coords="202,95,362,136"/>
-<area shape="rect" id="node4" href="$polymesh_2nodes_2loader_8cpp.html" title="src/plugins/polymesh\l/nodes/loader.cpp" alt="" coords="386,95,546,136"/>
-<area shape="rect" id="node5" href="$polymesh_2nodes_2vertex__data_8cpp.html" title="src/plugins/polymesh\l/nodes/vertex_data.cpp" alt="" coords="571,95,745,136"/>
-<area shape="rect" id="node6" href="$obj_8cpp.html" title="src/plugins/polymesh\l/obj.cpp" alt="" coords="770,95,930,136"/>
-</map>

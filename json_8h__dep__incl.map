@@ -7,7 +7,7 @@
 <area shape="rect" id="node50" href="$tests_2dependency__graph_2common_8h.html" title="src/tests/dependency\l_graph/common.h" alt="" coords="6691,95,6851,136"/>
 <area shape="rect" id="node3" href="$node__data_8h.html" title="src/libs/actions/node\l_data.h" alt="" coords="6187,273,6342,315"/>
 <area shape="rect" id="node9" href="$tests_2possumwood_2io_8cpp.html" title="src/tests/possumwood\l/io.cpp" alt="" coords="6300,370,6467,411"/>
-<area shape="rect" id="node10" href="$libs_2actions_2traits_8h.html" title="src/libs/actions/traits.h" alt="" coords="3556,191,3725,218"/>
+<area shape="rect" id="node10" href="$traits_8h.html" title="src/libs/actions/traits.h" alt="" coords="3556,191,3725,218"/>
 <area shape="rect" id="node38" href="$datatypes_2filename_8h.html" title="src/libs/possumwood\l_sdk/datatypes/filename.h" alt="" coords="4867,273,5062,315"/>
 <area shape="rect" id="node39" href="$amc_8cpp.html" title="src/plugins/anim/nodes\l/loaders/amc.cpp" alt="" coords="5339,370,5511,411"/>
 <area shape="rect" id="node40" href="$asf_8cpp.html" title="src/plugins/anim/nodes\l/loaders/asf.cpp" alt="" coords="5535,370,5707,411"/>

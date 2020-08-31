@@ -1,6 +1,6 @@
 <map id="src/libs/qt_node_editor/graph_widget.h" name="src/libs/qt_node_editor/graph_widget.h">
-<area shape="rect" id="node3" href="$qt__node__editor_2node_8h.html" title="node.h" alt="" coords="131,169,197,196"/>
-<area shape="rect" id="node10" href="$graph__scene_8h.html" title="graph_scene.h" alt="" coords="265,95,381,121"/>
-<area shape="rect" id="node7" href="$qt__node__editor_2port_8h.html" title="port.h" alt="" coords="417,244,477,271"/>
-<area shape="rect" id="node14" href="$edge_8h.html" title="edge.h" alt="" coords="541,169,608,196"/>
+<area shape="rect" id="node3" href="$graph__scene_8h.html" title="graph_scene.h" alt="" coords="241,95,357,121"/>
+<area shape="rect" id="node14" href="$qt__node__editor_2node_8h.html" title="node.h" alt="" coords="416,169,483,196"/>
+<area shape="rect" id="node7" href="$edge_8h.html" title="edge.h" alt="" coords="325,169,392,196"/>
+<area shape="rect" id="node10" href="$qt__node__editor_2port_8h.html" title="port.h" alt="" coords="351,244,411,271"/>
 </map>

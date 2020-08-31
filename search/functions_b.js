@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['label',['label',['../structlightfields_1_1SlicSuperpixels.html#a9a575a1cda67c117944d1765253392dd',1,'lightfields::SlicSuperpixels::label()'],['../structlightfields_1_1SlicSuperpixels_1_1Label.html#a0db5424d6237dde647919e496ea9bfd7',1,'lightfields::SlicSuperpixels::Label::Label()']]],
+  ['label',['Label',['../structlightfields_1_1SlicSuperpixels_1_1Label.html#a0db5424d6237dde647919e496ea9bfd7',1,'lightfields::SlicSuperpixels::Label::Label()'],['../structlightfields_1_1SlicSuperpixels.html#a9a575a1cda67c117944d1765253392dd',1,'lightfields::SlicSuperpixels::label()']]],
   ['labeldistance',['labelDistance',['../classTimeline.html#a365fe535feca08a731b1097cdb215339',1,'Timeline']]],
   ['labels',['Labels',['../classlightfields_1_1Labels.html#ab29a801cbab2396f4f8fa1cb0541f0f8',1,'lightfields::Labels']]],
   ['laplacian',['laplacian',['../namespacepossumwood_1_1opencv.html#a299186614385171e0f219eecd5f9e08b',1,'possumwood::opencv']]],
@@ -21,7 +21,6 @@ var searchData=
   ['little_5fendianess',['little_endianess',['../classpossumwood_1_1io_1_1basic__json_1_1binary__reader.html#a49617d269b4e8eed99d320d2839674be',1,'possumwood::io::basic_json::binary_reader']]],
   ['load',['load',['../classpossumwood_1_1Font.html#a969ef1857d02d4a7d1482621307dc3b6',1,'possumwood::Font::load()'],['../namespacepossumwood_1_1opencv.html#a523aa596c773ab2f1ae3d876fdb62950',1,'possumwood::opencv::load()']]],
   ['loadfile',['loadFile',['../classMainWindow.html#a5b465ad4bfb6726b130c4bc2d93be83e',1,'MainWindow::loadFile()'],['../classpossumwood_1_1App.html#a9b4c69bcc89fe66473edfb3663d3679e',1,'possumwood::App::loadFile(const Filepath &amp;fn, bool alterCurrentFilename=true)'],['../classpossumwood_1_1App.html#a98000471b954e27deae9d14a51f4ddfb',1,'possumwood::App::loadFile(const possumwood::io::json &amp;json)']]],
-  ['loadobj',['loadObj',['../namespacepossumwood_1_1polymesh.html#a3591b8ca89d5b26262213d0a6a956409',1,'possumwood::polymesh']]],
   ['loadscene',['loadScene',['../apps_2possumwood__cli_2main_8cpp.html#aa09934fca2d602843d8935091652cac4',1,'main.cpp']]],
   ['localminima',['localMinima',['../classanim_1_1MotionMap.html#a916a5bf5fb3cfc870c81aab30144f0ef',1,'anim::MotionMap']]],
   ['lookat',['lookAt',['../classpossumwood_1_1ViewportState.html#aa73fd5031da5bf8b66d77a4d3a21c9cb',1,'possumwood::ViewportState']]]

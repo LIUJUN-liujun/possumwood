@@ -1,11 +1,11 @@
 <map id="src/plugins/render/datatypes/font.h" name="src/plugins/render/datatypes/font.h">
-<area shape="rect" id="node4" href="$libs_2actions_2traits_8h.html" title="actions/traits.h" alt="" coords="2024,95,2143,121"/>
-<area shape="rect" id="node6" href="$rtti_8h.html" title="dependency_graph/rtti.h" alt="" coords="979,319,1159,345"/>
-<area shape="rect" id="node10" href="$libs_2actions_2io_8h.html" title="actions/io.h" alt="" coords="2040,169,2137,196"/>
-<area shape="rect" id="node13" href="$data_8inl.html" title="dependency_graph/data.inl" alt="" coords="2217,244,2416,271"/>
-<area shape="rect" id="node20" href="$libs_2dependency__graph_2io_8h.html" title="dependency_graph/io.h" alt="" coords="2441,244,2614,271"/>
-<area shape="rect" id="node21" href="$json_8h.html" title="io/json.h" alt="" coords="1481,319,1558,345"/>
-<area shape="rect" id="node16" href="$data_8h.html" title="data.h" alt="" coords="2489,319,2552,345"/>
-<area shape="rect" id="node19" href="$static__initialisation_8h.html" title="static_initialisation.h" alt="" coords="2236,319,2395,345"/>
-<area shape="rect" id="node18" href="$data__traits_8h.html" title="data_traits.h" alt="" coords="2658,393,2762,420"/>
+<area shape="rect" id="node2" href="$traits_8h.html" title="actions/traits.h" alt="" coords="1506,95,1625,121"/>
+<area shape="rect" id="node3" href="$rtti_8h.html" title="dependency_graph/rtti.h" alt="" coords="2123,319,2303,345"/>
+<area shape="rect" id="node8" href="$libs_2actions_2io_8h.html" title="actions/io.h" alt="" coords="1277,169,1374,196"/>
+<area shape="rect" id="node9" href="$libs_2dependency__graph_2io_8h.html" title="dependency_graph/io.h" alt="" coords="463,244,636,271"/>
+<area shape="rect" id="node18" href="$data_8inl.html" title="dependency_graph/data.inl" alt="" coords="661,244,859,271"/>
+<area shape="rect" id="node20" href="$json_8h.html" title="io/json.h" alt="" coords="1467,319,1544,345"/>
+<area shape="rect" id="node10" href="$data_8h.html" title="data.h" alt="" coords="477,319,539,345"/>
+<area shape="rect" id="node17" href="$data__traits_8h.html" title="data_traits.h" alt="" coords="253,393,357,420"/>
+<area shape="rect" id="node19" href="$static__initialisation_8h.html" title="static_initialisation.h" alt="" coords="677,319,835,345"/>
 </map>

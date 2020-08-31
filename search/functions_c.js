@@ -7,7 +7,6 @@ var searchData=
   ['makepath',['makePath',['../classnode__editor_1_1Edge.html#af57c275349db0988ab3d0ed93668dac0',1,'node_editor::Edge']]],
   ['makerowoffsets',['makeRowOffsets',['../classlightfields_1_1Samples.html#a413b200b9c8ebe74c19340456c385d99',1,'lightfields::Samples']]],
   ['makevalue',['makeValue',['../classpossumwood_1_1PropertyBase.html#a0d2b93758d802915bca5ca6548a8a9b2',1,'possumwood::PropertyBase::makeValue()'],['../classpossumwood_1_1Property.html#ac28b7e141ab4bdf9c919da7cc0ecddfd',1,'possumwood::Property::makeValue()']]],
-  ['makevbo',['makeVBO',['../namespacepossumwood.html#ac1d4c36db4f943b19430f3341cb7e3d5',1,'possumwood']]],
   ['maptoscene',['mapToScene',['../classAdaptor.html#a101bc3474a7eba9ff8bda8ba250f9d87',1,'Adaptor']]],
   ['margin',['margin',['../classnode__editor_1_1Port.html#a3d095132f57c5f9fceed86a096d6637e',1,'node_editor::Port']]],
   ['markasdirty',['markAsDirty',['../classdependency__graph_1_1NodeBase.html#a6817f9e9aef7af50049c9b947ea1c08d',1,'dependency_graph::NodeBase']]],

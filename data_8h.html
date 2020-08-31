@@ -87,13 +87,13 @@ $(document).ready(function(){initNavTree('data_8h.html','');});
 <div class="title">data.h File Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &lt;memory&gt;</code><br />
-<code>#include &lt;functional&gt;</code><br />
-<code>#include &lt;type_traits&gt;</code><br />
-<code>#include &lt;map&gt;</code><br />
-<code>#include &lt;sstream&gt;</code><br />
+<div class="textblock"><code>#include &lt;boost/noncopyable.hpp&gt;</code><br />
 <code>#include &lt;cassert&gt;</code><br />
-<code>#include &lt;boost/noncopyable.hpp&gt;</code><br />
+<code>#include &lt;functional&gt;</code><br />
+<code>#include &lt;map&gt;</code><br />
+<code>#include &lt;memory&gt;</code><br />
+<code>#include &lt;sstream&gt;</code><br />
+<code>#include &lt;type_traits&gt;</code><br />
 <code>#include &quot;<a class="el" href="data__traits_8h_source.html">data_traits.h</a>&quot;</code><br />
 </div><div class="textblock"><div class="dynheader">
 Include dependency graph for data.h:</div>
@@ -112,9 +112,9 @@ This graph shows which files directly or indirectly include this file:</div>
 <area shape="rect" id="node19" href="dependency__graph_2metadata_8h.html" title="src/libs/dependency\l_graph/metadata.h" alt="" coords="1506,184,1657,225"/>
 <area shape="rect" id="node21" href="datablock_8h.html" title="src/libs/dependency\l_graph/datablock.h" alt="" coords="941,273,1091,315"/>
 <area shape="rect" id="node22" href="node__base_8h.html" title="src/libs/dependency\l_graph/node_base.h" alt="" coords="889,363,1041,404"/>
-<area shape="rect" id="node30" href="dependency__graph_2nodes_8h.html" title="src/libs/dependency\l_graph/nodes.h" alt="" coords="335,541,486,583"/>
+<area shape="rect" id="node25" href="dependency__graph_2nodes_8h.html" title="src/libs/dependency\l_graph/nodes.h" alt="" coords="335,541,486,583"/>
 <area shape="rect" id="node43" href="data_8inl.html" title="src/libs/dependency\l_graph/data.inl" alt="" coords="2141,363,2291,404"/>
-<area shape="rect" id="node46" href="tests_2possumwood_2io_8h.html" title="src/tests/possumwood/io.h" alt="" coords="2329,549,2524,575"/>
+<area shape="rect" id="node45" href="tests_2possumwood_2io_8h.html" title="src/tests/possumwood/io.h" alt="" coords="2329,549,2524,575"/>
 <area shape="rect" id="node48" href="libs_2dependency__graph_2io_8h.html" title="src/libs/dependency\l_graph/io.h" alt="" coords="2439,363,2590,404"/>
 <area shape="rect" id="node50" href="tests_2dependency__graph_2io_8cpp.html" title="src/tests/dependency\l_graph/io.cpp" alt="" coords="3007,95,3167,136"/>
 <area shape="rect" id="node3" href="attr_8inl.html" title="src/libs/dependency\l_graph/attr.inl" alt="" coords="2067,809,2218,851"/>
@@ -147,14 +147,14 @@ This graph shows which files directly or indirectly include this file:</div>
 <area shape="rect" id="node39" href="tests_2dependency__graph_2common_8h.html" title="src/tests/dependency\l_graph/common.h" alt="" coords="2671,809,2831,851"/>
 <area shape="rect" id="node40" href="tests_2possumwood_2common_8h.html" title="src/tests/possumwood\l/common.h" alt="" coords="1291,809,1458,851"/>
 <area shape="rect" id="node23" href="libs_2actions_2detail_2tools_8h.html" title="src/libs/actions/detail\l/tools.h" alt="" coords="940,452,1100,493"/>
-<area shape="rect" id="node27" href="node__base_8inl.html" title="src/libs/dependency\l_graph/node_base.inl" alt="" coords="588,809,748,851"/>
-<area shape="rect" id="node28" href="node__base_8cpp.html" title="src/libs/dependency\l_graph/node_base.cpp" alt="" coords="874,809,1041,851"/>
-<area shape="rect" id="node25" href="dependency__graph_2graph_8h.html" title="src/libs/dependency\l_graph/graph.h" alt="" coords="714,720,865,761"/>
-<area shape="rect" id="node26" href="nodes_8inl.html" title="src/libs/dependency\l_graph/nodes.inl" alt="" coords="415,899,566,940"/>
-<area shape="rect" id="node29" href="dependency__graph_2port_8cpp.html" title="src/libs/dependency\l_graph/port.cpp" alt="" coords="1065,809,1215,851"/>
-<area shape="rect" id="node31" href="network_8h.html" title="src/libs/dependency\l_graph/network.h" alt="" coords="335,631,486,672"/>
+<area shape="rect" id="node29" href="node__base_8inl.html" title="src/libs/dependency\l_graph/node_base.inl" alt="" coords="588,809,748,851"/>
+<area shape="rect" id="node30" href="node__base_8cpp.html" title="src/libs/dependency\l_graph/node_base.cpp" alt="" coords="874,809,1041,851"/>
+<area shape="rect" id="node27" href="dependency__graph_2graph_8h.html" title="src/libs/dependency\l_graph/graph.h" alt="" coords="714,720,865,761"/>
+<area shape="rect" id="node26" href="network_8h.html" title="src/libs/dependency\l_graph/network.h" alt="" coords="335,631,486,672"/>
+<area shape="rect" id="node28" href="nodes_8inl.html" title="src/libs/dependency\l_graph/nodes.inl" alt="" coords="415,899,566,940"/>
+<area shape="rect" id="node31" href="dependency__graph_2port_8cpp.html" title="src/libs/dependency\l_graph/port.cpp" alt="" coords="1065,809,1215,851"/>
 <area shape="rect" id="node44" href="libs_2actions_2io_8h.html" title="src/libs/actions/io.h" alt="" coords="2329,459,2476,486"/>
-<area shape="rect" id="node45" href="tests_2possumwood_2io_8cpp.html" title="src/tests/possumwood\l/io.cpp" alt="" coords="2229,631,2395,672"/>
+<area shape="rect" id="node46" href="tests_2possumwood_2io_8cpp.html" title="src/tests/possumwood\l/io.cpp" alt="" coords="2229,631,2395,672"/>
 <area shape="rect" id="node47" href="data_8cpp.html" title="src/libs/dependency\l_graph/data.cpp" alt="" coords="1951,452,2102,493"/>
 <area shape="rect" id="node49" href="libs_2dependency__graph_2io_8cpp.html" title="src/libs/dependency\l_graph/io.cpp" alt="" coords="2551,452,2702,493"/>
 </map>
@@ -189,7 +189,7 @@ Functions</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="dir_68267d1309a1af8e8297ef4c3efbcdba.html">src</a></li><li class="navelem"><a class="el" href="dir_87a455bccb09a92130c26a11a880c98a.html">libs</a></li><li class="navelem"><a class="el" href="dir_2f37f34eeec95f453fe4cb748dff596f.html">dependency_graph</a></li><li class="navelem"><a class="el" href="data_8h.html">data.h</a></li>
-    <li class="footer">Generated on Sun Aug 30 2020 14:30:35 for possumwood by
+    <li class="footer">Generated on Mon Aug 31 2020 14:48:31 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.13 </li>
   </ul>

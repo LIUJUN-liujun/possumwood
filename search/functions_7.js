@@ -2,8 +2,6 @@ var searchData=
 [
   ['h_5findex',['h_index',['../classlightfields_1_1NLinks.html#a98e9052148f1f8abf865ea8a20ec45b2',1,'lightfields::NLinks']]],
   ['halfedgeproperties',['halfedgeProperties',['../classpossumwood_1_1Mesh.html#a5d0ee5f4bbe316a363f9b3bee15c904f',1,'possumwood::Mesh::halfedgeProperties() const'],['../classpossumwood_1_1Mesh.html#a519603c67e7edb30d23229dc76873013',1,'possumwood::Mesh::halfedgeProperties()']]],
-  ['handle',['Handle',['../classpossumwood_1_1polymesh_1_1GenericBase_1_1Handle.html#ae503f49a391c51d788edc4e5318008ff',1,'possumwood::polymesh::GenericBase::Handle::Handle()'],['../classpossumwood_1_1polymesh_1_1GenericBase_1_1Handle.html#a4dfc2bc789f937572a7ece54b3774df2',1,'possumwood::polymesh::GenericBase::Handle::Handle(const std::string &amp;n, const std::type_index &amp;type, std::size_t index)']]],
-  ['handles',['Handles',['../classpossumwood_1_1polymesh_1_1GenericBase_1_1Handles.html#ae8f8906da8fa2cef85279df92e5b0a39',1,'possumwood::polymesh::GenericBase::Handles::Handles()'],['../classpossumwood_1_1polymesh_1_1GenericBase.html#a32a1729e029dc69910deb95f0efafa89',1,'possumwood::polymesh::GenericBase::handles()'],['../classpossumwood_1_1polymesh_1_1GenericBase.html#a0a901407331db7d3c927f283895d7c97',1,'possumwood::polymesh::GenericBase::handles() const']]],
   ['hasblinddata',['hasBlindData',['../classdependency__graph_1_1NodeBase.html#a8d2fe3588a002894aec5cb51bb46e91b',1,'dependency_graph::NodeBase']]],
   ['haseditor',['hasEditor',['../classpossumwood_1_1Metadata.html#af87f13df7d8e24d179e476266079d43e',1,'possumwood::Metadata']]],
   ['hasparent',['hasParent',['../classanim_1_1Skeleton_1_1Joint.html#ae1b2064c8bf65c5d602f5b62394a226b',1,'anim::Skeleton::Joint']]],

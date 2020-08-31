@@ -7,7 +7,7 @@
 <area shape="rect" id="node43" href="$datablock_8inl.html" title="src/libs/dependency\l_graph/datablock.inl" alt="" coords="2911,184,3066,225"/>
 <area shape="rect" id="node48" href="$dependency__graph_2metadata_8inl.html" title="src/libs/dependency\l_graph/metadata.inl" alt="" coords="1939,273,2092,315"/>
 <area shape="rect" id="node3" href="$node__data_8h.html" title="src/libs/actions/node\l_data.h" alt="" coords="4855,273,5010,315"/>
-<area shape="rect" id="node13" href="$libs_2actions_2traits_8h.html" title="src/libs/actions/traits.h" alt="" coords="5312,191,5481,218"/>
+<area shape="rect" id="node13" href="$traits_8h.html" title="src/libs/actions/traits.h" alt="" coords="5312,191,5481,218"/>
 <area shape="rect" id="node14" href="$enum_8h.html" title="src/libs/possumwood\l_sdk/datatypes/enum.h" alt="" coords="5464,273,5639,315"/>
 <area shape="rect" id="node15" href="$datatypes_2filename_8h.html" title="src/libs/possumwood\l_sdk/datatypes/filename.h" alt="" coords="5401,363,5595,404"/>
 <area shape="rect" id="node16" href="$amc_8cpp.html" title="src/plugins/anim/nodes\l/loaders/amc.cpp" alt="" coords="5231,452,5403,493"/>

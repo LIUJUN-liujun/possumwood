@@ -1,7 +1,7 @@
 <map id="src/plugins/anim/datatypes/constraints/channel.cpp" name="src/plugins/anim/datatypes/constraints/channel.cpp">
-<area shape="rect" id="node2" href="$channel_8h.html" title="channel.h" alt="" coords="103,95,189,121"/>
-<area shape="rect" id="node3" href="$frames_8h.html" title="frames.h" alt="" coords="50,169,130,196"/>
-<area shape="rect" id="node10" href="$constraint_8h.html" title="constraint.h" alt="" coords="154,169,253,196"/>
-<area shape="rect" id="node5" href="$anim_2datatypes_2constraints_2frame_8h.html" title="frame.h" alt="" coords="92,244,165,271"/>
-<area shape="rect" id="node6" href="$transform_8h.html" title="datatypes/transform.h" alt="" coords="83,319,249,345"/>
+<area shape="rect" id="node2" href="$channel_8h.html" title="channel.h" alt="" coords="113,95,198,121"/>
+<area shape="rect" id="node3" href="$constraint_8h.html" title="constraint.h" alt="" coords="50,169,149,196"/>
+<area shape="rect" id="node8" href="$frames_8h.html" title="frames.h" alt="" coords="173,169,253,196"/>
+<area shape="rect" id="node4" href="$transform_8h.html" title="anim/datatypes/transform.h" alt="" coords="77,319,281,345"/>
+<area shape="rect" id="node10" href="$anim_2datatypes_2constraints_2frame_8h.html" title="frame.h" alt="" coords="224,244,297,271"/>
 </map>

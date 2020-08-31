@@ -5,8 +5,8 @@
 <area shape="rect" id="node7" href="$plugins_2opencv_2frame_8cpp.html" title="src/plugins/opencv\l/frame.cpp" alt="" coords="675,95,817,136"/>
 <area shape="rect" id="node8" href="$sequence_8h.html" title="src/plugins/opencv\l/sequence.h" alt="" coords="3836,95,3979,136"/>
 <area shape="rect" id="node40" href="$opencv_2ui_2frame_8h.html" title="src/plugins/opencv\l/ui/frame.h" alt="" coords="8177,95,8320,136"/>
-<area shape="rect" id="node3" href="$lua_2module_8cpp.html" title="src/plugins/images\l/lua/module.cpp" alt="" coords="197,191,341,233"/>
-<area shape="rect" id="node6" href="$nodes_2lua_2module_8cpp.html" title="src/plugins/images\l/nodes/lua/module.cpp" alt="" coords="365,191,535,233"/>
+<area shape="rect" id="node3" href="$images_2lua_2module_8cpp.html" title="src/plugins/images\l/lua/module.cpp" alt="" coords="197,191,341,233"/>
+<area shape="rect" id="node6" href="$images_2nodes_2lua_2module_8cpp.html" title="src/plugins/images\l/nodes/lua/module.cpp" alt="" coords="365,191,535,233"/>
 <area shape="rect" id="node9" href="$image__sequence_8cpp.html" title="src/plugins/opencv\l/nodes/capture/image\l_sequence.cpp" alt="" coords="739,184,902,240"/>
 <area shape="rect" id="node10" href="$video__sequence_8cpp.html" title="src/plugins/opencv\l/nodes/capture/video\l_sequence.cpp" alt="" coords="927,184,1085,240"/>
 <area shape="rect" id="node11" href="$calibrate__debevec_8cpp.html" title="src/plugins/opencv\l/nodes/hdr/calibrate\l_debevec.cpp" alt="" coords="1109,184,1260,240"/>

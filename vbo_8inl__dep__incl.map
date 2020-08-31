@@ -1,10 +1,9 @@
 <map id="src/plugins/render/datatypes/vbo.inl" name="src/plugins/render/datatypes/vbo.inl">
-<area shape="rect" id="node2" href="$vertex__data_8inl.html" title="src/plugins/render\l/datatypes/vertex_data.inl" alt="" coords="497,95,690,136"/>
-<area shape="rect" id="node5" href="$draw_8cpp.html" title="src/plugins/render\l/nodes/draw.cpp" alt="" coords="5,184,144,225"/>
-<area shape="rect" id="node3" href="$polymesh_2nodes_2vertex__data_8cpp.html" title="src/plugins/polymesh\l/nodes/vertex_data.cpp" alt="" coords="169,184,343,225"/>
-<area shape="rect" id="node4" href="$render_2datatypes_2vertex__data_8cpp.html" title="src/plugins/render\l/datatypes/vertex_data.cpp" alt="" coords="368,184,568,225"/>
-<area shape="rect" id="node6" href="$background_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/background.cpp" alt="" coords="593,184,847,225"/>
-<area shape="rect" id="node7" href="$render_2nodes_2vertex__data_2cgal_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/cgal.cpp" alt="" coords="872,184,1077,225"/>
-<area shape="rect" id="node8" href="$plugins_2render_2nodes_2vertex__data_2frame_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/frame.cpp" alt="" coords="1102,184,1319,225"/>
-<area shape="rect" id="node9" href="$render_2nodes_2vertex__data_2text_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/text.cpp" alt="" coords="1343,184,1547,225"/>
+<area shape="rect" id="node2" href="$vertex__data_8inl.html" title="src/plugins/render\l/datatypes/vertex_data.inl" alt="" coords="423,95,617,136"/>
+<area shape="rect" id="node4" href="$draw_8cpp.html" title="src/plugins/render\l/nodes/draw.cpp" alt="" coords="5,184,144,225"/>
+<area shape="rect" id="node3" href="$vertex__data_8cpp.html" title="src/plugins/render\l/datatypes/vertex_data.cpp" alt="" coords="168,184,368,225"/>
+<area shape="rect" id="node5" href="$background_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/background.cpp" alt="" coords="393,184,647,225"/>
+<area shape="rect" id="node6" href="$render_2nodes_2vertex__data_2cgal_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/cgal.cpp" alt="" coords="672,184,877,225"/>
+<area shape="rect" id="node7" href="$plugins_2render_2nodes_2vertex__data_2frame_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/frame.cpp" alt="" coords="902,184,1119,225"/>
+<area shape="rect" id="node8" href="$render_2nodes_2vertex__data_2text_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/text.cpp" alt="" coords="1143,184,1347,225"/>
 </map>

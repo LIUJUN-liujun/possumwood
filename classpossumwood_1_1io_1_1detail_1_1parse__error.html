@@ -154,32 +154,9 @@ Additional Inherited Members</h2></td></tr>
 <tr>
 <th>name / id </th><th>example massage </th><th>description  </th></tr>
 <tr>
-<td>json.exception.parse_error.101 </td><td>parse error at 2: unexpected end of input; expected string literal </td><td>This error indicates a syntax error while deserializing a JSON text. The error message describes that an unexpected token (character) was encountered, and the member <em>byte</em> indicates the error position. </td></tr>
-<tr>
-<td>json.exception.parse_error.102 </td><td>parse error at 14: missing or wrong low surrogate </td><td>JSON uses the <code>\uxxxx</code> format to describe Unicode characters. Code points above above 0xFFFF are split into two <code>\uxxxx</code> entries ("surrogate pairs"). This error indicates that the surrogate pair is incomplete or contains an invalid code point. </td></tr>
-<tr>
-<td>json.exception.parse_error.103 </td><td>parse error: code points above 0x10FFFF are invalid </td><td>Unicode supports code points up to 0x10FFFF. Code points above 0x10FFFF are invalid. </td></tr>
-<tr>
-<td>json.exception.parse_error.104 </td><td>parse error: JSON patch must be an array of objects </td><td><a href="https://tools.ietf.org/html/rfc6902">RFC 6902</a> requires a JSON Patch document to be a JSON document that represents an array of objects. </td></tr>
-<tr>
-<td>json.exception.parse_error.105 </td><td>parse error: operation must have string member 'op' </td><td>An operation of a JSON Patch document must contain exactly one "op" member, whose value indicates the operation to perform. Its value must be one of "add", "remove", "replace", "move", "copy", or "test"; other values are errors. </td></tr>
-<tr>
-<td>json.exception.parse_error.106 </td><td>parse error: array index '01' must not begin with '0' </td><td>An array index in a JSON Pointer (<a href="https://tools.ietf.org/html/rfc6901">RFC 6901</a>) may be <code>0</code> or any number wihtout a leading <code>0</code>. </td></tr>
-<tr>
-<td>json.exception.parse_error.107 </td><td>parse error: JSON pointer must be empty or begin with '/' - was: 'foo' </td><td>A JSON Pointer must be a Unicode string containing a sequence of zero or more reference tokens, each prefixed by a <code>/</code> character. </td></tr>
-<tr>
-<td>json.exception.parse_error.108 </td><td>parse error: escape character '~' must be followed with '0' or '1' </td><td>In a JSON Pointer, only <code>~0</code> and <code>~1</code> are valid escape sequences. </td></tr>
-<tr>
-<td>json.exception.parse_error.109 </td><td>parse error: array index 'one' is not a number </td><td>A JSON Pointer array index must be a number. </td></tr>
-<tr>
-<td>json.exception.parse_error.110 </td><td>parse error at 1: cannot read 2 bytes from vector </td><td>When parsing CBOR or MessagePack, the byte vector ends before the complete value has been read. </td></tr>
-<tr>
-<td>json.exception.parse_error.111 </td><td>parse error: bad input stream </td><td>Parsing CBOR or MessagePack from an input stream where the <a href="http://en.cppreference.com/w/cpp/io/ios_base/iostate"><code>badbit</code> or <code>failbit</code></a> is set. </td></tr>
-<tr>
-<td>json.exception.parse_error.112 </td><td>parse error at 1: error reading CBOR; last byte: 0xf8 </td><td>Not all types of CBOR or MessagePack are supported. This exception occurs if an unsupported byte was read. </td></tr>
-<tr>
-<td>json.exception.parse_error.113 </td><td>parse error at 2: expected a CBOR string; last byte: 0x98 </td><td>While parsing a map key, a value that is not a string has been read. </td></tr>
+<td>json.exception.parse_error.101 </td><td>parse error at 2: unexpected end of input; expected string literal </td><td>This error </td></tr>
 </table>
+<p>indicates a syntax error while deserializing a JSON text. The error message describes that an unexpected token (character) was encountered, and the member <em>byte</em> indicates the error position. json.exception.parse_error.102 | parse error at 14: missing or wrong low surrogate | JSON uses the <code>\uxxxx</code> format to describe Unicode characters. Code points above above 0xFFFF are split into two <code>\uxxxx</code> entries ("surrogate pairs"). This error indicates that the surrogate pair is incomplete or contains an invalid code point. json.exception.parse_error.103 | parse error: code points above 0x10FFFF are invalid | Unicode supports code points up to 0x10FFFF. Code points above 0x10FFFF are invalid. json.exception.parse_error.104 | parse error: JSON patch must be an array of objects | <a href="https://tools.ietf.org/html/rfc6902">RFC 6902</a> requires a JSON Patch document to be a JSON document that represents an array of objects. json.exception.parse_error.105 | parse error: operation must have string member 'op' | An operation of a JSON Patch document must contain exactly one "op" member, whose value indicates the operation to perform. Its value must be one of "add", "remove", "replace", "move", "copy", or "test"; other values are errors. json.exception.parse_error.106 | parse error: array index '01' must not begin with '0' | An array index in a JSON Pointer (<a href="https://tools.ietf.org/html/rfc6901">RFC 6901</a>) may be <code>0</code> or any number wihtout a leading <code>0</code>. json.exception.parse_error.107 | parse error: JSON pointer must be empty or begin with '/' - was: 'foo' | A JSON Pointer must be a Unicode string containing a sequence of zero or more reference tokens, each prefixed by a <code>/</code> character. json.exception.parse_error.108 | parse error: escape character '~' must be followed with '0' or '1' | In a JSON Pointer, only <code>~0</code> and <code>~1</code> are valid escape sequences. json.exception.parse_error.109 | parse error: array index 'one' is not a number | A JSON Pointer array index must be a number. json.exception.parse_error.110 | parse error at 1: cannot read 2 bytes from vector | When parsing CBOR or MessagePack, the byte vector ends before the complete value has been read. json.exception.parse_error.111 | parse error: bad input stream | Parsing CBOR or MessagePack from an input stream where the <a href="http://en.cppreference.com/w/cpp/io/ios_base/iostate"><code>badbit</code> or <code>failbit</code></a> is set. json.exception.parse_error.112 | parse error at 1: error reading CBOR; last byte: 0xf8 | Not all types of CBOR or MessagePack are supported. This exception occurs if an unsupported byte was read. json.exception.parse_error.113 | parse error at 2: expected a CBOR string; last byte: 0x98 | While parsing a map key, a value that is not a string has been read.</p>
 <dl class="section since"><dt>Since</dt><dd>version 3.0.0 </dd></dl>
 </div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
 <a id="a0d8899d330889139411388dcc8c9899f"></a>
@@ -306,7 +283,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacepossumwood.html">possumwood</a></li><li class="navelem"><a class="el" href="namespacepossumwood_1_1io.html">io</a></li><li class="navelem"><a class="el" href="namespacepossumwood_1_1io_1_1detail.html">detail</a></li><li class="navelem"><a class="el" href="classpossumwood_1_1io_1_1detail_1_1parse__error.html">parse_error</a></li>
-    <li class="footer">Generated on Sun Aug 30 2020 14:30:37 for possumwood by
+    <li class="footer">Generated on Mon Aug 31 2020 14:48:33 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.13 </li>
   </ul>

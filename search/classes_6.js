@@ -1,15 +1,6 @@
 var searchData=
 [
   ['gap',['Gap',['../structlightfields_1_1Labels_1_1Gap.html',1,'lightfields::Labels']]],
-  ['genericbase',['GenericBase',['../classpossumwood_1_1polymesh_1_1GenericBase.html',1,'possumwood::polymesh']]],
-  ['genericcontainer',['GenericContainer',['../classpossumwood_1_1polymesh_1_1GenericContainer.html',1,'possumwood::polymesh']]],
-  ['genericcontainer_3c_20index_20_3e',['GenericContainer&lt; Index &gt;',['../classpossumwood_1_1polymesh_1_1GenericContainer.html',1,'possumwood::polymesh']]],
-  ['genericcontainer_3c_20polygon_20_3e',['GenericContainer&lt; Polygon &gt;',['../classpossumwood_1_1polymesh_1_1GenericContainer.html',1,'possumwood::polymesh']]],
-  ['genericcontainer_3c_20possumwood_3a_3apolymesh_3a_3agenericpolymesh_3a_3aindex_20_3e',['GenericContainer&lt; possumwood::polymesh::GenericPolymesh::Index &gt;',['../classpossumwood_1_1polymesh_1_1GenericContainer.html',1,'possumwood::polymesh']]],
-  ['genericcontainer_3c_20possumwood_3a_3apolymesh_3a_3agenericpolymesh_3a_3avertex_20_3e',['GenericContainer&lt; possumwood::polymesh::GenericPolymesh::Vertex &gt;',['../classpossumwood_1_1polymesh_1_1GenericContainer.html',1,'possumwood::polymesh']]],
-  ['genericcontainer_3c_20vertex_20_3e',['GenericContainer&lt; Vertex &gt;',['../classpossumwood_1_1polymesh_1_1GenericContainer.html',1,'possumwood::polymesh']]],
-  ['genericmeshui',['GenericMeshUI',['../classGenericMeshUI.html',1,'']]],
-  ['genericpolymesh',['GenericPolymesh',['../classpossumwood_1_1polymesh_1_1GenericPolymesh.html',1,'possumwood::polymesh']]],
   ['genericproperty',['GenericProperty',['../classGenericProperty.html',1,'']]],
   ['geometryshader',['GeometryShader',['../classpossumwood_1_1GeometryShader.html',1,'possumwood']]],
   ['gldebug',['GlDebug',['../classGlDebug.html',1,'']]],

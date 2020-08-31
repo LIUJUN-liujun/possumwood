@@ -1,10 +1,10 @@
 <map id="src/libs/actions/detail/tools.h" name="src/libs/actions/detail/tools.h">
-<area shape="rect" id="node2" href="$node__base_8h.html" title="dependency_graph/node\l_base.h" alt="" coords="209,95,391,136"/>
-<area shape="rect" id="node6" href="$data_8h.html" title="data.h" alt="" coords="870,423,933,449"/>
-<area shape="rect" id="node14" href="$libs_2dependency__graph_2state_8h.html" title="state.h" alt="" coords="312,341,379,367"/>
-<area shape="rect" id="node17" href="$unique__id_8h.html" title="unique_id.h" alt="" coords="139,341,237,367"/>
-<area shape="rect" id="node19" href="$dependency__graph_2metadata_8h.html" title="metadata.h" alt="" coords="845,259,942,285"/>
-<area shape="rect" id="node27" href="$datablock_8h.html" title="datablock.h" alt="" coords="377,184,476,211"/>
-<area shape="rect" id="node13" href="$data__traits_8h.html" title="data_traits.h" alt="" coords="887,497,991,524"/>
-<area shape="rect" id="node25" href="$attr_8h.html" title="attr.h" alt="" coords="741,341,797,367"/>
+<area shape="rect" id="node2" href="$node__base_8h.html" title="dependency_graph/node\l_base.h" alt="" coords="471,95,653,136"/>
+<area shape="rect" id="node6" href="$data_8h.html" title="data.h" alt="" coords="357,423,420,449"/>
+<area shape="rect" id="node14" href="$datablock_8h.html" title="datablock.h" alt="" coords="557,184,655,211"/>
+<area shape="rect" id="node16" href="$dependency__graph_2metadata_8h.html" title="metadata.h" alt="" coords="888,259,985,285"/>
+<area shape="rect" id="node24" href="$libs_2dependency__graph_2state_8h.html" title="state.h" alt="" coords="1530,341,1597,367"/>
+<area shape="rect" id="node26" href="$unique__id_8h.html" title="unique_id.h" alt="" coords="1621,341,1719,367"/>
+<area shape="rect" id="node13" href="$data__traits_8h.html" title="data_traits.h" alt="" coords="534,497,638,524"/>
+<area shape="rect" id="node22" href="$attr_8h.html" title="attr.h" alt="" coords="426,341,482,367"/>
 </map>

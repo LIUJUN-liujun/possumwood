@@ -16,9 +16,8 @@
 <area shape="rect" id="node29" href="$ui_2interval_8h.html" title="src/plugins/maths/ui\l/interval.h" alt="" coords="2737,95,2891,136"/>
 <area shape="rect" id="node31" href="$number__ui_8h.html" title="src/plugins/maths/ui\l/number_ui.h" alt="" coords="2915,95,3068,136"/>
 <area shape="rect" id="node33" href="$vec__ui_8h.html" title="src/plugins/maths/ui\l/vec_ui.h" alt="" coords="3092,95,3245,136"/>
-<area shape="rect" id="node35" href="$opencv_2ui_2frame_8h.html" title="src/plugins/opencv\l/ui/frame.h" alt="" coords="4196,95,4339,136"/>
-<area shape="rect" id="node49" href="$generic__mesh_8h.html" title="src/plugins/polymesh\l/ui/generic_mesh.h" alt="" coords="4363,95,4523,136"/>
-<area shape="rect" id="node50" href="$ui_2vbo_8h.html" title="src/plugins/render\l/ui/vbo.h" alt="" coords="4547,95,4686,136"/>
+<area shape="rect" id="node35" href="$opencv_2ui_2frame_8h.html" title="src/plugins/opencv\l/ui/frame.h" alt="" coords="4383,95,4525,136"/>
+<area shape="rect" id="node50" href="$ui_2vbo_8h.html" title="src/plugins/render\l/ui/vbo.h" alt="" coords="4550,95,4689,136"/>
 <area shape="rect" id="node3" href="$generic__property_8cpp.html" title="src/apps/possumwood\l/generic_property.cpp" alt="" coords="5,191,172,233"/>
 <area shape="rect" id="node4" href="$apps_2possumwood_2properties_8cpp.html" title="src/apps/possumwood\l/properties.cpp" alt="" coords="196,191,363,233"/>
 <area shape="rect" id="node6" href="$main__window_8h.html" title="src/apps/possumwood\l/main_window.h" alt="" coords="387,191,553,233"/>
@@ -48,4 +47,5 @@
 <area shape="rect" id="node46" href="$findPattern_8cpp.html" title="src/plugins/opencv\l/nodes/calibration/findPattern.cpp" alt="" coords="5460,191,5699,233"/>
 <area shape="rect" id="node47" href="$undistort_8cpp.html" title="src/plugins/opencv\l/nodes/calibration/undistort.cpp" alt="" coords="5723,191,5950,233"/>
 <area shape="rect" id="node48" href="$empty_8cpp.html" title="src/plugins/opencv\l/nodes/capture/empty.cpp" alt="" coords="5974,191,6163,233"/>
+<area shape="rect" id="node49" href="$image_8cpp.html" title="src/plugins/opencv\l/nodes/capture/image.cpp" alt="" coords="6188,191,6379,233"/>
 </map>

@@ -85,13 +85,13 @@ $(document).ready(function(){initNavTree('st__graphcut_8cpp.html','');});
 <div class="title">st_graphcut.cpp File Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &lt;<a class="el" href="node__implementation_8h_source.html">possumwood_sdk/node_implementation.h</a>&gt;</code><br />
-<code>#include &lt;tbb/parallel_for.h&gt;</code><br />
-<code>#include &lt;opencv2/opencv.hpp&gt;</code><br />
-<code>#include &lt;<a class="el" href="libs_2actions_2traits_8h_source.html">actions/traits.h</a>&gt;</code><br />
-<code>#include &lt;<a class="el" href="push__relabel_8h_source.html">lightfields/push_relabel.h</a>&gt;</code><br />
+<div class="textblock"><code>#include &lt;<a class="el" href="traits_8h_source.html">actions/traits.h</a>&gt;</code><br />
 <code>#include &lt;<a class="el" href="edmonds__karp_8h_source.html">lightfields/edmonds_karp.h</a>&gt;</code><br />
 <code>#include &lt;<a class="el" href="lightfields_2graph_8h_source.html">lightfields/graph.h</a>&gt;</code><br />
+<code>#include &lt;<a class="el" href="push__relabel_8h_source.html">lightfields/push_relabel.h</a>&gt;</code><br />
+<code>#include &lt;<a class="el" href="node__implementation_8h_source.html">possumwood_sdk/node_implementation.h</a>&gt;</code><br />
+<code>#include &lt;tbb/parallel_for.h&gt;</code><br />
+<code>#include &lt;opencv2/opencv.hpp&gt;</code><br />
 <code>#include &quot;<a class="el" href="enum_8h_source.html">possumwood_sdk/datatypes/enum.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="sequence_8h_source.html">sequence.h</a>&quot;</code><br />
 <code>#include &quot;tools.h&quot;</code><br />
@@ -100,40 +100,37 @@ Include dependency graph for st_graphcut.cpp:</div>
 <div class="dyncontent">
 <div class="center"><img src="st__graphcut_8cpp__incl.png" border="0" usemap="#src_2plugins_2opencv_2nodes_2lightfields_2st__graphcut_8cpp" alt=""/></div>
 <map name="src_2plugins_2opencv_2nodes_2lightfields_2st__graphcut_8cpp" id="src_2plugins_2opencv_2nodes_2lightfields_2st__graphcut_8cpp">
-<area shape="rect" id="node2" href="node__implementation_8h.html" title="possumwood_sdk/node\l_implementation.h" alt="" coords="1067,109,1242,151"/>
-<area shape="rect" id="node31" href="libs_2actions_2traits_8h.html" title="actions/traits.h" alt="" coords="2023,601,2142,628"/>
-<area shape="rect" id="node40" href="push__relabel_8h.html" title="lightfields/push_relabel.h" alt="" coords="2931,117,3117,143"/>
-<area shape="rect" id="node41" href="edmonds__karp_8h.html" title="lightfields/edmonds\l_karp.h" alt="" coords="3141,109,3291,151"/>
-<area shape="rect" id="node42" href="lightfields_2graph_8h.html" title="lightfields/graph.h" alt="" coords="2821,519,2960,546"/>
-<area shape="rect" id="node46" href="enum_8h.html" title="possumwood_sdk/datatypes\l/enum.h" alt="" coords="2082,512,2289,553"/>
-<area shape="rect" id="node48" href="sequence_8h.html" title="sequence.h" alt="" coords="2503,437,2599,464"/>
-<area shape="rect" id="node7" href="values_8inl.html" title="dependency_graph/values.inl" alt="" coords="779,273,991,300"/>
-<area shape="rect" id="node9" href="dependency__graph_2node_8h.html" title="node.h" alt="" coords="813,519,880,546"/>
-<area shape="rect" id="node21" href="port_8inl.html" title="port.inl" alt="" coords="851,355,919,382"/>
-<area shape="rect" id="node25" href="attr_8inl.html" title="dependency_graph/attr.inl" alt="" coords="1174,676,1365,703"/>
-<area shape="rect" id="node28" href="datablock_8inl.html" title="dependency_graph/datablock.inl" alt="" coords="1319,601,1553,628"/>
-<area shape="rect" id="node29" href="node__base_8inl.html" title="dependency_graph/node\l_base.inl" alt="" coords="1359,348,1540,389"/>
-<area shape="rect" id="node30" href="possumwood__sdk_2metadata_8inl.html" title="metadata.inl" alt="" coords="641,199,746,225"/>
-<area shape="rect" id="node8" href="dependency__graph_2values_8h.html" title="values.h" alt="" coords="279,437,356,464"/>
-<area shape="rect" id="node20" href="rtti_8h.html" title="rtti.h" alt="" coords="1445,833,1499,859"/>
-<area shape="rect" id="node11" href="node__base_8h.html" title="node_base.h" alt="" coords="1577,601,1681,628"/>
-<area shape="rect" id="node12" href="dependency__graph_2metadata_8h.html" title="metadata.h" alt="" coords="971,751,1069,777"/>
-<area shape="rect" id="node16" href="attr_8h.html" title="attr.h" alt="" coords="847,833,903,859"/>
-<area shape="rect" id="node19" href="dependency__graph_2port_8h.html" title="port.h" alt="" coords="734,601,794,628"/>
-<area shape="rect" id="node18" href="datablock_8h.html" title="datablock.h" alt="" coords="1715,676,1813,703"/>
-<area shape="rect" id="node22" href="dependency__graph_2graph_8h.html" title="graph.h" alt="" coords="774,437,845,464"/>
-<area shape="rect" id="node23" href="network_8h.html" title="network.h" alt="" coords="1453,519,1539,546"/>
-<area shape="rect" id="node26" href="data_8inl.html" title="data.inl" alt="" coords="1437,751,1507,777"/>
-<area shape="rect" id="node35" href="possumwood__sdk_2metadata_8h.html" title="metadata.h" alt="" coords="395,273,493,300"/>
-<area shape="rect" id="node36" href="editor_8h.html" title="editor.h" alt="" coords="409,355,479,382"/>
-<area shape="rect" id="node37" href="colours_8h.html" title="colours.h" alt="" coords="653,273,734,300"/>
-<area shape="rect" id="node33" href="libs_2actions_2io_8h.html" title="actions/io.h" alt="" coords="1491,676,1589,703"/>
-<area shape="rect" id="node34" href="json_8h.html" title="io/json.h" alt="" coords="1937,751,2015,777"/>
-<area shape="rect" id="node43" href="lightfields_2index_8h.html" title="index.h" alt="" coords="3005,601,3075,628"/>
-<area shape="rect" id="node44" href="n__links_8h.html" title="n_links.h" alt="" coords="2724,676,2804,703"/>
-<area shape="rect" id="node45" href="t__links_8h.html" title="t_links.h" alt="" coords="2572,751,2649,777"/>
-<area shape="rect" id="node47" href="data__traits_8h.html" title="data_traits.h" alt="" coords="2191,751,2295,777"/>
-<area shape="rect" id="node49" href="opencv_2frame_8h.html" title="frame.h" alt="" coords="2522,519,2595,546"/>
+<area shape="rect" id="node2" href="traits_8h.html" title="actions/traits.h" alt="" coords="811,437,930,464"/>
+<area shape="rect" id="node19" href="edmonds__karp_8h.html" title="lightfields/edmonds\l_karp.h" alt="" coords="149,109,299,151"/>
+<area shape="rect" id="node20" href="lightfields_2graph_8h.html" title="lightfields/graph.h" alt="" coords="277,512,416,539"/>
+<area shape="rect" id="node27" href="push__relabel_8h.html" title="lightfields/push_relabel.h" alt="" coords="655,117,841,143"/>
+<area shape="rect" id="node28" href="node__implementation_8h.html" title="possumwood_sdk/node\l_implementation.h" alt="" coords="2261,109,2435,151"/>
+<area shape="rect" id="node45" href="enum_8h.html" title="possumwood_sdk/datatypes\l/enum.h" alt="" coords="1091,348,1298,389"/>
+<area shape="rect" id="node48" href="sequence_8h.html" title="sequence.h" alt="" coords="616,273,712,300"/>
+<area shape="rect" id="node3" href="rtti_8h.html" title="dependency_graph/rtti.h" alt="" coords="1355,669,1535,695"/>
+<area shape="rect" id="node8" href="libs_2actions_2io_8h.html" title="actions/io.h" alt="" coords="1110,512,1207,539"/>
+<area shape="rect" id="node9" href="libs_2dependency__graph_2io_8h.html" title="dependency_graph/io.h" alt="" coords="1093,587,1267,613"/>
+<area shape="rect" id="node11" href="data_8inl.html" title="dependency_graph/data.inl" alt="" coords="1645,587,1843,613"/>
+<area shape="rect" id="node14" href="json_8h.html" title="io/json.h" alt="" coords="739,587,816,613"/>
+<area shape="rect" id="node22" href="lightfields_2index_8h.html" title="index.h" alt="" coords="542,587,613,613"/>
+<area shape="rect" id="node24" href="n__links_8h.html" title="n_links.h" alt="" coords="285,587,365,613"/>
+<area shape="rect" id="node26" href="t__links_8h.html" title="t_links.h" alt="" coords="184,587,261,613"/>
+<area shape="rect" id="node23" href="libs_2lightfields_2vec2_8h.html" title="vec2.h" alt="" coords="293,669,358,695"/>
+<area shape="rect" id="node25" href="link_8h.html" title="link.h" alt="" coords="201,669,260,695"/>
+<area shape="rect" id="node29" href="dependency__graph_2node_8h.html" title="dependency_graph/node.h" alt="" coords="2337,355,2530,382"/>
+<area shape="rect" id="node38" href="attr_8inl.html" title="dependency_graph/attr.inl" alt="" coords="2497,512,2687,539"/>
+<area shape="rect" id="node39" href="datablock_8inl.html" title="dependency_graph/datablock.inl" alt="" coords="1801,437,2034,464"/>
+<area shape="rect" id="node40" href="node__base_8inl.html" title="dependency_graph/node\l_base.inl" alt="" coords="1855,348,2036,389"/>
+<area shape="rect" id="node41" href="port_8inl.html" title="dependency_graph/port.inl" alt="" coords="2280,273,2475,300"/>
+<area shape="rect" id="node42" href="values_8inl.html" title="dependency_graph/values.inl" alt="" coords="2242,199,2454,225"/>
+<area shape="rect" id="node43" href="possumwood__sdk_2metadata_8inl.html" title="metadata.inl" alt="" coords="1573,199,1678,225"/>
+<area shape="rect" id="node31" href="attr_8h.html" title="attr.h" alt="" coords="2464,669,2520,695"/>
+<area shape="rect" id="node32" href="dependency__graph_2metadata_8h.html" title="metadata.h" alt="" coords="2019,587,2117,613"/>
+<area shape="rect" id="node35" href="node__base_8h.html" title="node_base.h" alt="" coords="2061,437,2165,464"/>
+<area shape="rect" id="node37" href="dependency__graph_2port_8h.html" title="port.h" alt="" coords="2370,587,2430,613"/>
+<area shape="rect" id="node36" href="datablock_8h.html" title="datablock.h" alt="" coords="1867,512,1965,539"/>
+<area shape="rect" id="node46" href="data__traits_8h.html" title="data_traits.h" alt="" coords="1232,512,1336,539"/>
+<area shape="rect" id="node49" href="opencv_2frame_8h.html" title="frame.h" alt="" coords="590,355,663,382"/>
 </map>
 </div>
 </div><table class="memberdecls">
@@ -163,7 +160,7 @@ Enumerations</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="dir_68267d1309a1af8e8297ef4c3efbcdba.html">src</a></li><li class="navelem"><a class="el" href="dir_7020b8b7abcceffa3f9f7a2d24718f16.html">plugins</a></li><li class="navelem"><a class="el" href="dir_859cd15f165bc207a0e60ea2880f7bf3.html">opencv</a></li><li class="navelem"><a class="el" href="dir_6fbb2b0cf2748b8d62c4ec7b696c8057.html">nodes</a></li><li class="navelem"><a class="el" href="dir_7248accbe62f8590cd3f14874c57d89b.html">lightfields</a></li><li class="navelem"><a class="el" href="st__graphcut_8cpp.html">st_graphcut.cpp</a></li>
-    <li class="footer">Generated on Sun Aug 30 2020 14:30:35 for possumwood by
+    <li class="footer">Generated on Mon Aug 31 2020 14:48:31 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.13 </li>
   </ul>

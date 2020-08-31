@@ -1,19 +1,19 @@
 <map id="src/plugins/anim/datatypes/frame_editor_data.cpp" name="src/plugins/anim/datatypes/frame_editor_data.cpp">
-<area shape="rect" id="node2" href="$frame__editor__data_8h.html" title="frame_editor_data.h" alt="" coords="411,95,566,121"/>
-<area shape="rect" id="node3" href="$datatypes_2skeleton_8h.html" title="skeleton.h" alt="" coords="443,169,534,196"/>
-<area shape="rect" id="node8" href="$libs_2actions_2traits_8h.html" title="actions/traits.h" alt="" coords="821,244,940,271"/>
-<area shape="rect" id="node42" href="$hierarchy_8h.html" title="hierarchy.h" alt="" coords="442,244,535,271"/>
-<area shape="rect" id="node48" href="$transform_8h.html" title="transform.h" alt="" coords="2279,244,2378,271"/>
-<area shape="rect" id="node10" href="$rtti_8h.html" title="dependency_graph/rtti.h" alt="" coords="1845,468,2025,495"/>
-<area shape="rect" id="node13" href="$libs_2actions_2io_8h.html" title="actions/io.h" alt="" coords="1064,319,1161,345"/>
-<area shape="rect" id="node15" href="$data_8inl.html" title="dependency_graph/data.inl" alt="" coords="945,393,1144,420"/>
-<area shape="rect" id="node22" href="$libs_2dependency__graph_2io_8h.html" title="dependency_graph/io.h" alt="" coords="685,393,858,420"/>
-<area shape="rect" id="node23" href="$json_8h.html" title="io/json.h" alt="" coords="1743,468,1821,495"/>
-<area shape="rect" id="node18" href="$data_8h.html" title="data.h" alt="" coords="795,468,857,495"/>
-<area shape="rect" id="node21" href="$static__initialisation_8h.html" title="static_initialisation.h" alt="" coords="984,468,1143,495"/>
-<area shape="rect" id="node20" href="$data__traits_8h.html" title="data_traits.h" alt="" coords="685,543,789,569"/>
-<area shape="rect" id="node43" href="$children_8h.html" title="children.h" alt="" coords="1229,393,1316,420"/>
-<area shape="rect" id="node44" href="$attributes_8h.html" title="attributes.h" alt="" coords="440,319,537,345"/>
-<area shape="rect" id="node45" href="$attribute_8h.html" title="attribute.h" alt="" coords="443,393,534,420"/>
-<area shape="rect" id="node46" href="$lexical__cast_8h.html" title="../lexical_cast.h" alt="" coords="487,468,610,495"/>
+<area shape="rect" id="node2" href="$frame__editor__data_8h.html" title="frame_editor_data.h" alt="" coords="1204,95,1359,121"/>
+<area shape="rect" id="node3" href="$datatypes_2skeleton_8h.html" title="skeleton.h" alt="" coords="1236,169,1327,196"/>
+<area shape="rect" id="node4" href="$traits_8h.html" title="actions/traits.h" alt="" coords="398,244,517,271"/>
+<area shape="rect" id="node42" href="$hierarchy_8h.html" title="hierarchy.h" alt="" coords="1235,244,1328,271"/>
+<area shape="rect" id="node48" href="$transform_8h.html" title="transform.h" alt="" coords="2808,244,2907,271"/>
+<area shape="rect" id="node5" href="$rtti_8h.html" title="dependency_graph/rtti.h" alt="" coords="195,468,375,495"/>
+<area shape="rect" id="node10" href="$libs_2actions_2io_8h.html" title="actions/io.h" alt="" coords="658,319,755,345"/>
+<area shape="rect" id="node11" href="$libs_2dependency__graph_2io_8h.html" title="dependency_graph/io.h" alt="" coords="360,393,533,420"/>
+<area shape="rect" id="node20" href="$data_8inl.html" title="dependency_graph/data.inl" alt="" coords="558,393,757,420"/>
+<area shape="rect" id="node22" href="$json_8h.html" title="io/json.h" alt="" coords="2103,468,2180,495"/>
+<area shape="rect" id="node12" href="$data_8h.html" title="data.h" alt="" coords="895,468,958,495"/>
+<area shape="rect" id="node19" href="$data__traits_8h.html" title="data_traits.h" alt="" coords="659,543,763,569"/>
+<area shape="rect" id="node21" href="$static__initialisation_8h.html" title="static_initialisation.h" alt="" coords="1085,468,1243,495"/>
+<area shape="rect" id="node43" href="$attributes_8h.html" title="attributes.h" alt="" coords="1233,319,1330,345"/>
+<area shape="rect" id="node47" href="$children_8h.html" title="children.h" alt="" coords="1522,393,1609,420"/>
+<area shape="rect" id="node44" href="$attribute_8h.html" title="attribute.h" alt="" coords="245,393,336,420"/>
+<area shape="rect" id="node45" href="$lexical__cast_8h.html" title="../lexical_cast.h" alt="" coords="400,468,523,495"/>
 </map>

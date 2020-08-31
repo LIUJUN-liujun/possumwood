@@ -28,7 +28,7 @@ var dir_39f6e4dc4b8664433288beae21406efc =
     [ "node_data.cpp", "node__data_8cpp.html", "node__data_8cpp" ],
     [ "node_data.h", "node__data_8h.html", "node__data_8h" ],
     [ "traits.cpp", "traits_8cpp.html", "traits_8cpp" ],
-    [ "traits.h", "libs_2actions_2traits_8h.html", [
+    [ "traits.h", "traits_8h.html", [
       [ "Traits", "structpossumwood_1_1Traits.html", null ],
       [ "Traits< T, typename std::enable_if< std::is_arithmetic< T >::value >::type >", "structpossumwood_1_1Traits_3_01T_00_01typename_01std_1_1enable__if_3_01std_1_1is__arithmetic_3_0d8c0595ba092f38fa03f72dcf55dd8c7.html", "structpossumwood_1_1Traits_3_01T_00_01typename_01std_1_1enable__if_3_01std_1_1is__arithmetic_3_0d8c0595ba092f38fa03f72dcf55dd8c7" ],
       [ "Traits< std::string >", "structpossumwood_1_1Traits_3_01std_1_1string_01_4.html", "structpossumwood_1_1Traits_3_01std_1_1string_01_4" ],

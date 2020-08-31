@@ -1,7 +1,7 @@
 <map id="src/libs/actions/io.h" name="src/libs/actions/io.h">
 <area shape="rect" id="node2" href="$node__data_8h.html" title="src/libs/actions/node\l_data.h" alt="" coords="1074,155,1229,196"/>
 <area shape="rect" id="node14" href="$tests_2possumwood_2io_8cpp.html" title="src/tests/possumwood\l/io.cpp" alt="" coords="5,244,172,285"/>
-<area shape="rect" id="node15" href="$libs_2actions_2traits_8h.html" title="src/libs/actions/traits.h" alt="" coords="3360,80,3529,107"/>
+<area shape="rect" id="node15" href="$traits_8h.html" title="src/libs/actions/traits.h" alt="" coords="3360,80,3529,107"/>
 <area shape="rect" id="node17" href="$enum_8h.html" title="src/libs/possumwood\l_sdk/datatypes/enum.h" alt="" coords="1253,155,1428,196"/>
 <area shape="rect" id="node19" href="$datatypes_2filename_8h.html" title="src/libs/possumwood\l_sdk/datatypes/filename.h" alt="" coords="5933,155,6127,196"/>
 <area shape="rect" id="node20" href="$amc_8cpp.html" title="src/plugins/anim/nodes\l/loaders/amc.cpp" alt="" coords="6103,333,6275,375"/>

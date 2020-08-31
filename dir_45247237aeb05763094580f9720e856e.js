@@ -48,7 +48,7 @@ var dir_45247237aeb05763094580f9720e856e =
       [ "VBOTraits< Imath::Vec2< T > >", "structpossumwood_1_1VBOTraits_3_01Imath_1_1Vec2_3_01T_01_4_01_4.html", "structpossumwood_1_1VBOTraits_3_01Imath_1_1Vec2_3_01T_01_4_01_4" ],
       [ "VBOTraits< Imath::Vec3< T > >", "structpossumwood_1_1VBOTraits_3_01Imath_1_1Vec3_3_01T_01_4_01_4.html", "structpossumwood_1_1VBOTraits_3_01Imath_1_1Vec3_3_01T_01_4_01_4" ]
     ] ],
-    [ "vertex_data.cpp", "render_2datatypes_2vertex__data_8cpp.html", "render_2datatypes_2vertex__data_8cpp" ],
+    [ "vertex_data.cpp", "vertex__data_8cpp.html", "vertex__data_8cpp" ],
     [ "vertex_data.h", "vertex__data_8h.html", "vertex__data_8h" ],
     [ "vertex_data.inl", "vertex__data_8inl.html", null ]
 ];

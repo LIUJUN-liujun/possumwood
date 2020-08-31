@@ -1,9 +1,8 @@
 <map id="src/plugins/render/datatypes/vertex_data.inl" name="src/plugins/render/datatypes/vertex_data.inl">
-<area shape="rect" id="node2" href="$polymesh_2nodes_2vertex__data_8cpp.html" title="src/plugins/polymesh\l/nodes/vertex_data.cpp" alt="" coords="5,95,180,136"/>
-<area shape="rect" id="node3" href="$render_2datatypes_2vertex__data_8cpp.html" title="src/plugins/render\l/datatypes/vertex_data.cpp" alt="" coords="205,95,405,136"/>
-<area shape="rect" id="node4" href="$draw_8cpp.html" title="src/plugins/render\l/nodes/draw.cpp" alt="" coords="429,95,567,136"/>
-<area shape="rect" id="node5" href="$background_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/background.cpp" alt="" coords="592,95,847,136"/>
-<area shape="rect" id="node6" href="$render_2nodes_2vertex__data_2cgal_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/cgal.cpp" alt="" coords="871,95,1077,136"/>
-<area shape="rect" id="node7" href="$plugins_2render_2nodes_2vertex__data_2frame_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/frame.cpp" alt="" coords="1101,95,1319,136"/>
-<area shape="rect" id="node8" href="$render_2nodes_2vertex__data_2text_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/text.cpp" alt="" coords="1343,95,1547,136"/>
+<area shape="rect" id="node2" href="$vertex__data_8cpp.html" title="src/plugins/render\l/datatypes/vertex_data.cpp" alt="" coords="5,95,205,136"/>
+<area shape="rect" id="node3" href="$draw_8cpp.html" title="src/plugins/render\l/nodes/draw.cpp" alt="" coords="229,95,368,136"/>
+<area shape="rect" id="node4" href="$background_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/background.cpp" alt="" coords="393,95,647,136"/>
+<area shape="rect" id="node5" href="$render_2nodes_2vertex__data_2cgal_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/cgal.cpp" alt="" coords="672,95,877,136"/>
+<area shape="rect" id="node6" href="$plugins_2render_2nodes_2vertex__data_2frame_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/frame.cpp" alt="" coords="902,95,1119,136"/>
+<area shape="rect" id="node7" href="$render_2nodes_2vertex__data_2text_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/text.cpp" alt="" coords="1143,95,1347,136"/>
 </map>

@@ -143,34 +143,9 @@ Additional Inherited Members</h2></td></tr>
 <tr>
 <th>name / id </th><th>example massage </th><th>description  </th></tr>
 <tr>
-<td>json.exception.type_error.301 </td><td>cannot create object from initializer list </td><td>To create an object from an initializer list, the initializer list must consist only of a list of pairs whose first element is a string. When this constraint is violated, an array is created instead. </td></tr>
-<tr>
-<td>json.exception.type_error.302 </td><td>type must be object, but is array </td><td>During implicit or explicit value conversion, the JSON type must be compatible to the target type. For instance, a JSON string can only be converted into string types, but not into numbers or boolean types. </td></tr>
-<tr>
-<td>json.exception.type_error.303 </td><td>incompatible ReferenceType for get_ref, actual type is object </td><td>To retrieve a reference to a value stored in a <a class="el" href="classpossumwood_1_1io_1_1basic__json.html">basic_json</a> object with get_ref, the type of the reference must match the value type. For instance, for a JSON array, the <em>ReferenceType</em> must be array_t&amp;. </td></tr>
-<tr>
-<td>json.exception.type_error.304 </td><td>cannot use at() with string </td><td>The at() member functions can only be executed for certain JSON types. </td></tr>
-<tr>
-<td>json.exception.type_error.305 </td><td>cannot use operator[] with string </td><td>The operator[] member functions can only be executed for certain JSON types. </td></tr>
-<tr>
-<td>json.exception.type_error.306 </td><td>cannot use value() with string </td><td>The value() member functions can only be executed for certain JSON types. </td></tr>
-<tr>
-<td>json.exception.type_error.307 </td><td>cannot use erase() with string </td><td>The erase() member functions can only be executed for certain JSON types. </td></tr>
-<tr>
-<td>json.exception.type_error.308 </td><td>cannot use push_back() with string </td><td>The push_back() and operator+= member functions can only be executed for certain JSON types. </td></tr>
-<tr>
-<td>json.exception.type_error.309 </td><td>cannot use insert() with </td><td>The insert() member functions can only be executed for certain JSON types. </td></tr>
-<tr>
-<td>json.exception.type_error.310 </td><td>cannot use <a class="el" href="namespacestd.html#a449a20b63044e07e93d6f81ec262c07d" title="exchanges the values of two JSON objects ">swap()</a> with number </td><td>The <a class="el" href="namespacestd.html#a449a20b63044e07e93d6f81ec262c07d">swap()</a> member functions can only be executed for certain JSON types. </td></tr>
-<tr>
-<td>json.exception.type_error.311 </td><td>cannot use emplace_back() with string </td><td>The emplace_back() member function can only be executed for certain JSON types. </td></tr>
-<tr>
-<td>json.exception.type_error.313 </td><td>invalid value to unflatten </td><td>The unflatten function converts an object whose keys are JSON Pointers back into an arbitrary nested JSON value. The JSON Pointers must not overlap, because then the resulting value would not be well defined. </td></tr>
-<tr>
-<td>json.exception.type_error.314 </td><td>only objects can be unflattened </td><td>The unflatten function only works for an object whose keys are JSON Pointers. </td></tr>
-<tr>
-<td>json.exception.type_error.315 </td><td>values in object must be primitive </td><td>The unflatten function only works for an object whose keys are JSON Pointers and whose values are primitive. </td></tr>
+<td>json.exception.type_error.301 </td><td>cannot create object from initializer list </td><td>To create an object from an initializer </td></tr>
 </table>
+<p>list, the initializer list must consist only of a list of pairs whose first element is a string. When this constraint is violated, an array is created instead. json.exception.type_error.302 | type must be object, but is array | During implicit or explicit value conversion, the JSON type must be compatible to the target type. For instance, a JSON string can only be converted into string types, but not into numbers or boolean types. json.exception.type_error.303 | incompatible ReferenceType for get_ref, actual type is object | To retrieve a reference to a value stored in a <a class="el" href="classpossumwood_1_1io_1_1basic__json.html">basic_json</a> object with get_ref, the type of the reference must match the value type. For instance, for a JSON array, the <em>ReferenceType</em> must be array_t&amp;. json.exception.type_error.304 | cannot use at() with string | The at() member functions can only be executed for certain JSON types. json.exception.type_error.305 | cannot use operator[] with string | The operator[] member functions can only be executed for certain JSON types. json.exception.type_error.306 | cannot use value() with string | The value() member functions can only be executed for certain JSON types. json.exception.type_error.307 | cannot use erase() with string | The erase() member functions can only be executed for certain JSON types. json.exception.type_error.308 | cannot use push_back() with string | The push_back() and operator+= member functions can only be executed for certain JSON types. json.exception.type_error.309 | cannot use insert() with | The insert() member functions can only be executed for certain JSON types. json.exception.type_error.310 | cannot use <a class="el" href="namespacestd.html#a449a20b63044e07e93d6f81ec262c07d" title="exchanges the values of two JSON objects ">swap()</a> with number | The <a class="el" href="namespacestd.html#a449a20b63044e07e93d6f81ec262c07d">swap()</a> member functions can only be executed for certain JSON types. json.exception.type_error.311 | cannot use emplace_back() with string | The emplace_back() member function can only be executed for certain JSON types. json.exception.type_error.313 | invalid value to unflatten | The unflatten function converts an object whose keys are JSON Pointers back into an arbitrary nested JSON value. The JSON Pointers must not overlap, because then the resulting value would not be well defined. json.exception.type_error.314 | only objects can be unflattened | The unflatten function only works for an object whose keys are JSON Pointers. json.exception.type_error.315 | values in object must be primitive | The unflatten function only works for an object whose keys are JSON Pointers and whose values are primitive.</p>
 <dl class="section since"><dt>Since</dt><dd>version 3.0.0 </dd></dl>
 </div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
 <a id="a7753f9be87f518e738e9cfaa6d1ea470"></a>
@@ -255,7 +230,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacepossumwood.html">possumwood</a></li><li class="navelem"><a class="el" href="namespacepossumwood_1_1io.html">io</a></li><li class="navelem"><a class="el" href="namespacepossumwood_1_1io_1_1detail.html">detail</a></li><li class="navelem"><a class="el" href="classpossumwood_1_1io_1_1detail_1_1type__error.html">type_error</a></li>
-    <li class="footer">Generated on Sun Aug 30 2020 14:30:37 for possumwood by
+    <li class="footer">Generated on Mon Aug 31 2020 14:48:33 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.13 </li>
   </ul>

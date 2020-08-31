@@ -6,6 +6,5 @@ var dir_7020b8b7abcceffa3f9f7a2d24718f16 =
     [ "lua", "dir_ee6aa1c688a3b9fb588e8125e26298d2.html", "dir_ee6aa1c688a3b9fb588e8125e26298d2" ],
     [ "maths", "dir_9ea98195bf8563f1811bcd824cfe1cc0.html", "dir_9ea98195bf8563f1811bcd824cfe1cc0" ],
     [ "opencv", "dir_859cd15f165bc207a0e60ea2880f7bf3.html", "dir_859cd15f165bc207a0e60ea2880f7bf3" ],
-    [ "polymesh", "dir_7e64efa71dff83f2733393f84785f8ee.html", "dir_7e64efa71dff83f2733393f84785f8ee" ],
     [ "render", "dir_7b324b578900626a6605486b3bab59bb.html", "dir_7b324b578900626a6605486b3bab59bb" ]
 ];

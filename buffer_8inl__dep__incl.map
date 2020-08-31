@@ -1,12 +1,11 @@
 <map id="src/plugins/render/datatypes/buffer.inl" name="src/plugins/render/datatypes/buffer.inl">
-<area shape="rect" id="node2" href="$buffer_8cpp.html" title="src/plugins/render\l/datatypes/buffer.cpp" alt="" coords="209,95,367,136"/>
-<area shape="rect" id="node3" href="$vbo_8inl.html" title="src/plugins/render\l/datatypes/vbo.inl" alt="" coords="392,95,531,136"/>
-<area shape="rect" id="node4" href="$vertex__data_8inl.html" title="src/plugins/render\l/datatypes/vertex_data.inl" alt="" coords="497,184,690,225"/>
-<area shape="rect" id="node7" href="$draw_8cpp.html" title="src/plugins/render\l/nodes/draw.cpp" alt="" coords="5,273,144,315"/>
-<area shape="rect" id="node5" href="$polymesh_2nodes_2vertex__data_8cpp.html" title="src/plugins/polymesh\l/nodes/vertex_data.cpp" alt="" coords="169,273,343,315"/>
-<area shape="rect" id="node6" href="$render_2datatypes_2vertex__data_8cpp.html" title="src/plugins/render\l/datatypes/vertex_data.cpp" alt="" coords="368,273,568,315"/>
-<area shape="rect" id="node8" href="$background_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/background.cpp" alt="" coords="593,273,847,315"/>
-<area shape="rect" id="node9" href="$render_2nodes_2vertex__data_2cgal_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/cgal.cpp" alt="" coords="872,273,1077,315"/>
-<area shape="rect" id="node10" href="$plugins_2render_2nodes_2vertex__data_2frame_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/frame.cpp" alt="" coords="1102,273,1319,315"/>
-<area shape="rect" id="node11" href="$render_2nodes_2vertex__data_2text_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/text.cpp" alt="" coords="1343,273,1547,315"/>
+<area shape="rect" id="node2" href="$buffer_8cpp.html" title="src/plugins/render\l/datatypes/buffer.cpp" alt="" coords="123,95,282,136"/>
+<area shape="rect" id="node3" href="$vbo_8inl.html" title="src/plugins/render\l/datatypes/vbo.inl" alt="" coords="307,95,445,136"/>
+<area shape="rect" id="node4" href="$vertex__data_8inl.html" title="src/plugins/render\l/datatypes/vertex_data.inl" alt="" coords="423,184,617,225"/>
+<area shape="rect" id="node6" href="$draw_8cpp.html" title="src/plugins/render\l/nodes/draw.cpp" alt="" coords="5,273,144,315"/>
+<area shape="rect" id="node5" href="$vertex__data_8cpp.html" title="src/plugins/render\l/datatypes/vertex_data.cpp" alt="" coords="168,273,368,315"/>
+<area shape="rect" id="node7" href="$background_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/background.cpp" alt="" coords="393,273,647,315"/>
+<area shape="rect" id="node8" href="$render_2nodes_2vertex__data_2cgal_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/cgal.cpp" alt="" coords="672,273,877,315"/>
+<area shape="rect" id="node9" href="$plugins_2render_2nodes_2vertex__data_2frame_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/frame.cpp" alt="" coords="902,273,1119,315"/>
+<area shape="rect" id="node10" href="$render_2nodes_2vertex__data_2text_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/text.cpp" alt="" coords="1143,273,1347,315"/>
 </map>

@@ -1,12 +1,12 @@
 <map id="src/plugins/opencv/image_loading.h" name="src/plugins/opencv/image_loading.h">
-<area shape="rect" id="node4" href="$exif_8h.html" title="exif.h" alt="" coords="367,95,426,121"/>
-<area shape="rect" id="node6" href="$libs_2actions_2traits_8h.html" title="actions/traits.h" alt="" coords="432,169,551,196"/>
-<area shape="rect" id="node8" href="$rtti_8h.html" title="dependency_graph/rtti.h" alt="" coords="527,393,707,420"/>
-<area shape="rect" id="node12" href="$libs_2actions_2io_8h.html" title="actions/io.h" alt="" coords="2231,244,2328,271"/>
-<area shape="rect" id="node15" href="$data_8inl.html" title="dependency_graph/data.inl" alt="" coords="2407,319,2605,345"/>
-<area shape="rect" id="node23" href="$libs_2dependency__graph_2io_8h.html" title="dependency_graph/io.h" alt="" coords="2649,319,2822,345"/>
-<area shape="rect" id="node24" href="$json_8h.html" title="io/json.h" alt="" coords="1774,393,1851,420"/>
-<area shape="rect" id="node18" href="$data_8h.html" title="data.h" alt="" coords="2761,393,2824,420"/>
-<area shape="rect" id="node22" href="$static__initialisation_8h.html" title="static_initialisation.h" alt="" coords="2527,393,2685,420"/>
-<area shape="rect" id="node21" href="$data__traits_8h.html" title="data_traits.h" alt="" coords="2954,468,3058,495"/>
+<area shape="rect" id="node4" href="$exif_8h.html" title="exif.h" alt="" coords="2166,95,2225,121"/>
+<area shape="rect" id="node5" href="$traits_8h.html" title="actions/traits.h" alt="" coords="1639,169,1758,196"/>
+<area shape="rect" id="node6" href="$rtti_8h.html" title="dependency_graph/rtti.h" alt="" coords="2120,393,2300,420"/>
+<area shape="rect" id="node11" href="$libs_2actions_2io_8h.html" title="actions/io.h" alt="" coords="1190,244,1287,271"/>
+<area shape="rect" id="node12" href="$libs_2dependency__graph_2io_8h.html" title="dependency_graph/io.h" alt="" coords="528,319,701,345"/>
+<area shape="rect" id="node21" href="$data_8inl.html" title="dependency_graph/data.inl" alt="" coords="735,319,934,345"/>
+<area shape="rect" id="node23" href="$json_8h.html" title="io/json.h" alt="" coords="1612,393,1689,420"/>
+<area shape="rect" id="node13" href="$data_8h.html" title="data.h" alt="" coords="526,393,588,420"/>
+<area shape="rect" id="node20" href="$data__traits_8h.html" title="data_traits.h" alt="" coords="292,468,396,495"/>
+<area shape="rect" id="node22" href="$static__initialisation_8h.html" title="static_initialisation.h" alt="" coords="664,393,823,420"/>
 </map>
