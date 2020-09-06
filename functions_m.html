@@ -235,6 +235,7 @@ $(document).ready(function(){initNavTree('functions_m.html','');});
 , <a class="el" href="classlightfields_1_1Bitfield.html#af30f2f6d53ac7d46e0ec4f24a3b461b4">lightfields::Bitfield</a>
 , <a class="el" href="classlightfields_1_1TLinks.html#ad73e061157052fb61ff63e414b1540cd">lightfields::TLinks</a>
 , <a class="el" href="classpossumwood_1_1BufferTemplated.html#ae1cfda5bab0b7d7dce13c55322427b81">possumwood::BufferTemplated&lt; T &gt;</a>
+, <a class="el" href="classpossumwood_1_1CGALNefPolyhedron.html#a6056a7450b51ba74adaeb42f12b9c26b">possumwood::CGALNefPolyhedron</a>
 , <a class="el" href="classpossumwood_1_1Index.html#a53f33be5f4f4be120c777893af26fdf5">possumwood::Index</a>
 , <a class="el" href="classpossumwood_1_1Meshes.html#a76d81c490b30d005957c3f014835b889">possumwood::Meshes</a>
 , <a class="el" href="classpossumwood_1_1Properties.html#a5d351fd9a661463221ed347bb7f79ef4">possumwood::Properties</a>
@@ -314,6 +315,9 @@ $(document).ready(function(){initNavTree('functions_m.html','');});
 <li>m_endFrame
 : <a class="el" href="classanim_1_1constraints_1_1Constraint.html#a25b4463f180dc2af366c3552dddca780">anim::constraints::Constraint</a>
 , <a class="el" href="classanim_1_1MotionGraph_1_1Snippet.html#a039cee75cbfeb1f23d784677a0725c2f">anim::MotionGraph::Snippet</a>
+</li>
+<li>m_err
+: <a class="el" href="classpossumwood_1_1ScopedOutputRedirect.html#a2ee20cdc182f0d0ee8512ab531454a84">possumwood::ScopedOutputRedirect</a>
 </li>
 <li>m_errored
 : <a class="el" href="classdependency__graph_1_1State.html#accaaebb89eb04b45c0cd28b5c57a12df">dependency_graph::State</a>
@@ -758,6 +762,9 @@ $(document).ready(function(){initNavTree('functions_m.html','');});
 <li>m_orientation
 : <a class="el" href="classnode__editor_1_1Port.html#a566dfbe672010b31f4524087e3c91088">node_editor::Port</a>
 </li>
+<li>m_origErrBuf
+: <a class="el" href="classpossumwood_1_1ScopedOutputRedirect.html#aa33e35de7ee252860fa50cafbdbbb886">possumwood::ScopedOutputRedirect</a>
+</li>
 <li>m_origin
 : <a class="el" href="classanim_1_1constraints_1_1Constraint.html#a710c7c9bed209c068fce394962fe3a45">anim::constraints::Constraint</a>
 , <a class="el" href="classnode__editor_1_1Edge.html#a28051d6337650370937200bf6a73f02f">node_editor::Edge</a>
@@ -766,8 +773,12 @@ $(document).ready(function(){initNavTree('functions_m.html','');});
 <li>m_originDirection
 : <a class="el" href="classnode__editor_1_1Edge.html#a7c51ce0c874b78dfee9b791ffcc3185c">node_editor::Edge</a>
 </li>
+<li>m_origOutBuf
+: <a class="el" href="classpossumwood_1_1ScopedOutputRedirect.html#a4ba1cbcad03b67e93dd7faacc292ffd5">possumwood::ScopedOutputRedirect</a>
+</li>
 <li>m_out
 : <a class="el" href="classnode__editor_1_1Port.html#aa4db5b045f36e668137371272b2140aa">node_editor::Port</a>
+, <a class="el" href="classpossumwood_1_1ScopedOutputRedirect.html#ad7535df35e399e26b1425f226077a0f4">possumwood::ScopedOutputRedirect</a>
 </li>
 <li>m_p
 : <a class="el" href="classlightfields_1_1Grid.html#ac8342b614dbce97d36a19cb2ca84a6b7">lightfields::Grid&lt; VALUE, CONTAINER &gt;</a>
@@ -1358,15 +1369,11 @@ $(document).ready(function(){initNavTree('functions_m.html','');});
 <li>Metadata
 : <a class="el" href="classdependency__graph_1_1OutAttr.html#aba8d19a917c0bff3a0ab2c135b11b0a4">dependency_graph::OutAttr&lt; T &gt;</a>
 , <a class="el" href="classdependency__graph_1_1OutAttr_3_01void_01_4.html#aba8d19a917c0bff3a0ab2c135b11b0a4">dependency_graph::OutAttr&lt; void &gt;</a>
+, <a class="el" href="classlightfields_1_1Metadata.html#aaedae51947ce0568ecc86d78ae419e2b">lightfields::Metadata</a>
 </li>
 <li>metadata()
 : <a class="el" href="classlightfields_1_1Metadata.html#a1c02cc108fd90ffa525939b4dff25ec2">lightfields::Metadata</a>
-</li>
-<li>Metadata()
-: <a class="el" href="classlightfields_1_1Metadata.html#aaedae51947ce0568ecc86d78ae419e2b">lightfields::Metadata</a>
-</li>
-<li>metadata()
-: <a class="el" href="classlightfields_1_1Raw.html#a3215ddbc3576c2c8f7b32eb89aeec965">lightfields::Raw</a>
+, <a class="el" href="classlightfields_1_1Raw.html#a3215ddbc3576c2c8f7b32eb89aeec965">lightfields::Raw</a>
 </li>
 <li>Metadata
 : <a class="el" href="classpossumwood_1_1Colours.html#aba8d19a917c0bff3a0ab2c135b11b0a4">possumwood::Colours</a>
@@ -1462,7 +1469,7 @@ $(document).ready(function(){initNavTree('functions_m.html','');});
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Mon Aug 31 2020 17:27:28 for possumwood by
+    <li class="footer">Generated on Sun Sep 6 2020 22:14:23 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.13 </li>
   </ul>

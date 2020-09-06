@@ -19,10 +19,11 @@ var namespacepossumwood =
     [ "CGALBuilder", "classpossumwood_1_1CGALBuilder.html", "classpossumwood_1_1CGALBuilder" ],
     [ "CGALFace", "structpossumwood_1_1CGALFace.html", "structpossumwood_1_1CGALFace" ],
     [ "CGALHalfedge", "structpossumwood_1_1CGALHalfedge.html", "structpossumwood_1_1CGALHalfedge" ],
-    [ "CGALItems", "structpossumwood_1_1CGALItems.html", [
-      [ "Face_wrapper", "structpossumwood_1_1CGALItems_1_1Face__wrapper.html", "structpossumwood_1_1CGALItems_1_1Face__wrapper" ],
-      [ "Halfedge_wrapper", "structpossumwood_1_1CGALItems_1_1Halfedge__wrapper.html", "structpossumwood_1_1CGALItems_1_1Halfedge__wrapper" ],
-      [ "Vertex_wrapper", "structpossumwood_1_1CGALItems_1_1Vertex__wrapper.html", "structpossumwood_1_1CGALItems_1_1Vertex__wrapper" ]
+    [ "CGALNefPolyhedron", "classpossumwood_1_1CGALNefPolyhedron.html", "classpossumwood_1_1CGALNefPolyhedron" ],
+    [ "CGALPolyhedronItems", "structpossumwood_1_1CGALPolyhedronItems.html", [
+      [ "Face_wrapper", "structpossumwood_1_1CGALPolyhedronItems_1_1Face__wrapper.html", "structpossumwood_1_1CGALPolyhedronItems_1_1Face__wrapper" ],
+      [ "Halfedge_wrapper", "structpossumwood_1_1CGALPolyhedronItems_1_1Halfedge__wrapper.html", "structpossumwood_1_1CGALPolyhedronItems_1_1Halfedge__wrapper" ],
+      [ "Vertex_wrapper", "structpossumwood_1_1CGALPolyhedronItems_1_1Vertex__wrapper.html", "structpossumwood_1_1CGALPolyhedronItems_1_1Vertex__wrapper" ]
     ] ],
     [ "CGALVertex", "classpossumwood_1_1CGALVertex.html", "classpossumwood_1_1CGALVertex" ],
     [ "Clipboard", "classpossumwood_1_1Clipboard.html", "classpossumwood_1_1Clipboard" ],
@@ -69,6 +70,7 @@ var namespacepossumwood =
     [ "PropertyKey", "classpossumwood_1_1PropertyKey.html", "classpossumwood_1_1PropertyKey" ],
     [ "QtClipboard", "classpossumwood_1_1QtClipboard.html", "classpossumwood_1_1QtClipboard" ],
     [ "ScopedEnable", "classpossumwood_1_1ScopedEnable.html", "classpossumwood_1_1ScopedEnable" ],
+    [ "ScopedOutputRedirect", "classpossumwood_1_1ScopedOutputRedirect.html", "classpossumwood_1_1ScopedOutputRedirect" ],
     [ "Shader", "classpossumwood_1_1Shader.html", "classpossumwood_1_1Shader" ],
     [ "SourceEditor", "classpossumwood_1_1SourceEditor.html", "classpossumwood_1_1SourceEditor" ],
     [ "Texture", "classpossumwood_1_1Texture.html", "classpossumwood_1_1Texture" ],
@@ -81,6 +83,7 @@ var namespacepossumwood =
     [ "Traits< anim::MotionMap >", "structpossumwood_1_1Traits_3_01anim_1_1MotionMap_01_4.html", "structpossumwood_1_1Traits_3_01anim_1_1MotionMap_01_4" ],
     [ "Traits< anim::Skeleton >", "structpossumwood_1_1Traits_3_01anim_1_1Skeleton_01_4.html", "structpossumwood_1_1Traits_3_01anim_1_1Skeleton_01_4" ],
     [ "Traits< anim::SubsetSelection >", "structpossumwood_1_1Traits_3_01anim_1_1SubsetSelection_01_4.html", "structpossumwood_1_1Traits_3_01anim_1_1SubsetSelection_01_4" ],
+    [ "Traits< CGALNefPolyhedron >", "structpossumwood_1_1Traits_3_01CGALNefPolyhedron_01_4.html", "structpossumwood_1_1Traits_3_01CGALNefPolyhedron_01_4" ],
     [ "Traits< Enum >", "structpossumwood_1_1Traits_3_01Enum_01_4.html", "structpossumwood_1_1Traits_3_01Enum_01_4" ],
     [ "Traits< Filename >", "structpossumwood_1_1Traits_3_01Filename_01_4.html", "structpossumwood_1_1Traits_3_01Filename_01_4" ],
     [ "Traits< Filenames >", "structpossumwood_1_1Traits_3_01Filenames_01_4.html", "structpossumwood_1_1Traits_3_01Filenames_01_4" ],

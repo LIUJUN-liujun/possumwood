@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['halfedge_5fwrapper',['Halfedge_wrapper',['../structpossumwood_1_1CGALItems_1_1Halfedge__wrapper.html',1,'possumwood::CGALItems']]],
+  ['halfedge_5fwrapper',['Halfedge_wrapper',['../structpossumwood_1_1CGALPolyhedronItems_1_1Halfedge__wrapper.html',1,'possumwood::CGALPolyhedronItems']]],
   ['has_5ffrom_5fjson',['has_from_json',['../structpossumwood_1_1io_1_1detail_1_1has__from__json.html',1,'possumwood::io::detail']]],
   ['has_5fnon_5fdefault_5ffrom_5fjson',['has_non_default_from_json',['../structpossumwood_1_1io_1_1detail_1_1has__non__default__from__json.html',1,'possumwood::io::detail']]],
   ['has_5fto_5fjson',['has_to_json',['../structpossumwood_1_1io_1_1detail_1_1has__to__json.html',1,'possumwood::io::detail']]],

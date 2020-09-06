@@ -17,6 +17,8 @@ var searchData=
   ['equalize_5ffloat_2ecpp',['equalize_float.cpp',['../equalize__float_8cpp.html',1,'']]],
   ['error_5fdialog_2ecpp',['error_dialog.cpp',['../error__dialog_8cpp.html',1,'']]],
   ['error_5fdialog_2eh',['error_dialog.h',['../error__dialog_8h.html',1,'']]],
+  ['errors_2ecpp',['errors.cpp',['../errors_8cpp.html',1,'']]],
+  ['errors_2eh',['errors.h',['../errors_8h.html',1,'']]],
   ['exif_2ecpp',['exif.cpp',['../exif_8cpp.html',1,'']]],
   ['exif_2eh',['exif.h',['../exif_8h.html',1,'']]],
   ['exif_5fsequence_2ecpp',['exif_sequence.cpp',['../exif__sequence_8cpp.html',1,'']]],

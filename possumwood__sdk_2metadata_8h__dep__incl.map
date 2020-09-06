@@ -38,14 +38,14 @@
 <area shape="rect" id="node38" href="$skin__remap_8cpp.html" title="src/plugins/anim/nodes\l/mesh/skin_remap.cpp" alt="" coords="5225,281,5397,322"/>
 <area shape="rect" id="node39" href="$skin__remap__regex_8cpp.html" title="src/plugins/anim/nodes\l/mesh/skin_remap_regex.cpp" alt="" coords="5422,281,5635,322"/>
 <area shape="rect" id="node40" href="$subset_8cpp.html" title="src/plugins/anim/nodes\l/mesh/subset.cpp" alt="" coords="5660,281,5832,322"/>
-<area shape="rect" id="node41" href="$plugins_2cgal_2nodes_2grid_8cpp.html" title="src/plugins/cgal/nodes\l/grid.cpp" alt="" coords="5856,281,6023,322"/>
-<area shape="rect" id="node42" href="$loader_8cpp.html" title="src/plugins/cgal/nodes\l/loader.cpp" alt="" coords="6047,281,6213,322"/>
-<area shape="rect" id="node43" href="$cgal_2nodes_2lua_2extract_8cpp.html" title="src/plugins/cgal/nodes\l/lua/extract.cpp" alt="" coords="6237,281,6404,322"/>
-<area shape="rect" id="node44" href="$cgal_2nodes_2lua_2module_8cpp.html" title="src/plugins/cgal/nodes\l/lua/module.cpp" alt="" coords="6428,281,6595,322"/>
-<area shape="rect" id="node45" href="$normals__generator_8cpp.html" title="src/plugins/cgal/nodes\l/normals_generator.cpp" alt="" coords="6619,281,6793,322"/>
-<area shape="rect" id="node46" href="$simplification_8cpp.html" title="src/plugins/cgal/nodes\l/simplification/simplification.cpp" alt="" coords="6817,281,7051,322"/>
-<area shape="rect" id="node47" href="$tetrahedron_8cpp.html" title="src/plugins/cgal/nodes\l/tetrahedron.cpp" alt="" coords="7075,281,7241,322"/>
-<area shape="rect" id="node48" href="$stitch__borders_8cpp.html" title="src/plugins/cgal/nodes\l/topology/stitch_borders.cpp" alt="" coords="7265,281,7472,322"/>
-<area shape="rect" id="node49" href="$plugins_2cgal_2nodes_2transform_8cpp.html" title="src/plugins/cgal/nodes\l/transform.cpp" alt="" coords="7496,281,7663,322"/>
-<area shape="rect" id="node50" href="$images_2nodes_2lua_2extract_8cpp.html" title="src/plugins/images\l/nodes/lua/extract.cpp" alt="" coords="7687,281,7853,322"/>
+<area shape="rect" id="node41" href="$poly__to__nef_8cpp.html" title="src/plugins/cgal/nodes\l/csg/poly_to_nef.cpp" alt="" coords="5856,281,6023,322"/>
+<area shape="rect" id="node42" href="$plugins_2cgal_2nodes_2grid_8cpp.html" title="src/plugins/cgal/nodes\l/grid.cpp" alt="" coords="6047,281,6213,322"/>
+<area shape="rect" id="node43" href="$loader_8cpp.html" title="src/plugins/cgal/nodes\l/loader.cpp" alt="" coords="6237,281,6404,322"/>
+<area shape="rect" id="node44" href="$cgal_2nodes_2lua_2extract_8cpp.html" title="src/plugins/cgal/nodes\l/lua/extract.cpp" alt="" coords="6428,281,6595,322"/>
+<area shape="rect" id="node45" href="$cgal_2nodes_2lua_2module_8cpp.html" title="src/plugins/cgal/nodes\l/lua/module.cpp" alt="" coords="6619,281,6785,322"/>
+<area shape="rect" id="node46" href="$normals__generator_8cpp.html" title="src/plugins/cgal/nodes\l/normals_generator.cpp" alt="" coords="6809,281,6984,322"/>
+<area shape="rect" id="node47" href="$simplification_8cpp.html" title="src/plugins/cgal/nodes\l/simplification/simplification.cpp" alt="" coords="7008,281,7241,322"/>
+<area shape="rect" id="node48" href="$tetrahedron_8cpp.html" title="src/plugins/cgal/nodes\l/tetrahedron.cpp" alt="" coords="7265,281,7432,322"/>
+<area shape="rect" id="node49" href="$stitch__borders_8cpp.html" title="src/plugins/cgal/nodes\l/topology/stitch_borders.cpp" alt="" coords="7456,281,7663,322"/>
+<area shape="rect" id="node50" href="$plugins_2cgal_2nodes_2transform_8cpp.html" title="src/plugins/cgal/nodes\l/transform.cpp" alt="" coords="7687,281,7853,322"/>
 </map>

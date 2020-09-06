@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['value',['Value',['../classpossumwood_1_1PropertyItem_1_1Value.html',1,'possumwood::PropertyItem::Value&lt; T &gt;'],['../structlightfields_1_1MRF_1_1Value.html',1,'lightfields::MRF::Value']]],
+  ['value',['Value',['../structlightfields_1_1MRF_1_1Value.html',1,'lightfields::MRF::Value'],['../classpossumwood_1_1PropertyItem_1_1Value.html',1,'possumwood::PropertyItem::Value&lt; T &gt;']]],
   ['valuebase',['ValueBase',['../classpossumwood_1_1PropertyItem_1_1ValueBase.html',1,'possumwood::PropertyItem']]],
   ['values',['Values',['../classdependency__graph_1_1Values.html',1,'dependency_graph']]],
   ['variable',['Variable',['../classpossumwood_1_1lua_1_1Variable.html',1,'possumwood::lua']]],
@@ -21,7 +21,7 @@ var searchData=
   ['vectraits_3c_20imath_3a_3avec3_3c_20t_20_3e_20_3e',['VecTraits&lt; Imath::Vec3&lt; T &gt; &gt;',['../structVecTraits_3_01Imath_1_1Vec3_3_01T_01_4_01_4.html',1,'']]],
   ['vecui',['VecUI',['../classVecUI.html',1,'']]],
   ['vertex',['Vertex',['../classanim_1_1SkinnedVertices_1_1Vertex.html',1,'anim::SkinnedVertices']]],
-  ['vertex_5fwrapper',['Vertex_wrapper',['../structpossumwood_1_1CGALItems_1_1Vertex__wrapper.html',1,'possumwood::CGALItems']]],
+  ['vertex_5fwrapper',['Vertex_wrapper',['../structpossumwood_1_1CGALPolyhedronItems_1_1Vertex__wrapper.html',1,'possumwood::CGALPolyhedronItems']]],
   ['vertexdata',['VertexData',['../classpossumwood_1_1VertexData.html',1,'possumwood']]],
   ['vertexshader',['VertexShader',['../classpossumwood_1_1VertexShader.html',1,'possumwood']]],
   ['viewport',['Viewport',['../classViewport.html',1,'']]],

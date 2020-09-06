@@ -21,7 +21,7 @@ var searchData=
   ['priority_5ftag_3c_200_20_3e',['priority_tag&lt; 0 &gt;',['../structpossumwood_1_1io_1_1detail_1_1priority__tag_3_010_01_4.html',1,'possumwood::io::detail']]],
   ['program',['Program',['../classpossumwood_1_1Program.html',1,'possumwood']]],
   ['properties',['Properties',['../classpossumwood_1_1Properties.html',1,'possumwood::Properties'],['../classProperties.html',1,'Properties']]],
-  ['property',['property',['../classpossumwood_1_1properties_1_1property.html',1,'possumwood::properties::property&lt; T, DERIVED &gt;'],['../classpossumwood_1_1Property.html',1,'possumwood::Property&lt; T &gt;']]],
+  ['property',['Property',['../classpossumwood_1_1Property.html',1,'possumwood::Property&lt; T &gt;'],['../classpossumwood_1_1properties_1_1property.html',1,'possumwood::properties::property&lt; T, DERIVED &gt;']]],
   ['property_3c_20anim_3a_3aframeeditordata_2c_20frameeditor_20_3e',['property&lt; anim::FrameEditorData, FrameEditor &gt;',['../classpossumwood_1_1properties_1_1property.html',1,'possumwood::properties']]],
   ['property_3c_20anim_3a_3ajointmappingeditordata_2c_20jointmappingeditor_20_3e',['property&lt; anim::JointMappingEditorData, JointMappingEditor &gt;',['../classpossumwood_1_1properties_1_1property.html',1,'possumwood::properties']]],
   ['property_3c_20anim_3a_3askeleton_2c_20skeleton_20_3e',['property&lt; anim::Skeleton, Skeleton &gt;',['../classpossumwood_1_1properties_1_1property.html',1,'possumwood::properties']]],

@@ -82,13 +82,16 @@ $(document).ready(function(){initNavTree('cgal_8h.html','');});
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
 <a href="#namespaces">Namespaces</a> &#124;
-<a href="#typedef-members">Typedefs</a>  </div>
+<a href="#typedef-members">Typedefs</a> &#124;
+<a href="#func-members">Functions</a>  </div>
   <div class="headertitle">
 <div class="title">cgal.h File Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div class="textblock"><code>#include &lt;CGAL/Simple_cartesian.h&gt;</code><br />
 <code>#include &lt;OpenEXR/ImathVec.h&gt;</code><br />
+<code>#include &lt;CGAL/Exact_predicates_exact_constructions_kernel.h&gt;</code><br />
+<code>#include &lt;CGAL/Nef_polyhedron_3.h&gt;</code><br />
 <code>#include &lt;CGAL/Polyhedron_3.h&gt;</code><br />
 <code>#include &quot;<a class="el" href="property_8inl.html">property.inl</a>&quot;</code><br />
 </div><div class="textblock"><div class="dynheader">
@@ -96,12 +99,12 @@ Include dependency graph for cgal.h:</div>
 <div class="dyncontent">
 <div class="center"><img src="cgal_8h__incl.png" border="0" usemap="#src_2plugins_2cgal_2cgal_8h" alt=""/></div>
 <map name="src_2plugins_2cgal_2cgal_8h" id="src_2plugins_2cgal_2cgal_8h">
-<area shape="rect" id="node5" href="property_8inl.html" title="property.inl" alt="" coords="583,80,677,107"/>
-<area shape="rect" id="node6" href="plugins_2cgal_2properties_8h.html" title="properties.h" alt="" coords="580,155,680,181"/>
-<area shape="rect" id="node13" href="plugins_2cgal_2property_8h.html" title="property.h" alt="" coords="331,229,417,256"/>
-<area shape="rect" id="node17" href="property__item_8inl.html" title="property_item.inl" alt="" coords="795,155,929,181"/>
-<area shape="rect" id="node15" href="property__item_8h.html" title="property_item.h" alt="" coords="635,304,761,331"/>
-<area shape="rect" id="node16" href="property__key_8h.html" title="property_key.h" alt="" coords="440,304,559,331"/>
+<area shape="rect" id="node7" href="property_8inl.html" title="property.inl" alt="" coords="993,95,1088,121"/>
+<area shape="rect" id="node8" href="plugins_2cgal_2properties_8h.html" title="properties.h" alt="" coords="991,184,1091,211"/>
+<area shape="rect" id="node15" href="plugins_2cgal_2property_8h.html" title="property.h" alt="" coords="741,259,828,285"/>
+<area shape="rect" id="node19" href="property__item_8inl.html" title="property_item.inl" alt="" coords="1205,184,1340,211"/>
+<area shape="rect" id="node17" href="property__item_8h.html" title="property_item.h" alt="" coords="1045,333,1172,360"/>
+<area shape="rect" id="node18" href="property__key_8h.html" title="property_key.h" alt="" coords="851,333,969,360"/>
 </map>
 </div>
 </div><div class="textblock"><div class="dynheader">
@@ -109,27 +112,28 @@ This graph shows which files directly or indirectly include this file:</div>
 <div class="dyncontent">
 <div class="center"><img src="cgal_8h__dep__incl.png" border="0" usemap="#src_2plugins_2cgal_2cgal_8hdep" alt=""/></div>
 <map name="src_2plugins_2cgal_2cgal_8hdep" id="src_2plugins_2cgal_2cgal_8hdep">
-<area shape="rect" id="node2" href="anim_2nodes_2mesh_2cgal_8cpp.html" title="src/plugins/anim/nodes\l/mesh/cgal.cpp" alt="" coords="1934,319,2106,360"/>
-<area shape="rect" id="node3" href="cgal_2cgal_8cpp.html" title="src/plugins/cgal/cgal.cpp" alt="" coords="2159,80,2340,107"/>
-<area shape="rect" id="node4" href="meshes_8h.html" title="src/plugins/cgal/meshes.h" alt="" coords="771,155,962,181"/>
-<area shape="rect" id="node10" href="simplification_8cpp.html" title="src/plugins/cgal/nodes\l/simplification/simplification.cpp" alt="" coords="2130,319,2363,360"/>
-<area shape="rect" id="node13" href="plugins_2cgal_2nodes_2transform_8cpp.html" title="src/plugins/cgal/nodes\l/transform.cpp" alt="" coords="2387,319,2554,360"/>
-<area shape="rect" id="node21" href="mesh_8h.html" title="src/plugins/cgal/mesh.h" alt="" coords="1555,80,1730,107"/>
-<area shape="rect" id="node5" href="datatypes_2meshes_8h.html" title="src/plugins/cgal/datatypes\l/meshes.h" alt="" coords="1269,229,1461,271"/>
-<area shape="rect" id="node7" href="loader_8cpp.html" title="src/plugins/cgal/nodes\l/loader.cpp" alt="" coords="702,319,869,360"/>
-<area shape="rect" id="node15" href="polyhedron_8h.html" title="src/plugins/cgal/lua\l/polyhedron.h" alt="" coords="275,229,421,271"/>
-<area shape="rect" id="node18" href="meshes_8cpp.html" title="src/plugins/cgal/meshes.cpp" alt="" coords="461,237,667,263"/>
-<area shape="rect" id="node19" href="meshes__ui_8h.html" title="src/plugins/cgal/ui\l/meshes_ui.h" alt="" coords="691,229,829,271"/>
-<area shape="rect" id="node6" href="plugins_2cgal_2nodes_2grid_8cpp.html" title="src/plugins/cgal/nodes\l/grid.cpp" alt="" coords="893,319,1059,360"/>
-<area shape="rect" id="node8" href="cgal_2nodes_2lua_2extract_8cpp.html" title="src/plugins/cgal/nodes\l/lua/extract.cpp" alt="" coords="347,319,514,360"/>
-<area shape="rect" id="node9" href="normals__generator_8cpp.html" title="src/plugins/cgal/nodes\l/normals_generator.cpp" alt="" coords="1083,319,1258,360"/>
-<area shape="rect" id="node11" href="tetrahedron_8cpp.html" title="src/plugins/cgal/nodes\l/tetrahedron.cpp" alt="" coords="1282,319,1449,360"/>
-<area shape="rect" id="node12" href="stitch__borders_8cpp.html" title="src/plugins/cgal/nodes\l/topology/stitch_borders.cpp" alt="" coords="1473,319,1679,360"/>
-<area shape="rect" id="node14" href="render_2nodes_2vertex__data_2cgal_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/cgal.cpp" alt="" coords="1704,319,1909,360"/>
-<area shape="rect" id="node16" href="cgal_2lua_2module_8cpp.html" title="src/plugins/cgal/lua\l/module.cpp" alt="" coords="176,319,323,360"/>
-<area shape="rect" id="node17" href="polyhedron_8cpp.html" title="src/plugins/cgal/lua\l/polyhedron.cpp" alt="" coords="5,319,152,360"/>
-<area shape="rect" id="node20" href="meshes__ui_8cpp.html" title="src/plugins/cgal/ui\l/meshes_ui.cpp" alt="" coords="539,319,677,360"/>
-<area shape="rect" id="node22" href="mesh_8cpp.html" title="src/plugins/cgal/mesh.cpp" alt="" coords="1547,155,1738,181"/>
+<area shape="rect" id="node2" href="anim_2nodes_2mesh_2cgal_8cpp.html" title="src/plugins/anim/nodes\l/mesh/cgal.cpp" alt="" coords="701,319,873,360"/>
+<area shape="rect" id="node3" href="cgal_2cgal_8cpp.html" title="src/plugins/cgal/cgal.cpp" alt="" coords="780,80,961,107"/>
+<area shape="rect" id="node4" href="meshes_8h.html" title="src/plugins/cgal/meshes.h" alt="" coords="810,155,1001,181"/>
+<area shape="rect" id="node6" href="poly__to__nef_8cpp.html" title="src/plugins/cgal/nodes\l/csg/poly_to_nef.cpp" alt="" coords="1087,319,1254,360"/>
+<area shape="rect" id="node11" href="simplification_8cpp.html" title="src/plugins/cgal/nodes\l/simplification/simplification.cpp" alt="" coords="2319,319,2553,360"/>
+<area shape="rect" id="node14" href="plugins_2cgal_2nodes_2transform_8cpp.html" title="src/plugins/cgal/nodes\l/transform.cpp" alt="" coords="2577,319,2743,360"/>
+<area shape="rect" id="node22" href="mesh_8h.html" title="src/plugins/cgal/mesh.h" alt="" coords="1037,80,1211,107"/>
+<area shape="rect" id="node5" href="datatypes_2meshes_8h.html" title="src/plugins/cgal/datatypes\l/meshes.h" alt="" coords="1371,229,1563,271"/>
+<area shape="rect" id="node8" href="loader_8cpp.html" title="src/plugins/cgal/nodes\l/loader.cpp" alt="" coords="897,319,1063,360"/>
+<area shape="rect" id="node16" href="polyhedron_8h.html" title="src/plugins/cgal/lua\l/polyhedron.h" alt="" coords="429,229,576,271"/>
+<area shape="rect" id="node19" href="meshes_8cpp.html" title="src/plugins/cgal/meshes.cpp" alt="" coords="780,237,985,263"/>
+<area shape="rect" id="node20" href="meshes__ui_8h.html" title="src/plugins/cgal/ui\l/meshes_ui.h" alt="" coords="181,229,320,271"/>
+<area shape="rect" id="node7" href="plugins_2cgal_2nodes_2grid_8cpp.html" title="src/plugins/cgal/nodes\l/grid.cpp" alt="" coords="1930,319,2097,360"/>
+<area shape="rect" id="node9" href="cgal_2nodes_2lua_2extract_8cpp.html" title="src/plugins/cgal/nodes\l/lua/extract.cpp" alt="" coords="510,319,677,360"/>
+<area shape="rect" id="node10" href="normals__generator_8cpp.html" title="src/plugins/cgal/nodes\l/normals_generator.cpp" alt="" coords="2121,319,2295,360"/>
+<area shape="rect" id="node12" href="tetrahedron_8cpp.html" title="src/plugins/cgal/nodes\l/tetrahedron.cpp" alt="" coords="1278,319,1445,360"/>
+<area shape="rect" id="node13" href="stitch__borders_8cpp.html" title="src/plugins/cgal/nodes\l/topology/stitch_borders.cpp" alt="" coords="1469,319,1675,360"/>
+<area shape="rect" id="node15" href="render_2nodes_2vertex__data_2cgal_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/cgal.cpp" alt="" coords="1700,319,1905,360"/>
+<area shape="rect" id="node17" href="cgal_2lua_2module_8cpp.html" title="src/plugins/cgal/lua\l/module.cpp" alt="" coords="339,319,485,360"/>
+<area shape="rect" id="node18" href="polyhedron_8cpp.html" title="src/plugins/cgal/lua\l/polyhedron.cpp" alt="" coords="168,319,315,360"/>
+<area shape="rect" id="node21" href="meshes__ui_8cpp.html" title="src/plugins/cgal/ui\l/meshes_ui.cpp" alt="" coords="5,319,144,360"/>
+<area shape="rect" id="node23" href="mesh_8cpp.html" title="src/plugins/cgal/mesh.cpp" alt="" coords="1025,155,1215,181"/>
 </map>
 </div>
 </div>
@@ -143,13 +147,15 @@ Classes</h2></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structpossumwood_1_1CGALHalfedge.html">possumwood::CGALHalfedge&lt; Refs &gt;</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structpossumwood_1_1CGALItems.html">possumwood::CGALItems</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structpossumwood_1_1CGALPolyhedronItems.html">possumwood::CGALPolyhedronItems</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structpossumwood_1_1CGALItems_1_1Face__wrapper.html">possumwood::CGALItems::Face_wrapper&lt; Refs, Traits &gt;</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structpossumwood_1_1CGALPolyhedronItems_1_1Face__wrapper.html">possumwood::CGALPolyhedronItems::Face_wrapper&lt; Refs, Traits &gt;</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structpossumwood_1_1CGALItems_1_1Vertex__wrapper.html">possumwood::CGALItems::Vertex_wrapper&lt; Refs, Traits &gt;</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structpossumwood_1_1CGALPolyhedronItems_1_1Vertex__wrapper.html">possumwood::CGALPolyhedronItems::Vertex_wrapper&lt; Refs, Traits &gt;</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structpossumwood_1_1CGALItems_1_1Halfedge__wrapper.html">possumwood::CGALItems::Halfedge_wrapper&lt; Refs, Traits &gt;</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structpossumwood_1_1CGALPolyhedronItems_1_1Halfedge__wrapper.html">possumwood::CGALPolyhedronItems::Halfedge_wrapper&lt; Refs, Traits &gt;</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1CGALNefPolyhedron.html">possumwood::CGALNefPolyhedron</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="namespaces"></a>
@@ -161,8 +167,17 @@ Namespaces</h2></td></tr>
 Typedefs</h2></td></tr>
 <tr class="memitem:ae591811944093e29e56d13859dd1fe3c"><td class="memItemLeft" align="right" valign="top">typedef CGAL::Simple_cartesian&lt; float &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacepossumwood.html#ae591811944093e29e56d13859dd1fe3c">possumwood::CGALKernel</a></td></tr>
 <tr class="separator:ae591811944093e29e56d13859dd1fe3c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a15d09c8ad599334df7be975d778f8763"><td class="memItemLeft" align="right" valign="top">typedef CGAL::Polyhedron_3&lt; CGALKernel, CGALItems &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacepossumwood.html#a15d09c8ad599334df7be975d778f8763">possumwood::CGALPolyhedron</a></td></tr>
-<tr class="separator:a15d09c8ad599334df7be975d778f8763"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af595bd5dc0e4d841f60084e28a95bd78"><td class="memItemLeft" align="right" valign="top">typedef CGAL::Polyhedron_3&lt; CGALKernel, CGALPolyhedronItems &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacepossumwood.html#af595bd5dc0e4d841f60084e28a95bd78">possumwood::CGALPolyhedron</a></td></tr>
+<tr class="separator:af595bd5dc0e4d841f60084e28a95bd78"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aacf5fcdf425d1d710c9a7b992c19bb42"><td class="memItemLeft" align="right" valign="top">typedef CGAL::Exact_predicates_exact_constructions_kernel&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacepossumwood.html#aacf5fcdf425d1d710c9a7b992c19bb42">possumwood::NefKernel</a></td></tr>
+<tr class="separator:aacf5fcdf425d1d710c9a7b992c19bb42"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae0880d2ee624e6f0fc9e9539d436a927"><td class="memItemLeft" align="right" valign="top">typedef CGAL::Nef_polyhedron_3&lt; NefKernel &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacepossumwood.html#ae0880d2ee624e6f0fc9e9539d436a927">possumwood::CGALNef</a></td></tr>
+<tr class="separator:ae0880d2ee624e6f0fc9e9539d436a927"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="func-members"></a>
+Functions</h2></td></tr>
+<tr class="memitem:a60a6ef640d638d2ce65e0befc8d27a90"><td class="memItemLeft" align="right" valign="top">std::ostream &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacepossumwood.html#a60a6ef640d638d2ce65e0befc8d27a90">possumwood::operator&lt;&lt;</a> (std::ostream &amp;out, const CGALNefPolyhedron &amp;nef)</td></tr>
+<tr class="separator:a60a6ef640d638d2ce65e0befc8d27a90"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
@@ -170,7 +185,7 @@ Typedefs</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="dir_68267d1309a1af8e8297ef4c3efbcdba.html">src</a></li><li class="navelem"><a class="el" href="dir_7020b8b7abcceffa3f9f7a2d24718f16.html">plugins</a></li><li class="navelem"><a class="el" href="dir_c787477f04bcb9b7354e5a9e33843bcc.html">cgal</a></li><li class="navelem"><a class="el" href="cgal_8h.html">cgal.h</a></li>
-    <li class="footer">Generated on Mon Aug 31 2020 17:27:25 for possumwood by
+    <li class="footer">Generated on Sun Sep 6 2020 22:14:21 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.13 </li>
   </ul>

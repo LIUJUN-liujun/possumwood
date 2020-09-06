@@ -1,3 +1,6 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$structpossumwood_1_1Traits_3_01anim_1_1Animation_01_4.html" title="possumwood::Traits\l\&lt; anim::Animation \&gt;" alt="" coords="5,5,165,47"/>
+<area shape="rect" id="node1" href="$classpossumwood_1_1Shader.html" title="possumwood::Shader" alt="" coords="5,56,167,83"/>
+<area shape="rect" id="node2" href="$classpossumwood_1_1FragmentShader.html" title="Concrete type for a Fragment shader &#45; to allow explicit type checking. " alt="" coords="217,5,439,32"/>
+<area shape="rect" id="node3" href="$classpossumwood_1_1GeometryShader.html" title="Concrete type for a Vertex shader &#45; to allow explicit type checking. " alt="" coords="215,56,441,83"/>
+<area shape="rect" id="node4" href="$classpossumwood_1_1VertexShader.html" title="Concrete type for a Vertex shader &#45; to allow explicit type checking. " alt="" coords="227,107,429,133"/>
 </map>

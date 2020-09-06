@@ -44,8 +44,8 @@
 <area shape="rect" id="node33" href="$skin__remap_8cpp.html" title="src/plugins/anim/nodes\l/mesh/skin_remap.cpp" alt="" coords="5843,191,6015,233"/>
 <area shape="rect" id="node34" href="$skin__remap__regex_8cpp.html" title="src/plugins/anim/nodes\l/mesh/skin_remap_regex.cpp" alt="" coords="6040,191,6253,233"/>
 <area shape="rect" id="node35" href="$subset_8cpp.html" title="src/plugins/anim/nodes\l/mesh/subset.cpp" alt="" coords="6278,191,6450,233"/>
-<area shape="rect" id="node36" href="$plugins_2cgal_2nodes_2grid_8cpp.html" title="src/plugins/cgal/nodes\l/grid.cpp" alt="" coords="6474,191,6641,233"/>
-<area shape="rect" id="node37" href="$loader_8cpp.html" title="src/plugins/cgal/nodes\l/loader.cpp" alt="" coords="6665,191,6831,233"/>
-<area shape="rect" id="node38" href="$cgal_2nodes_2lua_2extract_8cpp.html" title="src/plugins/cgal/nodes\l/lua/extract.cpp" alt="" coords="6855,191,7022,233"/>
-<area shape="rect" id="node39" href="$cgal_2nodes_2lua_2module_8cpp.html" title="src/plugins/cgal/nodes\l/lua/module.cpp" alt="" coords="7046,191,7213,233"/>
+<area shape="rect" id="node36" href="$poly__to__nef_8cpp.html" title="src/plugins/cgal/nodes\l/csg/poly_to_nef.cpp" alt="" coords="6474,191,6641,233"/>
+<area shape="rect" id="node37" href="$plugins_2cgal_2nodes_2grid_8cpp.html" title="src/plugins/cgal/nodes\l/grid.cpp" alt="" coords="6665,191,6831,233"/>
+<area shape="rect" id="node38" href="$loader_8cpp.html" title="src/plugins/cgal/nodes\l/loader.cpp" alt="" coords="6855,191,7022,233"/>
+<area shape="rect" id="node39" href="$cgal_2nodes_2lua_2extract_8cpp.html" title="src/plugins/cgal/nodes\l/lua/extract.cpp" alt="" coords="7046,191,7213,233"/>
 </map>
