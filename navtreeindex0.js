@@ -163,6 +163,7 @@ var NAVTREEINDEX0 =
 "bfs__visitors_8cpp.html":[3,0,0,1,2,2],
 "bfs__visitors_8h.html":[3,0,0,1,2,3],
 "bfs__visitors_8h_source.html":[3,0,0,1,2,3],
+"binary__op_8cpp.html":[3,0,0,2,1,2,0,0],
 "bitfield_8cpp.html":[3,0,0,1,2,4],
 "bitfield_8h.html":[3,0,0,1,2,5],
 "bitfield_8h_source.html":[3,0,0,1,2,5],
@@ -217,6 +218,7 @@ var NAVTREEINDEX0 =
 "cascade_8cpp.html":[3,0,0,2,5,0,3,0],
 "cgal_2cgal_8cpp.html":[3,0,0,2,1,5],
 "cgal_2cgal_8cpp.html#a60a6ef640d638d2ce65e0befc8d27a90":[3,0,0,2,1,5,0],
+"cgal_2convert_8cpp.html":[3,0,0,2,1,7],
 "cgal_2lua_2module_8cpp.html":[3,0,0,2,1,1,0],
 "cgal_2lua_2module_8h.html":[3,0,0,2,1,1,1],
 "cgal_2lua_2module_8h_source.html":[3,0,0,2,1,1,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX0 =
 "classAdaptor.html#a0eeebc9aa62aa16d69a6be532fc8bc0d":[2,0,8,1],
 "classAdaptor.html#a101bc3474a7eba9ff8bda8ba250f9d87":[2,0,8,12],
 "classAdaptor.html#a110b2d8f9eb5e5a564e350631136a469":[2,0,8,24],
-"classAdaptor.html#a170cbc2e83ed0ac53711ab11ffc822bb":[2,0,8,26],
-"classAdaptor.html#a226b122f24d6650abe47feabe21a41ac":[2,0,8,6],
-"classAdaptor.html#a228e4e5c06cb9394d2bc24643c6dc024":[2,0,8,30]
+"classAdaptor.html#a170cbc2e83ed0ac53711ab11ffc822bb":[2,0,8,26]
 };

@@ -9,6 +9,8 @@ var dir_c787477f04bcb9b7354e5a9e33843bcc =
     ] ],
     [ "cgal.cpp", "cgal_2cgal_8cpp.html", "cgal_2cgal_8cpp" ],
     [ "cgal.h", "cgal_8h.html", "cgal_8h" ],
+    [ "convert.cpp", "cgal_2convert_8cpp.html", null ],
+    [ "convert.h", "convert_8h.html", "convert_8h" ],
     [ "errors.cpp", "errors_8cpp.html", null ],
     [ "errors.h", "errors_8h.html", [
       [ "ScopedOutputRedirect", "classpossumwood_1_1ScopedOutputRedirect.html", "classpossumwood_1_1ScopedOutputRedirect" ]

@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['sample',['Sample',['../structlightfields_1_1Samples_1_1Sample.html',1,'lightfields::Samples::Sample'],['../structlightfields_1_1Pattern_1_1Sample.html',1,'lightfields::Pattern::Sample']]],
+  ['sample',['Sample',['../structlightfields_1_1Pattern_1_1Sample.html',1,'lightfields::Pattern::Sample'],['../structlightfields_1_1Samples_1_1Sample.html',1,'lightfields::Samples::Sample']]],
   ['samples',['Samples',['../classlightfields_1_1Samples.html',1,'lightfields']]],
   ['saveableregistration',['SaveableRegistration',['../structdependency__graph_1_1io_1_1SaveableRegistration.html',1,'dependency_graph::io']]],
   ['scopedenable',['ScopedEnable',['../classpossumwood_1_1ScopedEnable.html',1,'possumwood']]],
@@ -20,7 +20,7 @@ var searchData=
   ['snippet',['Snippet',['../classanim_1_1MotionGraph_1_1Snippet.html',1,'anim::MotionGraph']]],
   ['sourceeditor',['SourceEditor',['../classpossumwood_1_1SourceEditor.html',1,'possumwood']]],
   ['stack',['Stack',['../classStack.html',1,'']]],
-  ['state',['State',['../classanim_1_1Tokenizer_1_1State.html',1,'anim::Tokenizer::State'],['../classpossumwood_1_1lua_1_1State.html',1,'possumwood::lua::State'],['../classdependency__graph_1_1State.html',1,'dependency_graph::State']]],
+  ['state',['State',['../classpossumwood_1_1lua_1_1State.html',1,'possumwood::lua::State'],['../classanim_1_1Tokenizer_1_1State.html',1,'anim::Tokenizer::State'],['../classdependency__graph_1_1State.html',1,'dependency_graph::State']]],
   ['static_5fconst',['static_const',['../structpossumwood_1_1io_1_1detail_1_1static__const.html',1,'possumwood::io::detail']]],
   ['staticinitialisation',['StaticInitialisation',['../classdependency__graph_1_1StaticInitialisation.html',1,'dependency_graph']]],
   ['string_5fui',['string_ui',['../classstring__ui.html',1,'']]],

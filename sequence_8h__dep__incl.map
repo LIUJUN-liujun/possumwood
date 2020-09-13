@@ -13,7 +13,7 @@
 <area shape="rect" id="node13" href="$sequence_2abs_8cpp.html" title="src/plugins/opencv\l/nodes/sequence/abs.cpp" alt="" coords="2349,102,2534,143"/>
 <area shape="rect" id="node14" href="$opencv_2nodes_2sequence_2add_8cpp.html" title="src/plugins/opencv\l/nodes/sequence/add.cpp" alt="" coords="2559,102,2745,143"/>
 <area shape="rect" id="node15" href="$add__frame_8cpp.html" title="src/plugins/opencv\l/nodes/sequence/add\l_frame.cpp" alt="" coords="2770,95,2929,151"/>
-<area shape="rect" id="node16" href="$sequence_2convert_8cpp.html" title="src/plugins/opencv\l/nodes/sequence/convert.cpp" alt="" coords="2953,102,3164,143"/>
+<area shape="rect" id="node16" href="$opencv_2nodes_2sequence_2convert_8cpp.html" title="src/plugins/opencv\l/nodes/sequence/convert.cpp" alt="" coords="2953,102,3164,143"/>
 <area shape="rect" id="node17" href="$sequence_2divide_8cpp.html" title="src/plugins/opencv\l/nodes/sequence/divide.cpp" alt="" coords="3188,102,3391,143"/>
 <area shape="rect" id="node18" href="$get__frame_8cpp.html" title="src/plugins/opencv\l/nodes/sequence/get\l_frame.cpp" alt="" coords="3415,95,3571,151"/>
 <area shape="rect" id="node19" href="$sequence_2log_8cpp.html" title="src/plugins/opencv\l/nodes/sequence/log.cpp" alt="" coords="3595,102,3778,143"/>

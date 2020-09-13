@@ -26,7 +26,7 @@
 <area shape="rect" id="node24" href="$compare_8cpp.html" title="src/plugins/opencv\l/nodes/compare.cpp" alt="" coords="1895,191,2049,233"/>
 <area shape="rect" id="node25" href="$concat_8cpp.html" title="src/plugins/opencv\l/nodes/concat.cpp" alt="" coords="3683,191,3826,233"/>
 <area shape="rect" id="node26" href="$concat__3_8cpp.html" title="src/plugins/opencv\l/nodes/concat_3.cpp" alt="" coords="3851,191,4005,233"/>
-<area shape="rect" id="node27" href="$convert_8cpp.html" title="src/plugins/opencv\l/nodes/convert.cpp" alt="" coords="2073,191,2218,233"/>
+<area shape="rect" id="node27" href="$opencv_2nodes_2convert_8cpp.html" title="src/plugins/opencv\l/nodes/convert.cpp" alt="" coords="2073,191,2218,233"/>
 <area shape="rect" id="node28" href="$demosaic_8cpp.html" title="src/plugins/opencv\l/nodes/demosaic.cpp" alt="" coords="2242,191,2401,233"/>
 <area shape="rect" id="node29" href="$dilate__erode_8cpp.html" title="src/plugins/opencv\l/nodes/dilate_erode.cpp" alt="" coords="2425,191,2602,233"/>
 <area shape="rect" id="node30" href="$circle_8cpp.html" title="src/plugins/opencv\l/nodes/draw/circle.cpp" alt="" coords="4030,191,4197,233"/>
