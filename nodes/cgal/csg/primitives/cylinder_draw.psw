@@ -1,0 +1,88 @@
+{
+    "connections": [
+        {
+            "in_node": "draw_0",
+            "in_port": "vertex_data",
+            "out_node": "cgal_0",
+            "out_port": "vertex_data"
+        },
+        {
+            "in_node": "cgal_0",
+            "in_port": "mesh",
+            "out_node": "nef_to_poly_0",
+            "out_port": "mesh"
+        },
+        {
+            "in_node": "nef_to_poly_0",
+            "in_port": "nef",
+            "out_node": "network_0",
+            "out_port": "nef"
+        }
+    ],
+    "description": "(empty description)",
+    "name": "network",
+    "nodes": {
+        "cgal_0": {
+            "blind_data": {
+                "type": "possumwood::NodeData",
+                "value": {
+                    "x": -157.645156860352,
+                    "y": 881.175720214844
+                }
+            },
+            "name": "cgal",
+            "ports": {
+                "p_attr_name": "P"
+            },
+            "type": "render/vertex_data/cgal"
+        },
+        "draw_0": {
+            "blind_data": {
+                "type": "possumwood::NodeData",
+                "value": {
+                    "x": 105.648765563965,
+                    "y": 861.792053222656
+                }
+            },
+            "name": "draw",
+            "type": "render/draw"
+        },
+        "nef_to_poly_0": {
+            "blind_data": {
+                "type": "possumwood::NodeData",
+                "value": {
+                    "x": -181.874649047852,
+                    "y": 541.962646484375
+                }
+            },
+            "name": "nef_to_poly",
+            "type": "cgal/csg/nef_to_poly"
+        },
+        "network_0": {
+            "blind_data": {
+                "type": "possumwood::NodeData",
+                "value": {
+                    "x": -180.259353637695,
+                    "y": 336.475189208984
+                }
+            },
+            "name": "cylinder",
+            "ports": {
+                "center": false,
+                "diameter": 1.0,
+                "height": 1.0,
+                "subdivision": 32
+            },
+            "source": "$NODES/cgal/csg/primitives/cylinder.psw",
+            "type": "network"
+        }
+    },
+    "scene_config": {
+        "end_time": 5.0,
+        "fps": 24.0,
+        "start_time": 0.0
+    },
+    "type": "network",
+    "ui_geometry": "AdnQywADAAAAAAAAAAAAAAAACf8AAAV3AAAAAAAAABQAAAXlAAACqQAAAAACAAAACgAAAAAAAAAAHAAACf8AAAV3",
+    "ui_state": "AAAA/wAAAAD9AAAAAgAAAAAAAALYAAAEw/wCAAAAAfsAAAAKAGcAcgBhAHAAaAEAAAB6AAAEwwAAAJwBAAADAAAAAQAAAagAAATD/AIAAAAC+wAAABQAcAByAG8AcABlAHIAdABpAGUAcwEAAAB6AAADHAAAAHYBAAAD+wAAAAwAZQBkAGkAdABvAHIBAAADlwAAAaYAAACuAQAAAwAABX4AAATDAAAABAAAAAQAAAAIAAAACPwAAAAA"
+}
