@@ -96,7 +96,7 @@ var hierarchy =
     [ "possumwood::io::detail::external_constructor< value_t::number_unsigned >", "structpossumwood_1_1io_1_1detail_1_1external__constructor_3_01value__t_1_1number__unsigned_01_4.html", null ],
     [ "possumwood::io::detail::external_constructor< value_t::object >", "structpossumwood_1_1io_1_1detail_1_1external__constructor_3_01value__t_1_1object_01_4.html", null ],
     [ "possumwood::io::detail::external_constructor< value_t::string >", "structpossumwood_1_1io_1_1detail_1_1external__constructor_3_01value__t_1_1string_01_4.html", null ],
-    [ "possumwood::lua::Extract< T, HOLDER >", "structpossumwood_1_1lua_1_1Extract.html", null ],
+    [ "possumwood::lua::Extract< T, HOLDER, FLAGS >", "structpossumwood_1_1lua_1_1Extract.html", null ],
     [ "possumwood::cgal::PolyhedronWrapper::Face", "classpossumwood_1_1cgal_1_1PolyhedronWrapper_1_1Face.html", null ],
     [ "possumwood::CGALPolyhedronItems::Face_wrapper< Refs, Traits >", "structpossumwood_1_1CGALPolyhedronItems_1_1Face__wrapper.html", null ],
     [ "dependency_graph::Data::Factory< T >", "structdependency__graph_1_1Data_1_1Factory.html", null ],
@@ -154,7 +154,7 @@ var hierarchy =
     ] ],
     [ "lightfields::Index", "structlightfields_1_1Index.html", null ],
     [ "possumwood::Index", "classpossumwood_1_1Index.html", null ],
-    [ "possumwood::lua::Inject< T, HOLDER, MODULE >", "structpossumwood_1_1lua_1_1Inject.html", null ],
+    [ "possumwood::lua::Inject< T, HOLDER, MODULE, FLAGS >", "structpossumwood_1_1lua_1_1Inject.html", null ],
     [ "possumwood::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::input_adapter", "classpossumwood_1_1io_1_1basic__json_1_1input__adapter.html", [
       [ "possumwood::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::cached_input_stream_adapter", "classpossumwood_1_1io_1_1basic__json_1_1cached__input__stream__adapter.html", null ],
       [ "possumwood::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::input_buffer_adapter", "classpossumwood_1_1io_1_1basic__json_1_1input__buffer__adapter.html", null ]
@@ -398,7 +398,7 @@ var hierarchy =
       [ "possumwood::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::output_string_adapter< CharType >", "classpossumwood_1_1io_1_1basic__json_1_1output__string__adapter.html", null ],
       [ "possumwood::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::output_vector_adapter< CharType >", "classpossumwood_1_1io_1_1basic__json_1_1output__vector__adapter.html", null ]
     ] ],
-    [ "possumwood::lua::Extract< T, HOLDER >::Params", "structpossumwood_1_1lua_1_1Extract_1_1Params.html", null ],
+    [ "possumwood::lua::Extract< T, HOLDER, FLAGS >::Params", "structpossumwood_1_1lua_1_1Extract_1_1Params.html", null ],
     [ "possumwood::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::parser", "classpossumwood_1_1io_1_1basic__json_1_1parser.html", null ],
     [ "PathWidget::Path", "classPathWidget_1_1Path.html", null ],
     [ "lightfields::Pattern", "classlightfields_1_1Pattern.html", null ],
