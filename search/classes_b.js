@@ -12,8 +12,8 @@ var searchData=
   ['metadatahandle',['MetadataHandle',['../classdependency__graph_1_1MetadataHandle.html',1,'dependency_graph']]],
   ['metadataregister',['MetadataRegister',['../classdependency__graph_1_1MetadataRegister.html',1,'dependency_graph']]],
   ['metric',['Metric',['../classlightfields_1_1SlicSuperpixels_1_1Metric.html',1,'lightfields::SlicSuperpixels']]],
-  ['module',['Module',['../structpossumwood_1_1cgal_1_1Module.html',1,'possumwood::cgal::Module'],['../structpossumwood_1_1images_1_1Module.html',1,'possumwood::images::Module']]],
+  ['module',['Module',['../structpossumwood_1_1images_1_1Module.html',1,'possumwood::images::Module'],['../structpossumwood_1_1cgal_1_1Module.html',1,'possumwood::cgal::Module']]],
   ['motiongraph',['MotionGraph',['../classanim_1_1MotionGraph.html',1,'anim']]],
-  ['motionmap',['MotionMap',['../classanim_1_1MotionMap.html',1,'anim::MotionMap'],['../classanim_1_1ui_1_1MotionMap.html',1,'anim::ui::MotionMap']]],
+  ['motionmap',['MotionMap',['../classanim_1_1ui_1_1MotionMap.html',1,'anim::ui::MotionMap'],['../classanim_1_1MotionMap.html',1,'anim::MotionMap']]],
   ['mrf',['MRF',['../classlightfields_1_1MRF.html',1,'lightfields']]]
 ];

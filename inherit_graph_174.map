@@ -1,3 +1,6 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classpossumwood_1_1io_1_1basic__json_1_1json__pointer.html" title="JSON Pointer. " alt="" coords="5,5,343,105"/>
+<area shape="rect" id="node1" href="$classpossumwood_1_1io_1_1basic__json_1_1output__adapter.html" title="abstract output adapter interface " alt="" coords="5,129,343,229"/>
+<area shape="rect" id="node2" href="$classpossumwood_1_1io_1_1basic__json_1_1output__stream__adapter.html" title="putput adatpter for output streams " alt="" coords="391,5,728,105"/>
+<area shape="rect" id="node3" href="$classpossumwood_1_1io_1_1basic__json_1_1output__string__adapter.html" title="output adapter for basic_string " alt="" coords="391,129,728,229"/>
+<area shape="rect" id="node4" href="$classpossumwood_1_1io_1_1basic__json_1_1output__vector__adapter.html" title="output adapter for byte vectors " alt="" coords="391,253,728,353"/>
 </map>

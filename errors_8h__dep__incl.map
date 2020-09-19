@@ -1,9 +1,0 @@
-<map id="src/plugins/cgal/errors.h" name="src/plugins/cgal/errors.h">
-<area shape="rect" id="node2" href="$errors_8cpp.html" title="src/plugins/cgal/errors.cpp" alt="" coords="5,87,197,114"/>
-<area shape="rect" id="node3" href="$nef__to__poly_8cpp.html" title="src/plugins/cgal/nodes\l/csg/nef_to_poly.cpp" alt="" coords="222,80,389,121"/>
-<area shape="rect" id="node4" href="$poly__to__nef_8cpp.html" title="src/plugins/cgal/nodes\l/csg/poly_to_nef.cpp" alt="" coords="413,80,579,121"/>
-<area shape="rect" id="node5" href="$loader_8cpp.html" title="src/plugins/cgal/nodes\l/loader.cpp" alt="" coords="603,80,770,121"/>
-<area shape="rect" id="node6" href="$normals__generator_8cpp.html" title="src/plugins/cgal/nodes\l/normals_generator.cpp" alt="" coords="794,80,969,121"/>
-<area shape="rect" id="node7" href="$simplification_8cpp.html" title="src/plugins/cgal/nodes\l/simplification/simplification.cpp" alt="" coords="993,80,1226,121"/>
-<area shape="rect" id="node8" href="$stitch__borders_8cpp.html" title="src/plugins/cgal/nodes\l/topology/stitch_borders.cpp" alt="" coords="1250,80,1457,121"/>
-</map>

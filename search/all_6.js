@@ -1,8 +1,8 @@
 var searchData=
 [
   ['f',['f',['../classpossumwood_1_1opencv_1_1Exif.html#a10de4ff1d24263c16bbcc72246148d22',1,'possumwood::opencv::Exif']]],
-  ['face',['Face',['../classpossumwood_1_1cgal_1_1PolyhedronWrapper_1_1Face.html',1,'possumwood::cgal::PolyhedronWrapper::Face'],['../structpossumwood_1_1CGALPolyhedronItems_1_1Face__wrapper.html#aa049041179aa9cb95f3d00b3b873927c',1,'possumwood::CGALPolyhedronItems::Face_wrapper::Face()']]],
-  ['face_5fwrapper',['Face_wrapper',['../structpossumwood_1_1CGALPolyhedronItems_1_1Face__wrapper.html',1,'possumwood::CGALPolyhedronItems']]],
+  ['face',['Face',['../classpossumwood_1_1cgal_1_1PolyhedronWrapper_1_1Face.html',1,'possumwood::cgal::PolyhedronWrapper::Face'],['../structpossumwood_1_1CGALItems_1_1Face__wrapper.html#a0fcd689bd3eb494703adfc93116a7871',1,'possumwood::CGALItems::Face_wrapper::Face()']]],
+  ['face_5fwrapper',['Face_wrapper',['../structpossumwood_1_1CGALItems_1_1Face__wrapper.html',1,'possumwood::CGALItems']]],
   ['faceproperties',['faceProperties',['../classpossumwood_1_1Mesh.html#ad0ad549eb638338327cdef423025df22',1,'possumwood::Mesh::faceProperties() const'],['../classpossumwood_1_1Mesh.html#aed6eed8f8eb54222cd30095573198c33',1,'possumwood::Mesh::faceProperties()']]],
   ['factories',['factories',['../classpossumwood_1_1properties_1_1factories.html',1,'possumwood::properties::factories'],['../structdependency__graph_1_1StaticInitialisation_1_1Pimpl.html#ab4087d14db4334b4c2703c0d71e01028',1,'dependency_graph::StaticInitialisation::Pimpl::factories()'],['../classpossumwood_1_1properties_1_1factories.html#a31ad7a69bc33f9534589b849c6e5b12a',1,'possumwood::properties::factories::factories()']]],
   ['factory',['factory',['../classpossumwood_1_1properties_1_1factory.html',1,'possumwood::properties::factory'],['../structdependency__graph_1_1Data_1_1Factory.html',1,'dependency_graph::Data::Factory&lt; T &gt;'],['../structdependency__graph_1_1Data_1_1Factory.html#afda50e4d4b617f04d9205d3f0c82ccca',1,'dependency_graph::Data::Factory::Factory()'],['../classpossumwood_1_1properties_1_1factory.html#a653df37de6506b0907f4c4bb2b02e6f6',1,'possumwood::properties::factory::factory()']]],
