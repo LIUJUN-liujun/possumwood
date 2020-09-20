@@ -50,9 +50,6 @@ var dir_bbeb1387f6037c41dcaa5423e7174c79 =
       [ "Metadata", "classpossumwood_1_1Metadata.html", "classpossumwood_1_1Metadata" ]
     ] ],
     [ "metadata.inl", "possumwood__sdk_2metadata_8inl.html", null ],
-    [ "network_compute.h", "network__compute_8h.html", [
-      [ "NetworkCompute", "classpossumwood_1_1NetworkCompute.html", "classpossumwood_1_1NetworkCompute" ]
-    ] ],
     [ "node_implementation.cpp", "node__implementation_8cpp.html", null ],
     [ "node_implementation.h", "node__implementation_8h.html", [
       [ "NodeImplementation", "structpossumwood_1_1NodeImplementation.html", "structpossumwood_1_1NodeImplementation" ]

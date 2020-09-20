@@ -1,6 +1,5 @@
 var NAVTREEINDEX15 =
 {
-"functions_vars_y.html":[2,3,2,21],
 "functions_w.html":[2,3,0,23],
 "functions_x.html":[2,3,0,24],
 "functions_y.html":[2,3,0,25],
@@ -249,5 +248,6 @@ var NAVTREEINDEX15 =
 "libs_2lightfields_2grid_8h.html":[3,0,0,1,2,14],
 "libs_2lightfields_2grid_8h_source.html":[3,0,0,1,2,14],
 "libs_2lightfields_2metadata_8cpp.html":[3,0,0,1,2,23],
-"libs_2lightfields_2metadata_8cpp.html#a32749891a4c5adf5b447396e7bc1406c":[3,0,0,1,2,23,0]
+"libs_2lightfields_2metadata_8cpp.html#a32749891a4c5adf5b447396e7bc1406c":[3,0,0,1,2,23,0],
+"libs_2lightfields_2vec2_8h.html":[3,0,0,1,2,48]
 };

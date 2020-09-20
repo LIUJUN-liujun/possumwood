@@ -162,6 +162,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:ab0ec0c548a2baed6d9b2e167a2504168"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aeff6ee7ead8643ce81f39b5d325da38b"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classAdaptor.html#aeff6ee7ead8643ce81f39b5d325da38b">setSelection</a> (const <a class="el" href="classdependency__graph_1_1Selection.html">dependency_graph::Selection</a> &amp;<a class="el" href="classAdaptor.html#ab0ec0c548a2baed6d9b2e167a2504168">selection</a>)</td></tr>
 <tr class="separator:aeff6ee7ead8643ce81f39b5d325da38b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4d7aa7857581c0d765311115872c7782"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classAdaptor.html#a4d7aa7857581c0d765311115872c7782">clearSelection</a> ()</td></tr>
+<tr class="separator:a4d7aa7857581c0d765311115872c7782"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a499166fcd03deb96b1669940f611c508"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classAdaptor.html#a499166fcd03deb96b1669940f611c508">setSizeHint</a> (const QSize &amp;sh)</td></tr>
 <tr class="separator:a499166fcd03deb96b1669940f611c508"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a228e4e5c06cb9394d2bc24643c6dc024"><td class="memItemLeft" align="right" valign="top">virtual QSize&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classAdaptor.html#a228e4e5c06cb9394d2bc24643c6dc024">sizeHint</a> () const override</td></tr>
@@ -202,6 +204,8 @@ Private Member Functions</h2></td></tr>
 <tr class="separator:a9a17e10f4b8371351257ca067aa388a0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa7e2fdff488e5312b62dfdf8179c313f"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classAdaptor.html#aa7e2fdff488e5312b62dfdf8179c313f">onMetadataChanged</a> (<a class="el" href="classdependency__graph_1_1NodeBase.html">dependency_graph::NodeBase</a> &amp;node)</td></tr>
 <tr class="separator:aa7e2fdff488e5312b62dfdf8179c313f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a95a38028202c223ee704f0db078b7a3f"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classAdaptor.html#a95a38028202c223ee704f0db078b7a3f">assignSelection</a> (const <a class="el" href="classdependency__graph_1_1Selection.html">dependency_graph::Selection</a> &amp;sel)</td></tr>
+<tr class="separator:a95a38028202c223ee704f0db078b7a3f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-static-methods"></a>
 Static Private Member Functions</h2></td></tr>
@@ -288,6 +292,49 @@ Private Attributes</h2></td></tr>
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
+<a id="a95a38028202c223ee704f0db078b7a3f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a95a38028202c223ee704f0db078b7a3f">&#9670;&nbsp;</a></span>assignSelection()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void Adaptor::assignSelection </td>
+          <td>(</td>
+          <td class="paramtype">const <a class="el" href="classdependency__graph_1_1Selection.html">dependency_graph::Selection</a> &amp;&#160;</td>
+          <td class="paramname"><em>sel</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a4d7aa7857581c0d765311115872c7782"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4d7aa7857581c0d765311115872c7782">&#9670;&nbsp;</a></span>clearSelection()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void Adaptor::clearSelection </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a id="a57fa8893c9ffbc90bcaec87874be5d26"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a57fa8893c9ffbc90bcaec87874be5d26">&#9670;&nbsp;</a></span>copyAction()</h2>
 
@@ -1269,7 +1316,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="classAdaptor.html">Adaptor</a></li>
-    <li class="footer">Generated on Sat Sep 19 2020 22:38:22 for possumwood by
+    <li class="footer">Generated on Sun Sep 20 2020 18:04:43 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.13 </li>
   </ul>

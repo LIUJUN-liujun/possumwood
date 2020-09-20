@@ -6,7 +6,6 @@ var searchData=
   ['neighbours_5f8',['Neighbours_8',['../structlightfields_1_1Neighbours__8.html',1,'lightfields']]],
   ['neighbours_5f8_5fweighted',['Neighbours_8_Weighted',['../structlightfields_1_1Neighbours__8__Weighted.html',1,'lightfields']]],
   ['network',['Network',['../classdependency__graph_1_1Network.html',1,'dependency_graph']]],
-  ['networkcompute',['NetworkCompute',['../classpossumwood_1_1NetworkCompute.html',1,'possumwood']]],
   ['nlinks',['NLinks',['../classlightfields_1_1NLinks.html',1,'lightfields']]],
   ['node',['Node',['../classdependency__graph_1_1Node.html',1,'dependency_graph::Node'],['../classnode__editor_1_1Node.html',1,'node_editor::Node']]],
   ['nodebase',['NodeBase',['../classdependency__graph_1_1NodeBase.html',1,'dependency_graph']]],

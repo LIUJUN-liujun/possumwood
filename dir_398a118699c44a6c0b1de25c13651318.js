@@ -10,6 +10,7 @@ var dir_398a118699c44a6c0b1de25c13651318 =
     [ "main.cpp", "tests_2possumwood_2main_8cpp.html", "tests_2possumwood_2main_8cpp" ],
     [ "metadata_change.cpp", "metadata__change_8cpp.html", "metadata__change_8cpp" ],
     [ "nested.cpp", "nested_8cpp.html", "nested_8cpp" ],
+    [ "root_network_ports.cpp", "root__network__ports_8cpp.html", "root__network__ports_8cpp" ],
     [ "subnetwork_connections.cpp", "subnetwork__connections_8cpp.html", "subnetwork__connections_8cpp" ],
     [ "subnetwork_evaluation.cpp", "subnetwork__evaluation_8cpp.html", "subnetwork__evaluation_8cpp" ],
     [ "subnetwork_from_file.cpp", "subnetwork__from__file_8cpp.html", "subnetwork__from__file_8cpp" ],

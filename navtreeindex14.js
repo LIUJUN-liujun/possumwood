@@ -1,6 +1,5 @@
 var NAVTREEINDEX14 =
 {
-"detect__pattern_8cpp.html":[3,0,0,2,5,0,8,4],
 "detect__stationary_8cpp.html":[3,0,0,2,0,1,0,0,0],
 "dft_8cpp.html":[3,0,0,2,5,0,4,0],
 "diffusion_8cpp.html":[3,0,0,2,5,0,8,5],
@@ -174,8 +173,8 @@ var NAVTREEINDEX14 =
 "frames_8cpp.html":[3,0,0,2,0,0,0,6],
 "frames_8h.html":[3,0,0,2,0,0,0,7],
 "frames_8h_source.html":[3,0,0,2,0,0,0,7],
-"functions.html":[2,3,0],
 "functions.html":[2,3,0,0],
+"functions.html":[2,3,0],
 "functions_0x7e.html":[2,3,0,27],
 "functions_a.html":[2,3,0,1],
 "functions_b.html":[2,3,0,2],
@@ -185,8 +184,8 @@ var NAVTREEINDEX14 =
 "functions_enum.html":[2,3,4],
 "functions_eval.html":[2,3,5],
 "functions_f.html":[2,3,0,6],
-"functions_func.html":[2,3,1,0],
 "functions_func.html":[2,3,1],
+"functions_func.html":[2,3,1,0],
 "functions_func_0x7e.html":[2,3,1,23],
 "functions_func_b.html":[2,3,1,1],
 "functions_func_c.html":[2,3,1,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX14 =
 "functions_vars_u.html":[2,3,2,17],
 "functions_vars_v.html":[2,3,2,18],
 "functions_vars_w.html":[2,3,2,19],
-"functions_vars_x.html":[2,3,2,20]
+"functions_vars_x.html":[2,3,2,20],
+"functions_vars_y.html":[2,3,2,21]
 };

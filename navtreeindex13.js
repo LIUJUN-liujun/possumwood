@@ -1,6 +1,5 @@
 var NAVTREEINDEX13 =
 {
-"classpossumwood_1_1opencv_1_1Frame.html#a56c8efccd40656b0caf8421a8a98eb09":[2,0,5,6,8,6],
 "classpossumwood_1_1opencv_1_1Frame.html#a5dc5e17e9b3922a8d9c471cf82d44021":[2,0,5,6,8,10],
 "classpossumwood_1_1opencv_1_1Frame.html#a85e91fbc26b7c30899b8ff5ac9dac458":[2,0,5,6,8,2],
 "classpossumwood_1_1opencv_1_1Frame.html#ab2ec78caafa726f5ce47970884204858":[2,0,5,6,8,3],
@@ -249,5 +248,6 @@ var NAVTREEINDEX13 =
 "description_8h.html":[3,0,0,1,3,13],
 "description_8h_source.html":[3,0,0,1,3,13],
 "detail_8h.html":[3,0,0,1,1,14],
-"detail_8h_source.html":[3,0,0,1,1,14]
+"detail_8h_source.html":[3,0,0,1,1,14],
+"detect__pattern_8cpp.html":[3,0,0,2,5,0,8,4]
 };

@@ -58,7 +58,6 @@ var namespacepossumwood =
     [ "Mesh", "classpossumwood_1_1Mesh.html", "classpossumwood_1_1Mesh" ],
     [ "Meshes", "classpossumwood_1_1Meshes.html", "classpossumwood_1_1Meshes" ],
     [ "Metadata", "classpossumwood_1_1Metadata.html", "classpossumwood_1_1Metadata" ],
-    [ "NetworkCompute", "classpossumwood_1_1NetworkCompute.html", "classpossumwood_1_1NetworkCompute" ],
     [ "NodeData", "classpossumwood_1_1NodeData.html", "classpossumwood_1_1NodeData" ],
     [ "NodeImplementation", "structpossumwood_1_1NodeImplementation.html", "structpossumwood_1_1NodeImplementation" ],
     [ "Program", "classpossumwood_1_1Program.html", "classpossumwood_1_1Program" ],

@@ -2,6 +2,8 @@ var classAdaptor =
 [
     [ "Adaptor", "classAdaptor.html#a599d5b23fde59b81f7c72472d23c2150", null ],
     [ "~Adaptor", "classAdaptor.html#a0eeebc9aa62aa16d69a6be532fc8bc0d", null ],
+    [ "assignSelection", "classAdaptor.html#a95a38028202c223ee704f0db078b7a3f", null ],
+    [ "clearSelection", "classAdaptor.html#a4d7aa7857581c0d765311115872c7782", null ],
     [ "copyAction", "classAdaptor.html#a57fa8893c9ffbc90bcaec87874be5d26", null ],
     [ "currentNetwork", "classAdaptor.html#a974f313558e5eed8dbf4fc3cfa5c8fd6", null ],
     [ "currentNetworkChanged", "classAdaptor.html#a407b160a5fd8fb0d1403cbe6b9f984fa", null ],
