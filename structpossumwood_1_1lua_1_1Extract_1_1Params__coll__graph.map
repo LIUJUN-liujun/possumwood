@@ -1,4 +1,4 @@
-<map id="possumwood::lua::Extract&lt; T, HOLDER &gt;::Params" name="possumwood::lua::Extract&lt; T, HOLDER &gt;::Params">
+<map id="possumwood::lua::Extract&lt; T, HOLDER, FLAGS &gt;::Params" name="possumwood::lua::Extract&lt; T, HOLDER, FLAGS &gt;::Params">
 <area shape="rect" id="node2" href="$classdependency__graph_1_1InAttr.html" title="dependency_graph::InAttr\l\&lt; possumwood::lua::State \&gt;" alt="" coords="496,5,704,47"/>
 <area shape="rect" id="node3" href="$classdependency__graph_1_1TypedAttr.html" title="dependency_graph::TypedAttr\l\&lt; possumwood::lua::State \&gt;" alt="" coords="232,5,447,47"/>
 <area shape="rect" id="node4" href="$classdependency__graph_1_1Attr.html" title="dependency_graph::Attr" alt="" coords="5,46,183,73"/>

@@ -3,6 +3,7 @@ var searchData=
   ['background_2ecpp',['background.cpp',['../background_8cpp.html',1,'']]],
   ['bfs_5fvisitors_2ecpp',['bfs_visitors.cpp',['../bfs__visitors_8cpp.html',1,'']]],
   ['bfs_5fvisitors_2eh',['bfs_visitors.h',['../bfs__visitors_8h.html',1,'']]],
+  ['binary_5fop_2ecpp',['binary_op.cpp',['../binary__op_8cpp.html',1,'']]],
   ['bitfield_2ecpp',['bitfield.cpp',['../bitfield_8cpp.html',1,'']]],
   ['bitfield_2eh',['bitfield.h',['../bitfield_8h.html',1,'']]],
   ['blend_2ecpp',['blend.cpp',['../blend_8cpp.html',1,'']]],

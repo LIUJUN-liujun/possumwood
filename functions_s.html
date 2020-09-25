@@ -148,6 +148,9 @@ $(document).ready(function(){initNavTree('functions_s.html','');});
 <li>ScopedEnable()
 : <a class="el" href="classpossumwood_1_1ScopedEnable.html#aa6445a9b300c7a3a106605f86b8b33e1">possumwood::ScopedEnable</a>
 </li>
+<li>ScopedOutputRedirect()
+: <a class="el" href="classpossumwood_1_1ScopedOutputRedirect.html#adf5f1bbb35f14b7aadc31689e7e36b92">possumwood::ScopedOutputRedirect</a>
+</li>
 <li>SearchableMenu()
 : <a class="el" href="classSearchableMenu.html#a96a3338cf16c8eaffbd9e5acd425f610">SearchableMenu</a>
 </li>
@@ -474,7 +477,7 @@ $(document).ready(function(){initNavTree('functions_s.html','');});
 </li>
 <li>Skeleton
 : <a class="el" href="classanim_1_1Skeleton_1_1Joint.html#a6a11291b70c2cbded85d321ce539c62f">anim::Skeleton::Joint</a>
-, <a class="el" href="classanim_1_1Skeleton.html#a1b2f7b1dffb95878bbba694ea3b0e4f2">anim::Skeleton</a>
+, <a class="el" href="classanim_1_1Skeleton.html#a5ce96faf871847ec710b038052f3fa5b">anim::Skeleton</a>
 </li>
 <li>skeleton
 : <a class="el" href="structopenanim_1_1RigData.html#a4293272d5655b303a11aef6fccb55760">openanim::RigData</a>
@@ -517,6 +520,12 @@ $(document).ready(function(){initNavTree('functions_s.html','');});
 </li>
 <li>SourceEditor()
 : <a class="el" href="classpossumwood_1_1SourceEditor.html#aa0a9aa73b48dafe0b83c6ea1f8ac1265">possumwood::SourceEditor</a>
+</li>
+<li>SourceHDS
+: <a class="el" href="classpossumwood_1_1ConvertPolyhedron.html#ae16914b912758f8d50b0103b7a5fc50a">possumwood::ConvertPolyhedron&lt; SourcePolyhedron, TargetPolyhedron &gt;</a>
+</li>
+<li>SourceKernel
+: <a class="el" href="classpossumwood_1_1ConvertPolyhedron.html#a9585d4193deb2d92a72246380d82cb6b">possumwood::ConvertPolyhedron&lt; SourcePolyhedron, TargetPolyhedron &gt;</a>
 </li>
 <li>sourceSkeleton()
 : <a class="el" href="classanim_1_1JointMappingEditorData.html#a7a8c9d62fdfbef958799ff30bb33099b">anim::JointMappingEditorData</a>
@@ -563,10 +572,11 @@ $(document).ready(function(){initNavTree('functions_s.html','');});
 <li>State
 : <a class="el" href="classnode__editor_1_1Node.html#a34b6a04a0eb552d7f9bcd55aa92f4ca4">node_editor::Node</a>
 , <a class="el" href="classpossumwood_1_1lua_1_1Context.html#a7edbf9e31116a21e4e18cd2dd004ae63">possumwood::lua::Context</a>
-, <a class="el" href="classpossumwood_1_1lua_1_1State.html#a4a4c5beadc1b506e11bf84aa25ce43a1">possumwood::lua::State</a>
+, <a class="el" href="classpossumwood_1_1lua_1_1State.html#acbb793ad59df45452ccfa4acef5ba53e">possumwood::lua::State</a>
 </li>
 <li>state()
 : <a class="el" href="classpossumwood_1_1Program.html#a235782cdbd35c70b9bab3718c995e691">possumwood::Program</a>
+, <a class="el" href="classpossumwood_1_1ScopedOutputRedirect.html#a6ff7442e5039926798adbb650230ea2f">possumwood::ScopedOutputRedirect</a>
 , <a class="el" href="classpossumwood_1_1Shader.html#a9d8709544c30abea7c8d825feedbe6f8">possumwood::Shader</a>
 </li>
 <li>stateChanged()
@@ -602,11 +612,11 @@ $(document).ready(function(){initNavTree('functions_s.html','');});
 <li>SubsetSelection
 : <a class="el" href="classanim_1_1SubsetSelection_1_1const__iterator.html#aa6094864861bd1d971b3b99ef3ee2581">anim::SubsetSelection::const_iterator</a>
 , <a class="el" href="classanim_1_1SubsetSelection_1_1Options.html#aa6094864861bd1d971b3b99ef3ee2581">anim::SubsetSelection::Options</a>
-, <a class="el" href="classanim_1_1SubsetSelection.html#aa1154e2ff1d74ef2bf97fd35a379a905">anim::SubsetSelection</a>
+, <a class="el" href="classanim_1_1SubsetSelection.html#aad75ba5497ada4050fab0adc3fda72d5">anim::SubsetSelection</a>
 </li>
 <li>swap()
 : <a class="el" href="classlightfields_1_1Grid.html#a086dd33ab1e51bf23734d5b953f7a429">lightfields::Grid&lt; VALUE, CONTAINER &gt;</a>
-, <a class="el" href="classpossumwood_1_1io_1_1basic__json.html#a07e68a8378c76ed96abb832c42e42507">possumwood::io::basic_json&lt; ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer &gt;</a>
+, <a class="el" href="classpossumwood_1_1io_1_1basic__json.html#a66abb959457c31ca005e88d28d4280a8">possumwood::io::basic_json&lt; ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer &gt;</a>
 </li>
 </ul>
 </div><!-- contents -->
@@ -614,7 +624,7 @@ $(document).ready(function(){initNavTree('functions_s.html','');});
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Fri Sep 25 2020 23:38:16 for possumwood by
+    <li class="footer">Generated on Fri Sep 25 2020 23:41:49 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.13 </li>
   </ul>

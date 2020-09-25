@@ -7,8 +7,14 @@ var dir_c787477f04bcb9b7354e5a9e33843bcc =
     [ "builder.h", "builder_8h.html", [
       [ "CGALBuilder", "classpossumwood_1_1CGALBuilder.html", "classpossumwood_1_1CGALBuilder" ]
     ] ],
-    [ "cgal.cpp", "cgal_2cgal_8cpp.html", null ],
+    [ "cgal.cpp", "cgal_2cgal_8cpp.html", "cgal_2cgal_8cpp" ],
     [ "cgal.h", "cgal_8h.html", "cgal_8h" ],
+    [ "convert.cpp", "cgal_2convert_8cpp.html", null ],
+    [ "convert.h", "convert_8h.html", "convert_8h" ],
+    [ "errors.cpp", "errors_8cpp.html", null ],
+    [ "errors.h", "errors_8h.html", [
+      [ "ScopedOutputRedirect", "classpossumwood_1_1ScopedOutputRedirect.html", "classpossumwood_1_1ScopedOutputRedirect" ]
+    ] ],
     [ "mesh.cpp", "mesh_8cpp.html", null ],
     [ "mesh.h", "mesh_8h.html", [
       [ "Mesh", "classpossumwood_1_1Mesh.html", "classpossumwood_1_1Mesh" ]

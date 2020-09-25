@@ -132,6 +132,9 @@ $(document).ready(function(){initNavTree('functions_func_c.html','');});
 <li>CGALBuilder()
 : <a class="el" href="classpossumwood_1_1CGALBuilder.html#ab71c46f1a5fb2027d506e193bf289ecf">possumwood::CGALBuilder&lt; HDS, POINTS, FACES &gt;</a>
 </li>
+<li>CGALNefPolyhedron()
+: <a class="el" href="classpossumwood_1_1CGALNefPolyhedron.html#a14edb0829b3b70a72cba5a5013b170c1">possumwood::CGALNefPolyhedron</a>
+</li>
 <li>CGALVertex()
 : <a class="el" href="classpossumwood_1_1CGALVertex.html#ac85a2d88c631d624575fba0521979672">possumwood::CGALVertex&lt; Refs &gt;</a>
 </li>
@@ -213,6 +216,7 @@ $(document).ready(function(){initNavTree('functions_func_c.html','');});
 , <a class="el" href="structpossumwood_1_1Traits_3_01anim_1_1MotionMap_01_4.html#a9d669bc1d0ebfda09d82ca2b8f715112">possumwood::Traits&lt; anim::MotionMap &gt;</a>
 , <a class="el" href="structpossumwood_1_1Traits_3_01anim_1_1Skeleton_01_4.html#aba3c6fe9d6511edb00faa821f63d58b2">possumwood::Traits&lt; anim::Skeleton &gt;</a>
 , <a class="el" href="structpossumwood_1_1Traits_3_01anim_1_1SubsetSelection_01_4.html#aa43ce059c901594b7b2c5ab0240b71d5">possumwood::Traits&lt; anim::SubsetSelection &gt;</a>
+, <a class="el" href="structpossumwood_1_1Traits_3_01CGALNefPolyhedron_01_4.html#a537482235ea0ab2ae1cc8a368554d55e">possumwood::Traits&lt; CGALNefPolyhedron &gt;</a>
 , <a class="el" href="structpossumwood_1_1Traits_3_01Enum_01_4.html#a4386fc0db74011a0f4b3edfaab2bfa88">possumwood::Traits&lt; Enum &gt;</a>
 , <a class="el" href="structpossumwood_1_1Traits_3_01Filename_01_4.html#a923c55d9609a1a7d142caa6988275153">possumwood::Traits&lt; Filename &gt;</a>
 , <a class="el" href="structpossumwood_1_1Traits_3_01Filenames_01_4.html#aee84650402dc2048de4e406c1f8403d5">possumwood::Traits&lt; Filenames &gt;</a>
@@ -264,8 +268,8 @@ $(document).ready(function(){initNavTree('functions_func_c.html','');});
 , <a class="el" href="structpossumwood_1_1Shader_1_1Pimpl.html#a1c8fee8f445c2d715335dbebe32aba5f">possumwood::Shader::Pimpl</a>
 </li>
 <li>compute()
-: <a class="el" href="structpossumwood_1_1lua_1_1Extract.html#a302b1215d55336ddb396a646f4b5e75e">possumwood::lua::Extract&lt; T, HOLDER &gt;</a>
-, <a class="el" href="structpossumwood_1_1lua_1_1Inject.html#a3411b96b627ff60ea1b8e9ee51295cf9">possumwood::lua::Inject&lt; T, HOLDER, MODULE &gt;</a>
+: <a class="el" href="structpossumwood_1_1lua_1_1Extract.html#a6dd32d25a1b4700d2853d8667195695f">possumwood::lua::Extract&lt; T, HOLDER, FLAGS &gt;</a>
+, <a class="el" href="structpossumwood_1_1lua_1_1Inject.html#aa70ad34bc3e18ca8cbcfc5945fc5bc57">possumwood::lua::Inject&lt; T, HOLDER, MODULE, FLAGS &gt;</a>
 </li>
 <li>computeInput()
 : <a class="el" href="classdependency__graph_1_1NodeBase.html#a0964578fc47253586570c617adaaa0c8">dependency_graph::NodeBase</a>
@@ -296,7 +300,7 @@ $(document).ready(function(){initNavTree('functions_func_c.html','');});
 : <a class="el" href="classnode__editor_1_1ConnectedEdge.html#a46e8dd359b84b6893c7acd6f3c1ab88e">node_editor::ConnectedEdge</a>
 </li>
 <li>connectedFrom()
-: <a class="el" href="classdependency__graph_1_1Connections.html#adc14d608c82f3660db394efd3cffff4a">dependency_graph::Connections</a>
+: <a class="el" href="classdependency__graph_1_1Connections.html#a073a4910206fb80be23b1a22bce01bfa">dependency_graph::Connections</a>
 </li>
 <li>connectedTo()
 : <a class="el" href="classdependency__graph_1_1Connections.html#a235bec4c18d014ec643eb7ac6d370209">dependency_graph::Connections</a>
@@ -308,38 +312,46 @@ $(document).ready(function(){initNavTree('functions_func_c.html','');});
 : <a class="el" href="classdependency__graph_1_1Connections.html#a67532562d81cad4b13853cc7f41ba7e6">dependency_graph::Connections</a>
 </li>
 <li>connections()
-: <a class="el" href="classdependency__graph_1_1Network.html#aff8b8b0b98c3b60d3a20f2b3c40748d1">dependency_graph::Network</a>
+: <a class="el" href="classdependency__graph_1_1Network.html#a8d3b9e140e1525a1cf1d8a4d809965b3">dependency_graph::Network</a>
 , <a class="el" href="classdependency__graph_1_1Selection.html#a503681bc9d3f6533d50d023ec3cd336f">dependency_graph::Selection</a>
 </li>
 <li>const_iterator()
-: <a class="el" href="classanim_1_1SubsetSelection_1_1const__iterator.html#abf93246a254827cdf60d5bf407fcc5cf">anim::SubsetSelection::const_iterator</a>
+: <a class="el" href="classanim_1_1SubsetSelection_1_1const__iterator.html#abb309767b3ede32a33bf483c01694916">anim::SubsetSelection::const_iterator</a>
 </li>
 <li>Constraint()
 : <a class="el" href="classanim_1_1constraints_1_1Constraint.html#ab160dc1bde9a4f1f0bedd3cdbecba53c">anim::constraints::Constraint</a>
 </li>
 <li>Constraints()
-: <a class="el" href="classanim_1_1Constraints.html#a11ec71a0849ea53ad47a7794d958383b">anim::Constraints</a>
+: <a class="el" href="classanim_1_1Constraints.html#a79368997a7b8f33174590318b66eadd0">anim::Constraints</a>
 </li>
 <li>construct()
-: <a class="el" href="structpossumwood_1_1io_1_1detail_1_1external__constructor_3_01value__t_1_1array_01_4.html#a65f0a85e678f8d007fb01f10d0722fd6">possumwood::io::detail::external_constructor&lt; value_t::array &gt;</a>
+: <a class="el" href="structpossumwood_1_1io_1_1detail_1_1external__constructor_3_01value__t_1_1array_01_4.html#aba27da56d7d98c98059c6641c9023d3d">possumwood::io::detail::external_constructor&lt; value_t::array &gt;</a>
 , <a class="el" href="structpossumwood_1_1io_1_1detail_1_1external__constructor_3_01value__t_1_1boolean_01_4.html#a61ccd612e48d674bae799e8f61896f0c">possumwood::io::detail::external_constructor&lt; value_t::boolean &gt;</a>
 , <a class="el" href="structpossumwood_1_1io_1_1detail_1_1external__constructor_3_01value__t_1_1number__float_01_4.html#a942f1a80701c69839677bd4282434bbc">possumwood::io::detail::external_constructor&lt; value_t::number_float &gt;</a>
 , <a class="el" href="structpossumwood_1_1io_1_1detail_1_1external__constructor_3_01value__t_1_1number__integer_01_4.html#a3669c4f572ccb739fa7dfe7b7f89635a">possumwood::io::detail::external_constructor&lt; value_t::number_integer &gt;</a>
 , <a class="el" href="structpossumwood_1_1io_1_1detail_1_1external__constructor_3_01value__t_1_1number__unsigned_01_4.html#a0a567e4bf5c65ce3a6b0d18099c2c38a">possumwood::io::detail::external_constructor&lt; value_t::number_unsigned &gt;</a>
-, <a class="el" href="structpossumwood_1_1io_1_1detail_1_1external__constructor_3_01value__t_1_1object_01_4.html#a95e1b4a2155c5838508d9b8165820bc3">possumwood::io::detail::external_constructor&lt; value_t::object &gt;</a>
+, <a class="el" href="structpossumwood_1_1io_1_1detail_1_1external__constructor_3_01value__t_1_1object_01_4.html#a7aa91746c7d0499ff6aa94883d69c865">possumwood::io::detail::external_constructor&lt; value_t::object &gt;</a>
 , <a class="el" href="structpossumwood_1_1io_1_1detail_1_1external__constructor_3_01value__t_1_1string_01_4.html#ab31738986b94833ff529f4c6624d88a8">possumwood::io::detail::external_constructor&lt; value_t::string &gt;</a>
 </li>
 <li>container()
-: <a class="el" href="classlightfields_1_1Grid.html#a13a6a9b8b15759a3fb1889f81543ea12">lightfields::Grid&lt; VALUE, CONTAINER &gt;</a>
+: <a class="el" href="classlightfields_1_1Grid.html#a478e694102e91389b962cefb2197095c">lightfields::Grid&lt; VALUE, CONTAINER &gt;</a>
 </li>
 <li>Context()
 : <a class="el" href="classpossumwood_1_1lua_1_1Context.html#a21495e4130495df529c151bf744666c9">possumwood::lua::Context</a>
+</li>
+<li>conv()
+: <a class="el" href="structpossumwood_1_1CGALConversion.html#ad8eb3f97f28344877e4ca8dc69ac8145">possumwood::CGALConversion&lt; DEST &gt;</a>
+, <a class="el" href="structpossumwood_1_1CGALConversion_3_01CGAL_1_1Point__3_3_01DEST__KERN_01_4_01_4.html#ad9312c6cd0ffc7fa85036374c3508595">possumwood::CGALConversion&lt; CGAL::Point_3&lt; DEST_KERN &gt; &gt;</a>
+, <a class="el" href="structpossumwood_1_1CGALConversion_3_01float_01_4.html#a657cb23f6d70441b0dc16f181c51db59">possumwood::CGALConversion&lt; float &gt;</a>
 </li>
 <li>convert()
 : <a class="el" href="classdependency__graph_1_1Connections.html#aed26fc372071ffe1c5de14722a23f8b8">dependency_graph::Connections</a>
 </li>
 <li>convertConst()
 : <a class="el" href="classdependency__graph_1_1Connections.html#a00aa1525e5efc2e95b82d8b3e56e0940">dependency_graph::Connections</a>
+</li>
+<li>ConvertPolyhedron()
+: <a class="el" href="classpossumwood_1_1ConvertPolyhedron.html#adc8cf3ced547646318a97a5c0334adf8">possumwood::ConvertPolyhedron&lt; SourcePolyhedron, TargetPolyhedron &gt;</a>
 </li>
 <li>copyAction()
 : <a class="el" href="classAdaptor.html#a57fa8893c9ffbc90bcaec87874be5d26">Adaptor</a>
@@ -355,7 +367,7 @@ $(document).ready(function(){initNavTree('functions_func_c.html','');});
 , <a class="el" href="classlightfields_1_1Neighbours.html#a95330b8610053939f8c4f30298646f19">lightfields::Neighbours</a>
 , <a class="el" href="classpossumwood_1_1io_1_1basic__json.html#aefcb9d95267bf640e27be7dda0bbadd8">possumwood::io::basic_json&lt; ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer &gt;</a>
 , <a class="el" href="classpossumwood_1_1io_1_1basic__json_1_1input__adapter.html#a5fc86381adff9baea0a1b443e7341364">possumwood::io::basic_json&lt; ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer &gt;::input_adapter</a>
-, <a class="el" href="classpossumwood_1_1io_1_1basic__json_1_1output__adapter.html#a19412c30df28c446b0dbee7ad77cdf57">possumwood::io::basic_json&lt; ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer &gt;::output_adapter&lt; CharType &gt;</a>
+, <a class="el" href="classpossumwood_1_1io_1_1basic__json_1_1output__adapter.html#ae760c6b2c7c0fb086eaec4e41e6c16fb">possumwood::io::basic_json&lt; ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer &gt;::output_adapter&lt; CharType &gt;</a>
 , <a class="el" href="classpossumwood_1_1io_1_1detail_1_1invalid__iterator.html#a3a7a72eb9767983025b98ddbed0cfd59">possumwood::io::detail::invalid_iterator</a>
 , <a class="el" href="classpossumwood_1_1io_1_1detail_1_1other__error.html#a58d044faab7e8f76155b55968e64320e">possumwood::io::detail::other_error</a>
 , <a class="el" href="classpossumwood_1_1io_1_1detail_1_1out__of__range.html#a6df1caa014f72586176dfda01d0a8782">possumwood::io::detail::out_of_range</a>
@@ -402,7 +414,7 @@ $(document).ready(function(){initNavTree('functions_func_c.html','');});
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Fri Sep 25 2020 23:38:16 for possumwood by
+    <li class="footer">Generated on Fri Sep 25 2020 23:41:49 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.13 </li>
   </ul>

@@ -21,6 +21,7 @@ var searchData=
   ['traits_3c_20anim_3a_3amotionmap_20_3e',['Traits&lt; anim::MotionMap &gt;',['../structpossumwood_1_1Traits_3_01anim_1_1MotionMap_01_4.html',1,'possumwood']]],
   ['traits_3c_20anim_3a_3askeleton_20_3e',['Traits&lt; anim::Skeleton &gt;',['../structpossumwood_1_1Traits_3_01anim_1_1Skeleton_01_4.html',1,'possumwood']]],
   ['traits_3c_20anim_3a_3asubsetselection_20_3e',['Traits&lt; anim::SubsetSelection &gt;',['../structpossumwood_1_1Traits_3_01anim_1_1SubsetSelection_01_4.html',1,'possumwood']]],
+  ['traits_3c_20cgalnefpolyhedron_20_3e',['Traits&lt; CGALNefPolyhedron &gt;',['../structpossumwood_1_1Traits_3_01CGALNefPolyhedron_01_4.html',1,'possumwood']]],
   ['traits_3c_20enum_20_3e',['Traits&lt; Enum &gt;',['../structpossumwood_1_1Traits_3_01Enum_01_4.html',1,'possumwood']]],
   ['traits_3c_20filename_20_3e',['Traits&lt; Filename &gt;',['../structpossumwood_1_1Traits_3_01Filename_01_4.html',1,'possumwood']]],
   ['traits_3c_20filenames_20_3e',['Traits&lt; Filenames &gt;',['../structpossumwood_1_1Traits_3_01Filenames_01_4.html',1,'possumwood']]],

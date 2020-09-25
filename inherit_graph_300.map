@@ -1,3 +1,4 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$structpossumwood_1_1VBOTraits_3_01std_1_1array_3_01T_00_01WIDTH_01_4_01_4.html" title="possumwood::VBOTraits\l\&lt; std::array\&lt; T, WIDTH \&gt; \&gt;" alt="" coords="5,5,211,47"/>
+<area shape="rect" id="node1" href="$structpossumwood_1_1Uniforms_1_1DataBase.html" title="possumwood::Uniforms\l::DataBase" alt="" coords="5,5,181,47"/>
+<area shape="rect" id="node2" href="$structpossumwood_1_1Uniforms_1_1Data.html" title="possumwood::Uniforms\l::Data\&lt; T \&gt;" alt="" coords="229,5,405,47"/>
 </map>
