@@ -1,5 +1,9 @@
 var NAVTREEINDEX14 =
 {
+"default__shaders_8h.html#a8d4ba66d139cce3139d2214544be641a":[3,0,0,2,6,4,1],
+"default__shaders_8h_source.html":[3,0,0,2,6,4],
+"defocus__metric_8cpp.html":[3,0,0,2,5,0,8,2],
+"demosaic_8cpp.html":[3,0,0,2,5,0,23],
 "denoise_8cpp.html":[3,0,0,2,5,0,6,1],
 "dense_8cpp.html":[3,0,0,2,5,0,10,0],
 "dependency__graph_2connections_8cpp.html":[3,0,0,1,1,5],
@@ -245,9 +249,5 @@ var NAVTREEINDEX14 =
 "functions_func_v.html":[2,3,1,20],
 "functions_func_w.html":[2,3,1,21],
 "functions_func_z.html":[2,3,1,22],
-"functions_g.html":[2,3,0,7],
-"functions_h.html":[2,3,0,8],
-"functions_i.html":[2,3,0,9],
-"functions_j.html":[2,3,0,10],
-"functions_k.html":[2,3,0,11]
+"functions_g.html":[2,3,0,7]
 };

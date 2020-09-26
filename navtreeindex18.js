@@ -1,5 +1,11 @@
 var NAVTREEINDEX18 =
 {
+"structElementTraits_3_01double_01_4.html#a8e14433f540a4d600f46f8ff45eb4747":[2,0,12,2],
+"structElementTraits_3_01double_01_4.html#af017fe41265d3ebc05b1c6aaa0db0dc0":[2,0,12,0],
+"structElementTraits_3_01float_01_4.html":[2,0,13],
+"structElementTraits_3_01float_01_4.html#a2608d98558c118d28419a25f97c575a8":[2,0,13,0],
+"structElementTraits_3_01float_01_4.html#a33d4f8ade49e17070a90bca4ccf616fa":[2,0,13,2],
+"structElementTraits_3_01float_01_4.html#a939d1eaef4b9a779196320958366942e":[2,0,13,1],
 "structNoncopyableStruct.html":[2,0,30],
 "structNoncopyableStruct.html#a143e1dbfb9f602736ab944933daac6d6":[2,0,30,3],
 "structNoncopyableStruct.html#a38956ed061090d564b4dad6dfda8b0eb":[2,0,30,1],
@@ -175,10 +181,10 @@ var NAVTREEINDEX18 =
 "structdependency__graph_1_1detail_1_1MetadataAccess.html#a3f73cded8632fe9b10a02d59bcf1424a":[2,0,1,0,0,1],
 "structdependency__graph_1_1detail_1_1MetadataAccess.html#ab43af5c6d5a699d6beb02a9248a005d8":[2,0,1,0,0,0],
 "structdependency__graph_1_1io_1_1SaveableRegistration.html":[2,0,1,1,0],
-"structdependency__graph_1_1io_1_1SaveableRegistration.html#a2a1c0d45961d39e9cd1f033e63aa5f00":[2,0,1,1,0,0],
 "structdependency__graph_1_1io_1_1SaveableRegistration.html#a2a1c0d45961d39e9cd1f033e63aa5f00":[2,0,1,1,0,2],
-"structdependency__graph_1_1io_1_1SaveableRegistration.html#a9a5e494f101fd5a364bc208b65a8b425":[2,0,1,1,0,3],
+"structdependency__graph_1_1io_1_1SaveableRegistration.html#a2a1c0d45961d39e9cd1f033e63aa5f00":[2,0,1,1,0,0],
 "structdependency__graph_1_1io_1_1SaveableRegistration.html#a9a5e494f101fd5a364bc208b65a8b425":[2,0,1,1,0,1],
+"structdependency__graph_1_1io_1_1SaveableRegistration.html#a9a5e494f101fd5a364bc208b65a8b425":[2,0,1,1,0,3],
 "structlightfields_1_1ActiveQueue_1_1Item.html":[2,0,2,0,0],
 "structlightfields_1_1ActiveQueue_1_1Item.html#a207812026d2057a470751a650250572d":[2,0,2,0,0,0],
 "structlightfields_1_1ActiveQueue_1_1Item.html#a68010689ca9192c9be2e603ce7ad22a4":[2,0,2,0,0,4],
@@ -243,11 +249,5 @@ var NAVTREEINDEX18 =
 "structlightfields_1_1SlicSuperpixels.html#a51ebe9d9d93bd3197d246b0a7994fb84":[2,0,2,26,5],
 "structlightfields_1_1SlicSuperpixels.html#a605efd75f3fab4e114917b3a82e88475":[2,0,2,26,6],
 "structlightfields_1_1SlicSuperpixels.html#a9a575a1cda67c117944d1765253392dd":[2,0,2,26,7],
-"structlightfields_1_1SlicSuperpixels.html#aed5dc47def55a0ecb3304ed2cc7a499f":[2,0,2,26,4],
-"structlightfields_1_1SlicSuperpixels_1_1Center.html":[2,0,2,26,0],
-"structlightfields_1_1SlicSuperpixels_1_1Center.html#a0eb22ffa39903978fc5a47d45b779e2a":[2,0,2,26,0,1],
-"structlightfields_1_1SlicSuperpixels_1_1Center.html#a7e4be248a4f853d12598fe9415e7057b":[2,0,2,26,0,4],
-"structlightfields_1_1SlicSuperpixels_1_1Center.html#aabc1e287d40c403a467e42315a6d742b":[2,0,2,26,0,5],
-"structlightfields_1_1SlicSuperpixels_1_1Center.html#aac4f51656b6be44e9ba7a05489feb6e1":[2,0,2,26,0,3],
-"structlightfields_1_1SlicSuperpixels_1_1Center.html#ac5caeaec3d12afa0c4fdd56a10f52b05":[2,0,2,26,0,6]
+"structlightfields_1_1SlicSuperpixels.html#aed5dc47def55a0ecb3304ed2cc7a499f":[2,0,2,26,4]
 };

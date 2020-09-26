@@ -52,19 +52,19 @@ var NAVTREEINDEX =
 "classfilenames__ui.html#a14de3b2904dfa3d11858277628f14484",
 "classlightfields_1_1Raw.html",
 "classpossumwood_1_1BufferTemplated_1_1Element.html",
-"classpossumwood_1_1Grid.html#ac5503086b727a591ad8bc963d5dbf0d2",
-"classpossumwood_1_1UndoStack_1_1Action.html#aaf3ff0171f6a47c8b5a9c91b22c37815",
-"classpossumwood_1_1io_1_1basic__json.html#ab4bf5c78203159f7450ac842b68517a1",
-"classpossumwood_1_1io_1_1basic__json_1_1lexer.html#abf89a5eebfc4098f65271af78d63f930",
-"classpossumwood_1_1opencv_1_1CameraResponse.html#ad62a74f1da1070a83852a6bbd5b8e189",
-"denoise_8cpp.html",
-"functions_l.html",
-"libs_2actions_2detail_2tools_8cpp.html",
-"normalize_8cpp.html",
-"structNoncopyableStruct.html",
-"structlightfields_1_1SlicSuperpixels_1_1Center.html#adcc2d2cc953d8613ebb93a96a416da48",
-"structpossumwood_1_1Traits_3_01std_1_1vector_3_01cv_1_1Rect_01_4_01_4.html",
-"tests_2possumwood_2common_8cpp.html#a335d2beabf999719cd9e844d92959855"
+"classpossumwood_1_1GeometryShader.html",
+"classpossumwood_1_1UndoStack_1_1Action.html",
+"classpossumwood_1_1io_1_1basic__json.html#aaf9c2b28a8896b011986a18ea2baf511",
+"classpossumwood_1_1io_1_1basic__json_1_1lexer.html#aa8b0c6177aac32dfd9fc1f242a582c52",
+"classpossumwood_1_1opencv_1_1CameraResponse.html#aacfd457d3c47615124b976bba6cc7086",
+"default__shaders_8h.html#a8d4ba66d139cce3139d2214544be641a",
+"functions_h.html",
+"libs_2actions_2detail_2metadata_8cpp.html#a48b710e4a9fed12998eb1824693cf3b7",
+"nodes__iterator_8h.html",
+"structElementTraits_3_01double_01_4.html#a8e14433f540a4d600f46f8ff45eb4747",
+"structlightfields_1_1SlicSuperpixels_1_1Center.html",
+"structpossumwood_1_1Traits_3_01opencv_1_1Sequence_01_4.html#a958bf54a5b21169f1a0ea1d80b0d5df0",
+"tests_2possumwood_2actions_8cpp.html#ad15daf8ee9f3a1f9e3afed1698861084"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

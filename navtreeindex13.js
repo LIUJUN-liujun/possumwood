@@ -1,5 +1,9 @@
 var NAVTREEINDEX13 =
 {
+"classpossumwood_1_1opencv_1_1CameraResponse.html#aacfd457d3c47615124b976bba6cc7086":[2,0,5,6,5,2],
+"classpossumwood_1_1opencv_1_1CameraResponse.html#ac282a4319570c13a2f984816f5e1cda2":[2,0,5,6,5,3],
+"classpossumwood_1_1opencv_1_1CameraResponse.html#ac79b3c287eca11d8c7a75426805a3c1d":[2,0,5,6,5,6],
+"classpossumwood_1_1opencv_1_1CameraResponse.html#ac9bcbda3aca6b814bfc7f556c64aea2f":[2,0,5,6,5,7],
 "classpossumwood_1_1opencv_1_1CameraResponse.html#ad62a74f1da1070a83852a6bbd5b8e189":[2,0,5,6,5,5],
 "classpossumwood_1_1opencv_1_1Exif.html":[2,0,5,6,6],
 "classpossumwood_1_1opencv_1_1Exif.html#a0d72641d1261154c2e8e9f55db27304a":[2,0,5,6,6,10],
@@ -245,9 +249,5 @@ var NAVTREEINDEX13 =
 "default__shaders_8h.html#a632428040c2d16a483198709d17e3569":[3,0,0,2,6,4,3],
 "default__shaders_8h.html#a6da494ebafbf3593616ba8336222eb9e":[3,0,0,2,6,4,4],
 "default__shaders_8h.html#a7692d7a41f86ad92efe1de1c7290d07f":[3,0,0,2,6,4,2],
-"default__shaders_8h.html#a82623ad55b0ad222d977cb8f77169034":[3,0,0,2,6,4,0],
-"default__shaders_8h.html#a8d4ba66d139cce3139d2214544be641a":[3,0,0,2,6,4,1],
-"default__shaders_8h_source.html":[3,0,0,2,6,4],
-"defocus__metric_8cpp.html":[3,0,0,2,5,0,8,2],
-"demosaic_8cpp.html":[3,0,0,2,5,0,23]
+"default__shaders_8h.html#a82623ad55b0ad222d977cb8f77169034":[3,0,0,2,6,4,0]
 };

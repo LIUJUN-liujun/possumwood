@@ -47,6 +47,7 @@ var namespacepossumwood =
     [ "FragmentShader", "classpossumwood_1_1FragmentShader.html", "classpossumwood_1_1FragmentShader" ],
     [ "GeometryShader", "classpossumwood_1_1GeometryShader.html", "classpossumwood_1_1GeometryShader" ],
     [ "GLRenderable", "classpossumwood_1_1GLRenderable.html", "classpossumwood_1_1GLRenderable" ],
+    [ "GLSetup", "classpossumwood_1_1GLSetup.html", "classpossumwood_1_1GLSetup" ],
     [ "GLSLTraits", "structpossumwood_1_1GLSLTraits.html", null ],
     [ "GLSLTraits< double >", "structpossumwood_1_1GLSLTraits_3_01double_01_4.html", "structpossumwood_1_1GLSLTraits_3_01double_01_4" ],
     [ "GLSLTraits< float >", "structpossumwood_1_1GLSLTraits_3_01float_01_4.html", "structpossumwood_1_1GLSLTraits_3_01float_01_4" ],

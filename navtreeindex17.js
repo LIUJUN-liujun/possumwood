@@ -1,5 +1,9 @@
 var NAVTREEINDEX17 =
 {
+"nodes__iterator_8h.html":[3,0,0,1,1,35],
+"nodes__iterator_8h_source.html":[3,0,0,1,1,35],
+"nodes__iterator_8inl.html":[3,0,0,1,1,36],
+"normal_8cpp.html":[3,0,0,2,5,0,11,0],
 "normalize_8cpp.html":[3,0,0,2,5,0,32],
 "normals__generator_8cpp.html":[3,0,0,2,1,2,6],
 "not_8cpp.html":[3,0,0,2,5,0,0,1],
@@ -197,6 +201,8 @@ var NAVTREEINDEX17 =
 "sequence_8h.html#a555834aea59ddcb65f7c8998128b25d3":[3,0,0,2,5,30,4],
 "sequence_8h_source.html":[3,0,0,2,5,30],
 "sequence__metadata_8cpp.html":[3,0,0,2,5,0,34],
+"setup_8h.html":[3,0,0,2,6,5],
+"setup_8h_source.html":[3,0,0,2,6,5],
 "shader_8cpp.html":[3,0,0,2,6,0,8],
 "shader_8cpp.html#aa95976de340335d6afc4300a84bb95b1":[3,0,0,2,6,0,8,1],
 "shader_8h.html":[3,0,0,2,6,0,9],
@@ -243,11 +249,5 @@ var NAVTREEINDEX17 =
 "structElementTraits.html#aefcbcfae35a062e03ad2c95159e886bb":[2,0,11,2],
 "structElementTraits.html#afa33fe880ad858736a0aa5248e7da5d5":[2,0,11,1],
 "structElementTraits_3_01double_01_4.html":[2,0,12],
-"structElementTraits_3_01double_01_4.html#a8df5285303c70d9065545e4bf4bc0ec5":[2,0,12,1],
-"structElementTraits_3_01double_01_4.html#a8e14433f540a4d600f46f8ff45eb4747":[2,0,12,2],
-"structElementTraits_3_01double_01_4.html#af017fe41265d3ebc05b1c6aaa0db0dc0":[2,0,12,0],
-"structElementTraits_3_01float_01_4.html":[2,0,13],
-"structElementTraits_3_01float_01_4.html#a2608d98558c118d28419a25f97c575a8":[2,0,13,0],
-"structElementTraits_3_01float_01_4.html#a33d4f8ade49e17070a90bca4ccf616fa":[2,0,13,2],
-"structElementTraits_3_01float_01_4.html#a939d1eaef4b9a779196320958366942e":[2,0,13,1]
+"structElementTraits_3_01double_01_4.html#a8df5285303c70d9065545e4bf4bc0ec5":[2,0,12,1]
 };
