@@ -12,8 +12,6 @@ var searchData=
   ['sequence_2ecpp',['sequence.cpp',['../sequence_8cpp.html',1,'']]],
   ['sequence_2eh',['sequence.h',['../sequence_8h.html',1,'']]],
   ['sequence_5fmetadata_2ecpp',['sequence_metadata.cpp',['../sequence__metadata_8cpp.html',1,'']]],
-  ['setup_2ecpp',['setup.cpp',['../setup_8cpp.html',1,'']]],
-  ['setup_2eh',['setup.h',['../setup_8h.html',1,'']]],
   ['shader_2ecpp',['shader.cpp',['../shader_8cpp.html',1,'']]],
   ['shader_2eh',['shader.h',['../shader_8h.html',1,'']]],
   ['simplification_2ecpp',['simplification.cpp',['../simplification_8cpp.html',1,'']]],
