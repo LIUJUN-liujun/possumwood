@@ -25,6 +25,8 @@ var dir_45247237aeb05763094580f9720e856e =
     ] ],
     [ "program.cpp", "datatypes_2program_8cpp.html", "datatypes_2program_8cpp" ],
     [ "program.h", "program_8h.html", "program_8h" ],
+    [ "setup.cpp", "setup_8cpp.html", "setup_8cpp" ],
+    [ "setup.h", "setup_8h.html", "setup_8h" ],
     [ "shader.cpp", "shader_8cpp.html", "shader_8cpp" ],
     [ "shader.h", "shader_8h.html", "shader_8h" ],
     [ "texture.cpp", "render_2datatypes_2texture_8cpp.html", null ],

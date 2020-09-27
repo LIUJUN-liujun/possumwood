@@ -1,7 +1,7 @@
 var searchData=
 [
   ['face',['Face',['../classpossumwood_1_1cgal_1_1PolyhedronWrapper_1_1Face.html',1,'possumwood::cgal::PolyhedronWrapper']]],
-  ['face_5fwrapper',['Face_wrapper',['../structpossumwood_1_1CGALPolyhedronItems_1_1Face__wrapper.html',1,'possumwood::CGALPolyhedronItems']]],
+  ['face_5fwrapper',['Face_wrapper',['../structpossumwood_1_1CGALItems_1_1Face__wrapper.html',1,'possumwood::CGALItems']]],
   ['factories',['factories',['../classpossumwood_1_1properties_1_1factories.html',1,'possumwood::properties']]],
   ['factory',['factory',['../classpossumwood_1_1properties_1_1factory.html',1,'possumwood::properties::factory'],['../structdependency__graph_1_1Data_1_1Factory.html',1,'dependency_graph::Data::Factory&lt; T &gt;']]],
   ['factory_5ftyped',['factory_typed',['../classpossumwood_1_1properties_1_1factory__typed.html',1,'possumwood::properties']]],

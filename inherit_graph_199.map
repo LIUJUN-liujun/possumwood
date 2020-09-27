@@ -1,3 +1,4 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$structpossumwood_1_1io_1_1detail_1_1is__basic__json__nested__type.html" title="possumwood::io::detail\l::is_basic_json_nested\l_type\&lt; BasicJsonType, T \&gt;" alt="" coords="5,5,201,61"/>
+<area shape="rect" id="node2" href="$structpossumwood_1_1io_1_1detail_1_1is__compatible__integer__type__impl.html" title="possumwood::io::detail\l::is_compatible_integer\l_type_impl\&lt; bool, typename,\l typename \&gt;" alt="" coords="144,5,359,76"/>
+<area shape="rect" id="node3" href="$structpossumwood_1_1io_1_1detail_1_1is__compatible__object__type__impl.html" title="possumwood::io::detail\l::is_compatible_object\l_type_impl\&lt; B, RealType,\l CompatibleObjectType \&gt;" alt="" coords="157,100,345,171"/>
 </map>

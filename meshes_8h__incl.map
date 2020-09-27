@@ -1,10 +1,10 @@
 <map id="src/plugins/cgal/meshes.h" name="src/plugins/cgal/meshes.h">
-<area shape="rect" id="node3" href="$cgal_8h.html" title="cgal.h" alt="" coords="671,155,732,181"/>
-<area shape="rect" id="node21" href="$mesh_8h.html" title="mesh.h" alt="" coords="702,80,773,107"/>
-<area shape="rect" id="node9" href="$property_8inl.html" title="property.inl" alt="" coords="211,244,306,271"/>
-<area shape="rect" id="node10" href="$plugins_2cgal_2properties_8h.html" title="properties.h" alt="" coords="279,333,379,360"/>
-<area shape="rect" id="node16" href="$plugins_2cgal_2property_8h.html" title="property.h" alt="" coords="513,408,599,435"/>
-<area shape="rect" id="node20" href="$property__item_8inl.html" title="property_item.inl" alt="" coords="121,333,255,360"/>
-<area shape="rect" id="node18" href="$property__item_8h.html" title="property_item.h" alt="" coords="187,483,314,509"/>
-<area shape="rect" id="node19" href="$property__key_8h.html" title="property_key.h" alt="" coords="338,483,457,509"/>
+<area shape="rect" id="node3" href="$cgal_8h.html" title="cgal.h" alt="" coords="372,155,433,181"/>
+<area shape="rect" id="node19" href="$mesh_8h.html" title="mesh.h" alt="" coords="403,80,474,107"/>
+<area shape="rect" id="node7" href="$property_8inl.html" title="property.inl" alt="" coords="438,229,533,256"/>
+<area shape="rect" id="node8" href="$plugins_2cgal_2properties_8h.html" title="properties.h" alt="" coords="435,304,535,331"/>
+<area shape="rect" id="node14" href="$plugins_2cgal_2property_8h.html" title="property.h" alt="" coords="602,379,689,405"/>
+<area shape="rect" id="node18" href="$property__item_8inl.html" title="property_item.inl" alt="" coords="222,304,357,331"/>
+<area shape="rect" id="node16" href="$property__item_8h.html" title="property_item.h" alt="" coords="277,453,403,480"/>
+<area shape="rect" id="node17" href="$property__key_8h.html" title="property_key.h" alt="" coords="427,453,546,480"/>
 </map>

@@ -5,9 +5,6 @@ var dir_7b324b578900626a6605486b3bab59bb =
     [ "ui", "dir_61e51c4a980f09968f13335e93b86855.html", "dir_61e51c4a980f09968f13335e93b86855" ],
     [ "default_shaders.cpp", "default__shaders_8cpp.html", "default__shaders_8cpp" ],
     [ "default_shaders.h", "default__shaders_8h.html", "default__shaders_8h" ],
-    [ "setup.h", "setup_8h.html", [
-      [ "GLSetup", "classpossumwood_1_1GLSetup.html", "classpossumwood_1_1GLSetup" ]
-    ] ],
     [ "uniforms.cpp", "uniforms_8cpp.html", "uniforms_8cpp" ],
     [ "uniforms.h", "uniforms_8h.html", "uniforms_8h" ]
 ];

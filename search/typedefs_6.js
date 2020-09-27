@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['halfedge',['Halfedge',['../structpossumwood_1_1CGALPolyhedronItems_1_1Halfedge__wrapper.html#a6c0a37007d596e322c9ca79a082114f1',1,'possumwood::CGALPolyhedronItems::Halfedge_wrapper']]]
+  ['halfedge',['Halfedge',['../structpossumwood_1_1CGALItems_1_1Halfedge__wrapper.html#afb481782589ba5c2bf17dbd84f6a5660',1,'possumwood::CGALItems::Halfedge_wrapper']]]
 ];

@@ -7,13 +7,9 @@ var searchData=
   ['cameraresponse',['CameraResponse',['../classpossumwood_1_1opencv_1_1CameraResponse.html',1,'possumwood::opencv']]],
   ['center',['Center',['../structlightfields_1_1SlicSuperpixels_1_1Center.html',1,'lightfields::SlicSuperpixels']]],
   ['cgalbuilder',['CGALBuilder',['../classpossumwood_1_1CGALBuilder.html',1,'possumwood']]],
-  ['cgalconversion',['CGALConversion',['../structpossumwood_1_1CGALConversion.html',1,'possumwood']]],
-  ['cgalconversion_3c_20cgal_3a_3apoint_5f3_3c_20dest_5fkern_20_3e_20_3e',['CGALConversion&lt; CGAL::Point_3&lt; DEST_KERN &gt; &gt;',['../structpossumwood_1_1CGALConversion_3_01CGAL_1_1Point__3_3_01DEST__KERN_01_4_01_4.html',1,'possumwood']]],
-  ['cgalconversion_3c_20float_20_3e',['CGALConversion&lt; float &gt;',['../structpossumwood_1_1CGALConversion_3_01float_01_4.html',1,'possumwood']]],
   ['cgalface',['CGALFace',['../structpossumwood_1_1CGALFace.html',1,'possumwood']]],
   ['cgalhalfedge',['CGALHalfedge',['../structpossumwood_1_1CGALHalfedge.html',1,'possumwood']]],
-  ['cgalnefpolyhedron',['CGALNefPolyhedron',['../classpossumwood_1_1CGALNefPolyhedron.html',1,'possumwood']]],
-  ['cgalpolyhedronitems',['CGALPolyhedronItems',['../structpossumwood_1_1CGALPolyhedronItems.html',1,'possumwood']]],
+  ['cgalitems',['CGALItems',['../structpossumwood_1_1CGALItems.html',1,'possumwood']]],
   ['cgalvertex',['CGALVertex',['../classpossumwood_1_1CGALVertex.html',1,'possumwood']]],
   ['channel',['Channel',['../classanim_1_1constraints_1_1Channel.html',1,'anim::constraints']]],
   ['children',['Children',['../classanim_1_1Children.html',1,'anim']]],
@@ -31,6 +27,5 @@ var searchData=
   ['const_5fiterator',['const_iterator',['../classanim_1_1SubsetSelection_1_1const__iterator.html',1,'anim::SubsetSelection']]],
   ['constraint',['Constraint',['../classanim_1_1constraints_1_1Constraint.html',1,'anim::constraints']]],
   ['constraints',['Constraints',['../classanim_1_1Constraints.html',1,'anim']]],
-  ['context',['Context',['../classpossumwood_1_1lua_1_1Context.html',1,'possumwood::lua']]],
-  ['convertpolyhedron',['ConvertPolyhedron',['../classpossumwood_1_1ConvertPolyhedron.html',1,'possumwood']]]
+  ['context',['Context',['../classpossumwood_1_1lua_1_1Context.html',1,'possumwood::lua']]]
 ];

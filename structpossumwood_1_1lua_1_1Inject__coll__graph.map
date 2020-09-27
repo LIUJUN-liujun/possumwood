@@ -1,4 +1,4 @@
-<map id="possumwood::lua::Inject&lt; T, HOLDER, MODULE, FLAGS &gt;" name="possumwood::lua::Inject&lt; T, HOLDER, MODULE, FLAGS &gt;">
+<map id="possumwood::lua::Inject&lt; T, HOLDER, MODULE &gt;" name="possumwood::lua::Inject&lt; T, HOLDER, MODULE &gt;">
 <area shape="rect" id="node2" href="$classdependency__graph_1_1InAttr.html" title="dependency_graph::InAttr\l\&lt; std::string \&gt;" alt="" coords="525,5,714,47"/>
 <area shape="rect" id="node3" href="$classdependency__graph_1_1TypedAttr.html" title="dependency_graph::TypedAttr\l\&lt; std::string \&gt;" alt="" coords="237,5,452,47"/>
 <area shape="rect" id="node4" href="$classdependency__graph_1_1Attr.html" title="dependency_graph::Attr" alt="" coords="5,46,183,73"/>
