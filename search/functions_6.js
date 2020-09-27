@@ -38,6 +38,7 @@ var searchData=
   ['gldebug',['GlDebug',['../classGlDebug.html#ad649fce06f2231af03017fe66a9fa8e6',1,'GlDebug']]],
   ['globals',['globals',['../classpossumwood_1_1lua_1_1State.html#a279d949a43f1764d26d415d45429df53',1,'possumwood::lua::State']]],
   ['glrenderable',['GLRenderable',['../classpossumwood_1_1GLRenderable.html#a0662eb6f4232fb920ab7e694f0eb8a12',1,'possumwood::GLRenderable']]],
+  ['glsetup',['GLSetup',['../classpossumwood_1_1GLSetup.html#a0e9d5ad79ca18c6c51ac9c37da9052e8',1,'possumwood::GLSetup']]],
   ['glsldeclaration',['glslDeclaration',['../classpossumwood_1_1Uniforms.html#ab0d6f392d0cdec52fdd9fc69cf45d73c',1,'possumwood::Uniforms::glslDeclaration()'],['../classpossumwood_1_1VertexData.html#ae9b68eff57a1d161452fbdaec39de163',1,'possumwood::VertexData::glslDeclaration()']]],
   ['glyph',['glyph',['../classpossumwood_1_1Font.html#a584f131e28ece2e6a2bf09712ded6eac',1,'possumwood::Font']]],
   ['goback',['goBack',['../classPathWidget.html#aeea7ad7f79ea2d754a2061ee602fad45',1,'PathWidget']]],

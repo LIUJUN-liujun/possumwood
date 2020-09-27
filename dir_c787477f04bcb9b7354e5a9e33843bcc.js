@@ -11,10 +11,13 @@ var dir_c787477f04bcb9b7354e5a9e33843bcc =
     [ "cgal.h", "cgal_8h.html", "cgal_8h" ],
     [ "mesh.cpp", "mesh_8cpp.html", null ],
     [ "mesh.h", "mesh_8h.html", [
-      [ "Mesh", "classpossumwood_1_1Mesh.html", "classpossumwood_1_1Mesh" ]
+      [ "Mesh", "classpossumwood_1_1Mesh.html", "classpossumwood_1_1Mesh" ],
+      [ "MeshData", "classpossumwood_1_1Mesh_1_1MeshData.html", "classpossumwood_1_1Mesh_1_1MeshData" ]
     ] ],
     [ "meshes.cpp", "meshes_8cpp.html", "meshes_8cpp" ],
     [ "meshes.h", "meshes_8h.html", "meshes_8h" ],
+    [ "obj.cpp", "obj_8cpp.html", "obj_8cpp" ],
+    [ "obj.h", "obj_8h.html", "obj_8h" ],
     [ "properties.cpp", "plugins_2cgal_2properties_8cpp.html", null ],
     [ "properties.h", "plugins_2cgal_2properties_8h.html", [
       [ "Property", "classpossumwood_1_1Property.html", "classpossumwood_1_1Property" ],

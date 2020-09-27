@@ -27,6 +27,7 @@ var searchData=
   ['traits_3c_20font_20_3e',['Traits&lt; Font &gt;',['../structpossumwood_1_1Traits_3_01Font_01_4.html',1,'possumwood']]],
   ['traits_3c_20fragmentshader_20_3e',['Traits&lt; FragmentShader &gt;',['../structpossumwood_1_1Traits_3_01FragmentShader_01_4.html',1,'possumwood']]],
   ['traits_3c_20geometryshader_20_3e',['Traits&lt; GeometryShader &gt;',['../structpossumwood_1_1Traits_3_01GeometryShader_01_4.html',1,'possumwood']]],
+  ['traits_3c_20glsetup_20_3e',['Traits&lt; GLSetup &gt;',['../structpossumwood_1_1Traits_3_01GLSetup_01_4.html',1,'possumwood']]],
   ['traits_3c_20imath_3a_3avec2_3c_20float_20_3e_20_3e',['Traits&lt; Imath::Vec2&lt; float &gt; &gt;',['../structpossumwood_1_1Traits_3_01Imath_1_1Vec2_3_01float_01_4_01_4.html',1,'possumwood']]],
   ['traits_3c_20imath_3a_3avec2_3c_20int_20_3e_20_3e',['Traits&lt; Imath::Vec2&lt; int &gt; &gt;',['../structpossumwood_1_1Traits_3_01Imath_1_1Vec2_3_01int_01_4_01_4.html',1,'possumwood']]],
   ['traits_3c_20imath_3a_3avec2_3c_20unsigned_20_3e_20_3e',['Traits&lt; Imath::Vec2&lt; unsigned &gt; &gt;',['../structpossumwood_1_1Traits_3_01Imath_1_1Vec2_3_01unsigned_01_4_01_4.html',1,'possumwood']]],

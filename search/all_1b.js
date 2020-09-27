@@ -69,6 +69,7 @@ var searchData=
   ['_7esamples',['~Samples',['../classlightfields_1_1Samples.html#a00e4f4cb7e6c22be86f3a7d5613d4a7b',1,'lightfields::Samples']]],
   ['_7esaveableregistration',['~SaveableRegistration',['../structdependency__graph_1_1io_1_1SaveableRegistration.html#a9a5e494f101fd5a364bc208b65a8b425',1,'dependency_graph::io::SaveableRegistration::~SaveableRegistration()'],['../structdependency__graph_1_1io_1_1SaveableRegistration.html#a9a5e494f101fd5a364bc208b65a8b425',1,'dependency_graph::io::SaveableRegistration::~SaveableRegistration()']]],
   ['_7escopedenable',['~ScopedEnable',['../classpossumwood_1_1ScopedEnable.html#aac42a2577d27c5d4a614b70a555038f7',1,'possumwood::ScopedEnable']]],
+  ['_7escopedglsetup',['~ScopedGLSetup',['../classpossumwood_1_1GLSetup_1_1ScopedGLSetup.html#a02e7b6f2a8bd0b8e4423f45aeec4160f',1,'possumwood::GLSetup::ScopedGLSetup']]],
   ['_7eshader',['~Shader',['../classpossumwood_1_1Shader.html#aca4d5d43f8252ae5e47878bd1c52c9a3',1,'possumwood::Shader']]],
   ['_7eskeleton',['~Skeleton',['../classSkeleton.html#aeece886a4e2f039128144f94f25efd10',1,'Skeleton']]],
   ['_7esourceeditor',['~SourceEditor',['../classpossumwood_1_1SourceEditor.html#ab2eb254a596e940ec3fe408456d82f69',1,'possumwood::SourceEditor']]],

@@ -57,6 +57,7 @@ var searchData=
   ['gldebug',['GlDebug',['../classGlDebug.html',1,'GlDebug'],['../classGlDebug.html#ad649fce06f2231af03017fe66a9fa8e6',1,'GlDebug::GlDebug()']]],
   ['globals',['globals',['../classpossumwood_1_1lua_1_1State.html#a279d949a43f1764d26d415d45429df53',1,'possumwood::lua::State']]],
   ['glrenderable',['GLRenderable',['../classpossumwood_1_1GLRenderable.html',1,'possumwood::GLRenderable'],['../classpossumwood_1_1GLRenderable_1_1VBO.html#af4a6efe40d212de40e0acf60ba0fa81c',1,'possumwood::GLRenderable::VBO::GLRenderable()'],['../classpossumwood_1_1GLRenderable.html#a0662eb6f4232fb920ab7e694f0eb8a12',1,'possumwood::GLRenderable::GLRenderable()']]],
+  ['glsetup',['GLSetup',['../classpossumwood_1_1GLSetup.html',1,'possumwood::GLSetup'],['../classpossumwood_1_1GLSetup_1_1ScopedGLSetup.html#a13772dfce961611e6863bfd02d0ba5d4',1,'possumwood::GLSetup::ScopedGLSetup::GLSetup()'],['../classpossumwood_1_1GLSetup.html#a0e9d5ad79ca18c6c51ac9c37da9052e8',1,'possumwood::GLSetup::GLSetup()']]],
   ['glsl_5ftraits_2eh',['glsl_traits.h',['../glsl__traits_8h.html',1,'']]],
   ['glsldeclaration',['glslDeclaration',['../classpossumwood_1_1Uniforms.html#ab0d6f392d0cdec52fdd9fc69cf45d73c',1,'possumwood::Uniforms::glslDeclaration()'],['../classpossumwood_1_1VertexData.html#ae9b68eff57a1d161452fbdaec39de163',1,'possumwood::VertexData::glslDeclaration()']]],
   ['glsltraits',['GLSLTraits',['../structpossumwood_1_1GLSLTraits.html',1,'possumwood']]],
