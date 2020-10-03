@@ -53,7 +53,6 @@ var searchData=
   ['load',['load',['../classpossumwood_1_1Font.html#a969ef1857d02d4a7d1482621307dc3b6',1,'possumwood::Font::load()'],['../namespacepossumwood_1_1opencv.html#a523aa596c773ab2f1ae3d876fdb62950',1,'possumwood::opencv::load()']]],
   ['loader_2ecpp',['loader.cpp',['../loader_8cpp.html',1,'']]],
   ['loadfile',['loadFile',['../classMainWindow.html#a5b465ad4bfb6726b130c4bc2d93be83e',1,'MainWindow::loadFile()'],['../classpossumwood_1_1App.html#a9b4c69bcc89fe66473edfb3663d3679e',1,'possumwood::App::loadFile(const Filepath &amp;fn, bool alterCurrentFilename=true)'],['../classpossumwood_1_1App.html#a98000471b954e27deae9d14a51f4ddfb',1,'possumwood::App::loadFile(const possumwood::io::json &amp;json)']]],
-  ['loadobj',['loadObj',['../namespacepossumwood.html#a88acac39f61d459703af52cab0439bcb',1,'possumwood']]],
   ['loadscene',['loadScene',['../apps_2possumwood__cli_2main_8cpp.html#aa09934fca2d602843d8935091652cac4',1,'main.cpp']]],
   ['loc',['loc',['../classpossumwood_1_1io_1_1basic__json_1_1serializer.html#a9658cc48ec5787055cc653716d5af098',1,'possumwood::io::basic_json::serializer']]],
   ['localangle',['LocalAngle',['../classanim_1_1metric_1_1LocalAngle.html',1,'anim::metric']]],

@@ -4,7 +4,6 @@ var searchData=
   ['edge_2ecpp',['edge.cpp',['../edge_8cpp.html',1,'']]],
   ['edge_2eh',['edge.h',['../edge_8h.html',1,'']]],
   ['edgecount',['edgeCount',['../classnode__editor_1_1GraphScene.html#acc60c5d7aba16c41b9e27f9a8ab24b87',1,'node_editor::GraphScene']]],
-  ['edit',['edit',['../classpossumwood_1_1Mesh.html#a4213168c543b79cbdaaca336bd2817ee',1,'possumwood::Mesh']]],
   ['edit_2ecpp',['edit.cpp',['../edit_8cpp.html',1,'']]],
   ['editor',['Editor',['../classpossumwood_1_1Editor.html',1,'possumwood::Editor'],['../classpossumwood_1_1Editor.html#afd62f15eded4b9ce229967bdbf3118de',1,'possumwood::Editor::Editor()']]],
   ['editor_2ecpp',['editor.cpp',['../editor_8cpp.html',1,'']]],

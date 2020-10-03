@@ -8,7 +8,7 @@ var searchData=
   ['neighbours_5f4',['Neighbours_4',['../structlightfields_1_1Neighbours__4.html#a2bb7e3f78cf13a51046088081cce6040',1,'lightfields::Neighbours_4']]],
   ['neighbours_5f8',['Neighbours_8',['../structlightfields_1_1Neighbours__8.html#ae9071758d072c5e46cb320e7ec129c9a',1,'lightfields::Neighbours_8']]],
   ['neighbours_5f8_5fweighted',['Neighbours_8_Weighted',['../structlightfields_1_1Neighbours__8__Weighted.html#a73a48786f476c1257565dbb917b4b8d6',1,'lightfields::Neighbours_8_Weighted']]],
-  ['network',['Network',['../classdependency__graph_1_1Network.html#a57ce239fea0485d4ab6df15bbd1369e0',1,'dependency_graph::Network::Network()'],['../classdependency__graph_1_1NodeBase.html#a8ce4452aa62a5e849d5e0fe9cb5493b9',1,'dependency_graph::NodeBase::network() const'],['../classdependency__graph_1_1NodeBase.html#a408c0ddcbfca20502133cfdf630caf0e',1,'dependency_graph::NodeBase::network()']]],
+  ['network',['network',['../classdependency__graph_1_1NodeBase.html#a8ce4452aa62a5e849d5e0fe9cb5493b9',1,'dependency_graph::NodeBase::network() const'],['../classdependency__graph_1_1NodeBase.html#a408c0ddcbfca20502133cfdf630caf0e',1,'dependency_graph::NodeBase::network()'],['../classdependency__graph_1_1Network.html#a57ce239fea0485d4ab6df15bbd1369e0',1,'dependency_graph::Network::Network()']]],
   ['newfile',['newFile',['../classpossumwood_1_1App.html#a98e850c0f25c6db0e38b17746508c77a',1,'possumwood::App']]],
   ['next',['next',['../classanim_1_1Tokenizer.html#ad1fa3cf1e1c2e625693ca79504f7f59c',1,'anim::Tokenizer']]],
   ['nlinks',['NLinks',['../classlightfields_1_1NLinks.html#a90b715ed4fe77a933c70d1cc6a8f0107',1,'lightfields::NLinks']]],
