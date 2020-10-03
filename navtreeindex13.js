@@ -1,5 +1,6 @@
 var NAVTREEINDEX13 =
 {
+"classpossumwood_1_1opencv_1_1Exif.html#a18f98b0cbf753fb58d4595237578f4cf":[2,0,5,6,6,5],
 "classpossumwood_1_1opencv_1_1Exif.html#a3ae5d15ed33fafc9e0623bfc7690c7da":[2,0,5,6,6,0],
 "classpossumwood_1_1opencv_1_1Exif.html#a59ee8dff03e37d3cd5fdc5a609a9a537":[2,0,5,6,6,7],
 "classpossumwood_1_1opencv_1_1Exif.html#a83a86d39bb257aeaa19fd284055b24d4":[2,0,5,6,6,8],
@@ -248,6 +249,5 @@ var NAVTREEINDEX13 =
 "dependency__graph_2connections_8cpp.html":[3,0,0,1,1,5],
 "dependency__graph_2connections_8h.html":[3,0,0,1,1,6],
 "dependency__graph_2connections_8h_source.html":[3,0,0,1,1,6],
-"dependency__graph_2graph_8cpp.html":[3,0,0,1,1,15],
-"dependency__graph_2graph_8h.html":[3,0,0,1,1,16]
+"dependency__graph_2graph_8cpp.html":[3,0,0,1,1,15]
 };

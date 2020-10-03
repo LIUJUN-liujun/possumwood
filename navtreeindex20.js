@@ -1,5 +1,6 @@
 var NAVTREEINDEX20 =
 {
+"structpossumwood_1_1Traits_3_1_1lightfields_1_1Pattern_01_4.html":[2,0,5,115],
 "structpossumwood_1_1Traits_3_1_1lightfields_1_1Pattern_01_4.html#a7d533abdc81bac4d0706e51a139ae500":[2,0,5,115,0],
 "structpossumwood_1_1UndoStack_1_1Action_1_1Data.html":[2,0,5,116,0,0],
 "structpossumwood_1_1UndoStack_1_1Action_1_1Data.html#a1347e29865499ec0d193e0cfdd3311d5":[2,0,5,116,0,0,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX20 =
 "tests_2possumwood_2common_8cpp.html#a335d2beabf999719cd9e844d92959855":[3,0,0,3,2,2,0],
 "tests_2possumwood_2common_8cpp.html#a60d5e2080b1ca86ffb931e6e896e87c0":[3,0,0,3,2,2,3],
 "tests_2possumwood_2common_8cpp.html#ae53c796bba5c409b124c09479d1c06cf":[3,0,0,3,2,2,1],
-"tests_2possumwood_2common_8h.html":[3,0,0,3,2,3],
-"tests_2possumwood_2common_8h.html#a1942cb2504c4fcb018ba00fa55773bf1":[3,0,0,3,2,3,2]
+"tests_2possumwood_2common_8h.html":[3,0,0,3,2,3]
 };

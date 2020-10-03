@@ -1,5 +1,6 @@
 var NAVTREEINDEX19 =
 {
+"structlightfields_1_1SlicSuperpixels_1_1Center.html#aabc1e287d40c403a467e42315a6d742b":[2,0,2,26,0,5],
 "structlightfields_1_1SlicSuperpixels_1_1Center.html#aac4f51656b6be44e9ba7a05489feb6e1":[2,0,2,26,0,3],
 "structlightfields_1_1SlicSuperpixels_1_1Center.html#ac5caeaec3d12afa0c4fdd56a10f52b05":[2,0,2,26,0,6],
 "structlightfields_1_1SlicSuperpixels_1_1Center.html#adcc2d2cc953d8613ebb93a96a416da48":[2,0,2,26,0,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX19 =
 "structpossumwood_1_1Traits_3_01std_1_1vector_3_01cv_1_1Rect_01_4_01_4.html":[2,0,5,109],
 "structpossumwood_1_1Traits_3_01std_1_1vector_3_01cv_1_1Rect_01_4_01_4.html#a1e9d6d5877a1c3180baffaf3ffdbe49e":[2,0,5,109,0],
 "structpossumwood_1_1Traits_3_01void_01_4.html":[2,0,5,114],
-"structpossumwood_1_1Traits_3_01void_01_4.html#af8c72939773e490a195a88b5adaf4b9b":[2,0,5,114,0],
-"structpossumwood_1_1Traits_3_1_1lightfields_1_1Pattern_01_4.html":[2,0,5,115]
+"structpossumwood_1_1Traits_3_01void_01_4.html#af8c72939773e490a195a88b5adaf4b9b":[2,0,5,114,0]
 };

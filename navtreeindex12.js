@@ -1,5 +1,6 @@
 var NAVTREEINDEX12 =
 {
+"classpossumwood_1_1io_1_1basic__json_1_1lexer.html#ad2a635e6c34b19e27bb77a60399b3f0b":[2,0,5,3,2,11,17],
 "classpossumwood_1_1io_1_1basic__json_1_1lexer.html#ad6624f2c2f900d66bf40d2d6e2d5e1f4":[2,0,5,3,2,11,9],
 "classpossumwood_1_1io_1_1basic__json_1_1lexer.html#adb75b63c5a3503b924282391a2af5068":[2,0,5,3,2,11,6],
 "classpossumwood_1_1io_1_1basic__json_1_1lexer.html#ae9991063f9d49de596c21d074d85bac1":[2,0,5,3,2,11,25],
@@ -248,6 +249,5 @@ var NAVTREEINDEX12 =
 "classpossumwood_1_1opencv_1_1CameraResponse.html#ad62a74f1da1070a83852a6bbd5b8e189":[2,0,5,6,5,5],
 "classpossumwood_1_1opencv_1_1Exif.html":[2,0,5,6,6],
 "classpossumwood_1_1opencv_1_1Exif.html#a0d72641d1261154c2e8e9f55db27304a":[2,0,5,6,6,10],
-"classpossumwood_1_1opencv_1_1Exif.html#a10de4ff1d24263c16bbcc72246148d22":[2,0,5,6,6,3],
-"classpossumwood_1_1opencv_1_1Exif.html#a18f98b0cbf753fb58d4595237578f4cf":[2,0,5,6,6,5]
+"classpossumwood_1_1opencv_1_1Exif.html#a10de4ff1d24263c16bbcc72246148d22":[2,0,5,6,6,3]
 };
