@@ -1,7 +1,7 @@
 var searchData=
 [
   ['opencvmatwrapper',['OpencvMatWrapper',['../classpossumwood_1_1images_1_1OpencvMatWrapper.html',1,'possumwood::images']]],
-  ['options',['Options',['../classanim_1_1SubsetSelection_1_1Options.html',1,'anim::SubsetSelection::Options'],['../classOptions.html',1,'Options']]],
+  ['options',['Options',['../classOptions.html',1,'Options'],['../classanim_1_1SubsetSelection_1_1Options.html',1,'anim::SubsetSelection::Options']]],
   ['other_5ferror',['other_error',['../classpossumwood_1_1io_1_1detail_1_1other__error.html',1,'possumwood::io::detail']]],
   ['out_5fof_5frange',['out_of_range',['../classpossumwood_1_1io_1_1detail_1_1out__of__range.html',1,'possumwood::io::detail']]],
   ['outattr',['OutAttr',['../classdependency__graph_1_1OutAttr.html',1,'dependency_graph']]],

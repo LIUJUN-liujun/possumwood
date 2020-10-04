@@ -1,3 +1,8 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$structpossumwood_1_1io_1_1detail_1_1external__constructor_3_01value__t_1_1number__float_01_4.html" title="possumwood::io::detail\l::external_constructor\l\&lt; value_t::number_float \&gt;" alt="" coords="5,5,200,61"/>
+<area shape="rect" id="node2" href="$classpossumwood_1_1io_1_1detail_1_1exception.html" title="general exception of the basic_json class " alt="" coords="140,136,313,177"/>
+<area shape="rect" id="node3" href="$classpossumwood_1_1io_1_1detail_1_1invalid__iterator.html" title="exception indicating errors with iterators " alt="" coords="361,5,535,47"/>
+<area shape="rect" id="node4" href="$classpossumwood_1_1io_1_1detail_1_1other__error.html" title="exception indicating other errors " alt="" coords="361,71,535,112"/>
+<area shape="rect" id="node5" href="$classpossumwood_1_1io_1_1detail_1_1out__of__range.html" title="exception indicating access out of the defined range " alt="" coords="361,136,535,177"/>
+<area shape="rect" id="node6" href="$classpossumwood_1_1io_1_1detail_1_1parse__error.html" title="exception indicating a parse error " alt="" coords="361,201,535,243"/>
+<area shape="rect" id="node7" href="$classpossumwood_1_1io_1_1detail_1_1type__error.html" title="exception indicating executing a member function with a wrong type " alt="" coords="361,267,535,308"/>
 </map>

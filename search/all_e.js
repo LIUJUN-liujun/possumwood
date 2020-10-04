@@ -11,6 +11,8 @@ var searchData=
   ['nearest_5fintegration_2ecpp',['nearest_integration.cpp',['../nearest__integration_8cpp.html',1,'']]],
   ['nearest_5fintegration_2eh',['nearest_integration.h',['../nearest__integration_8h.html',1,'']]],
   ['needsupdate',['needsUpdate',['../structpossumwood_1_1GLRenderable_1_1VBOData.html#ad04b5ad1cd41fdda09fcfe122afbefb1',1,'possumwood::GLRenderable::VBOData']]],
+  ['nef_5fto_5fpoly_2ecpp',['nef_to_poly.cpp',['../nef__to__poly_8cpp.html',1,'']]],
+  ['nefkernel',['NefKernel',['../namespacepossumwood.html#aacf5fcdf425d1d710c9a7b992c19bb42',1,'possumwood']]],
   ['negation',['negation',['../structpossumwood_1_1io_1_1detail_1_1negation.html',1,'possumwood::io::detail']]],
   ['neighbourcount',['neighbourCount',['../lenslet__graph_8cpp.html#aeb2c8eff63d2b3442d88fe7d1141e95b',1,'lenslet_graph.cpp']]],
   ['neighbours',['Neighbours',['../classlightfields_1_1Neighbours.html',1,'lightfields::Neighbours'],['../classlightfields_1_1Neighbours.html#a9bbb382cfa180ef962f42f90d7a3f43a',1,'lightfields::Neighbours::Neighbours()'],['../lenslet__graph_8cpp.html#a5e01c7feb7c8edd21472dc7d5d24dd24',1,'neighbours():&#160;lenslet_graph.cpp']]],
