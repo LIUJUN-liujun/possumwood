@@ -4,9 +4,10 @@
 <area shape="rect" id="node4" href="$loader_8cpp.html" title="src/plugins/cgal/nodes\l/loader.cpp" alt="" coords="392,95,559,136"/>
 <area shape="rect" id="node5" href="$cgal_2nodes_2lua_2extract_8cpp.html" title="src/plugins/cgal/nodes\l/lua/extract.cpp" alt="" coords="583,95,749,136"/>
 <area shape="rect" id="node6" href="$normals__generator_8cpp.html" title="src/plugins/cgal/nodes\l/normals_generator.cpp" alt="" coords="773,95,948,136"/>
-<area shape="rect" id="node7" href="$simplification_8cpp.html" title="src/plugins/cgal/nodes\l/simplification/simplification.cpp" alt="" coords="972,95,1205,136"/>
-<area shape="rect" id="node8" href="$tetrahedron_8cpp.html" title="src/plugins/cgal/nodes\l/tetrahedron.cpp" alt="" coords="1229,95,1396,136"/>
-<area shape="rect" id="node9" href="$stitch__borders_8cpp.html" title="src/plugins/cgal/nodes\l/topology/stitch_borders.cpp" alt="" coords="1420,95,1627,136"/>
-<area shape="rect" id="node10" href="$plugins_2cgal_2nodes_2transform_8cpp.html" title="src/plugins/cgal/nodes\l/transform.cpp" alt="" coords="1651,95,1817,136"/>
-<area shape="rect" id="node11" href="$render_2nodes_2vertex__data_2cgal_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/cgal.cpp" alt="" coords="1842,95,2047,136"/>
+<area shape="rect" id="node7" href="$remove__property_8cpp.html" title="src/plugins/cgal/nodes\l/remove_property.cpp" alt="" coords="972,95,1139,136"/>
+<area shape="rect" id="node8" href="$simplification_8cpp.html" title="src/plugins/cgal/nodes\l/simplification/simplification.cpp" alt="" coords="1163,95,1396,136"/>
+<area shape="rect" id="node9" href="$tetrahedron_8cpp.html" title="src/plugins/cgal/nodes\l/tetrahedron.cpp" alt="" coords="1420,95,1587,136"/>
+<area shape="rect" id="node10" href="$stitch__borders_8cpp.html" title="src/plugins/cgal/nodes\l/topology/stitch_borders.cpp" alt="" coords="1611,95,1817,136"/>
+<area shape="rect" id="node11" href="$plugins_2cgal_2nodes_2transform_8cpp.html" title="src/plugins/cgal/nodes\l/transform.cpp" alt="" coords="1841,95,2008,136"/>
+<area shape="rect" id="node12" href="$render_2nodes_2vertex__data_2cgal_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/cgal.cpp" alt="" coords="2033,95,2238,136"/>
 </map>

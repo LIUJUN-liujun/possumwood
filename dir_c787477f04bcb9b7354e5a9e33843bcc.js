@@ -9,12 +9,19 @@ var dir_c787477f04bcb9b7354e5a9e33843bcc =
     ] ],
     [ "cgal.cpp", "cgal_2cgal_8cpp.html", null ],
     [ "cgal.h", "cgal_8h.html", "cgal_8h" ],
+    [ "errors.cpp", "errors_8cpp.html", null ],
+    [ "errors.h", "errors_8h.html", [
+      [ "ScopedOutputRedirect", "classpossumwood_1_1ScopedOutputRedirect.html", "classpossumwood_1_1ScopedOutputRedirect" ]
+    ] ],
     [ "mesh.cpp", "mesh_8cpp.html", null ],
     [ "mesh.h", "mesh_8h.html", [
-      [ "Mesh", "classpossumwood_1_1Mesh.html", "classpossumwood_1_1Mesh" ]
+      [ "Mesh", "classpossumwood_1_1Mesh.html", "classpossumwood_1_1Mesh" ],
+      [ "MeshData", "classpossumwood_1_1Mesh_1_1MeshData.html", "classpossumwood_1_1Mesh_1_1MeshData" ]
     ] ],
     [ "meshes.cpp", "meshes_8cpp.html", "meshes_8cpp" ],
     [ "meshes.h", "meshes_8h.html", "meshes_8h" ],
+    [ "obj.cpp", "obj_8cpp.html", "obj_8cpp" ],
+    [ "obj.h", "obj_8h.html", "obj_8h" ],
     [ "properties.cpp", "plugins_2cgal_2properties_8cpp.html", null ],
     [ "properties.h", "plugins_2cgal_2properties_8h.html", [
       [ "Property", "classpossumwood_1_1Property.html", "classpossumwood_1_1Property" ],
@@ -26,13 +33,6 @@ var dir_c787477f04bcb9b7354e5a9e33843bcc =
       [ "Property", "classpossumwood_1_1Property.html", "classpossumwood_1_1Property" ]
     ] ],
     [ "property.inl", "property_8inl.html", null ],
-    [ "property_item.cpp", "property__item_8cpp.html", null ],
-    [ "property_item.h", "property__item_8h.html", [
-      [ "PropertyItem", "classpossumwood_1_1PropertyItem.html", "classpossumwood_1_1PropertyItem" ],
-      [ "ValueBase", "classpossumwood_1_1PropertyItem_1_1ValueBase.html", "classpossumwood_1_1PropertyItem_1_1ValueBase" ],
-      [ "Value", "classpossumwood_1_1PropertyItem_1_1Value.html", "classpossumwood_1_1PropertyItem_1_1Value" ]
-    ] ],
-    [ "property_item.inl", "property__item_8inl.html", null ],
     [ "property_key.cpp", "property__key_8cpp.html", null ],
     [ "property_key.h", "property__key_8h.html", [
       [ "PropertyKey", "classpossumwood_1_1PropertyKey.html", "classpossumwood_1_1PropertyKey" ]

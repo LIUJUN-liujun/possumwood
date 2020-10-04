@@ -1,12 +1,11 @@
 var searchData=
 [
   ['main',['main',['../apps_2node__editor__sandbox_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97',1,'main(int argc, char *argv[]):&#160;main.cpp'],['../apps_2possumwood_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97',1,'main(int argc, char *argv[]):&#160;main.cpp'],['../apps_2possumwood__cli_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97',1,'main(int argc, char *argv[]):&#160;main.cpp']]],
-  ['mainwindow',['mainWindow',['../classpossumwood_1_1App.html#a717dbab453a954a56c67800cd3034d2e',1,'possumwood::App::mainWindow()'],['../classMainWindow.html#a34c4b4207b46d11a4100c9b19f0e81bb',1,'MainWindow::MainWindow()']]],
+  ['mainwindow',['MainWindow',['../classMainWindow.html#a34c4b4207b46d11a4100c9b19f0e81bb',1,'MainWindow::MainWindow()'],['../classpossumwood_1_1App.html#a717dbab453a954a56c67800cd3034d2e',1,'possumwood::App::mainWindow()']]],
   ['makeconsistentwith',['makeConsistentWith',['../classanim_1_1Skeleton.html#a6f289aa10a5810dc6f7d9f048fbaffc5',1,'anim::Skeleton']]],
   ['makefilepath',['makeFilepath',['../classpossumwood_1_1IFilesystem.html#a8034f57115892ba4f9d605c85aed9e3c',1,'possumwood::IFilesystem']]],
   ['makepath',['makePath',['../classnode__editor_1_1Edge.html#af57c275349db0988ab3d0ed93668dac0',1,'node_editor::Edge']]],
   ['makerowoffsets',['makeRowOffsets',['../classlightfields_1_1Samples.html#a413b200b9c8ebe74c19340456c385d99',1,'lightfields::Samples']]],
-  ['makevalue',['makeValue',['../classpossumwood_1_1PropertyBase.html#a0d2b93758d802915bca5ca6548a8a9b2',1,'possumwood::PropertyBase::makeValue()'],['../classpossumwood_1_1Property.html#ac28b7e141ab4bdf9c919da7cc0ecddfd',1,'possumwood::Property::makeValue()']]],
   ['maptoscene',['mapToScene',['../classAdaptor.html#a101bc3474a7eba9ff8bda8ba250f9d87',1,'Adaptor']]],
   ['margin',['margin',['../classnode__editor_1_1Port.html#a3d095132f57c5f9fceed86a096d6637e',1,'node_editor::Port']]],
   ['markasdirty',['markAsDirty',['../classdependency__graph_1_1NodeBase.html#a6817f9e9aef7af50049c9b947ea1c08d',1,'dependency_graph::NodeBase']]],
@@ -16,6 +15,7 @@ var searchData=
   ['max_5fsize',['max_size',['../classpossumwood_1_1io_1_1basic__json.html#a5403b383a5feda3865b624b9ea49e197',1,'possumwood::io::basic_json']]],
   ['merge',['merge',['../classpossumwood_1_1opencv_1_1Sequence_1_1Item_1_1Meta.html#a1b3cb08fb09290b244258aa11920b198',1,'possumwood::opencv::Sequence::Item::Meta']]],
   ['mesh',['Mesh',['../classpossumwood_1_1Mesh.html#a27f13d673d86dc07495e26ab19f1c491',1,'possumwood::Mesh']]],
+  ['meshdata',['MeshData',['../classpossumwood_1_1Mesh_1_1MeshData.html#a156cbcff531bf619ed133c01ee8159d5',1,'possumwood::Mesh::MeshData::MeshData()=default'],['../classpossumwood_1_1Mesh_1_1MeshData.html#ae807623faa3af67da22522aac4866e58',1,'possumwood::Mesh::MeshData::MeshData(const MeshData &amp;)=default']]],
   ['meshesui',['MeshesUI',['../classMeshesUI.html#afca18a27764c1f211e185b81cdd02fa4',1,'MeshesUI']]],
   ['meshsubseteditor',['MeshSubsetEditor',['../classMeshSubsetEditor.html#a7a1a1007bfb50666b90f5dcf79edc1b4',1,'MeshSubsetEditor']]],
   ['meta',['meta',['../classpossumwood_1_1io_1_1basic__json.html#aaa699002e917bd2bb70c87d84f132559',1,'possumwood::io::basic_json::meta()'],['../classdependency__graph_1_1Datablock.html#a4b6b6fa4ba6de23cd7646edfcf52c36e',1,'dependency_graph::Datablock::meta()'],['../classlightfields_1_1Raw.html#aefe948fd13973d22fc353aeb986167c2',1,'lightfields::Raw::meta()'],['../classpossumwood_1_1opencv_1_1Sequence_1_1Item.html#a620da79aa73f7b68e0e60814cda789c5',1,'possumwood::opencv::Sequence::Item::meta()'],['../classpossumwood_1_1opencv_1_1Sequence_1_1Item.html#a68b8ec5e0f34b0629bebd5f6ecd4412f',1,'possumwood::opencv::Sequence::Item::meta() const']]],

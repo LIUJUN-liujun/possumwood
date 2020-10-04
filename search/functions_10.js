@@ -23,7 +23,6 @@ var searchData=
   ['removenodeaction',['removeNodeAction',['../namespacepossumwood_1_1actions_1_1detail.html#a428883bb0f7d628a7287a066d2bfc067',1,'possumwood::actions::detail']]],
   ['removeport',['removePort',['../classnode__editor_1_1Node.html#a6951eeb0dda1932132ac0d48f36a7749',1,'node_editor::Node']]],
   ['removeproperty',['removeProperty',['../classpossumwood_1_1Properties.html#a37d95351caf751bf7bf57efa39dbd205',1,'possumwood::Properties']]],
-  ['removevalue',['removeValue',['../classpossumwood_1_1PropertyItem.html#a4ed7851f2831739f83c0e39a12ae9d9a',1,'possumwood::PropertyItem']]],
   ['renamenode',['renameNode',['../namespacepossumwood_1_1actions.html#ae99b867737d1f18d238d9776ac39a9fd',1,'possumwood::actions']]],
   ['renamenodeaction',['renameNodeAction',['../namespacepossumwood_1_1actions_1_1detail.html#adc48980adc0271ac42a0084a9c4becec',1,'possumwood::actions::detail']]],
   ['rend',['rend',['../classpossumwood_1_1io_1_1basic__json.html#a563dbaadff7166f98b3c02d1b694c8e0',1,'possumwood::io::basic_json::rend() noexcept'],['../classpossumwood_1_1io_1_1basic__json.html#a4507c225e2acb5961b5104679bef8d75',1,'possumwood::io::basic_json::rend() const noexcept']]],

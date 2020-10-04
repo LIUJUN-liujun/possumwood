@@ -1,17 +1,16 @@
 var classpossumwood_1_1PropertyBase =
 [
     [ "~PropertyBase", "classpossumwood_1_1PropertyBase.html#a261acb192a37247835fbd8f5c5b4ffad", null ],
-    [ "PropertyBase", "classpossumwood_1_1PropertyBase.html#a9aaecc8d8335613785aa371b70df2530", null ],
-    [ "clone", "classpossumwood_1_1PropertyBase.html#a4ce48ad26216fad916a43b16b1db20f5", null ],
-    [ "index", "classpossumwood_1_1PropertyBase.html#ac77f4a98344669d8130478ff533b67f2", null ],
+    [ "PropertyBase", "classpossumwood_1_1PropertyBase.html#a0758a900d065dc8345a75ae0806cba65", null ],
+    [ "PropertyBase", "classpossumwood_1_1PropertyBase.html#a009eddb77aac4fe4af0b8628ccab77aa", null ],
+    [ "clone", "classpossumwood_1_1PropertyBase.html#ae05bcdfb75ba62eb9d6064c8a0656421", null ],
     [ "isEqual", "classpossumwood_1_1PropertyBase.html#a45ecfe0e7936137adaf41c4525aad665", null ],
-    [ "makeValue", "classpossumwood_1_1PropertyBase.html#a0d2b93758d802915bca5ca6548a8a9b2", null ],
+    [ "name", "classpossumwood_1_1PropertyBase.html#a4dda9c13a113496778291ec0b6b7ec24", null ],
     [ "operator!=", "classpossumwood_1_1PropertyBase.html#a6cb15e02ad7c77231bba6ed04b02d4ad", null ],
+    [ "operator=", "classpossumwood_1_1PropertyBase.html#a596ece0cb434643b7045f84426d2ba8d", null ],
     [ "operator==", "classpossumwood_1_1PropertyBase.html#a9e09dbc48d1a041024c632a42c396f84", null ],
-    [ "parent", "classpossumwood_1_1PropertyBase.html#a6517bd5210f8cfb2a584b106af388034", null ],
-    [ "parent", "classpossumwood_1_1PropertyBase.html#a4dd5b3dfa7698dca023e73ef649a6c19", null ],
-    [ "setIndex", "classpossumwood_1_1PropertyBase.html#a428c9b63a49e27088d410e8608e16a39", null ],
+    [ "type", "classpossumwood_1_1PropertyBase.html#a875a77984d22151d25f5b279e3400826", null ],
     [ "Properties", "classpossumwood_1_1PropertyBase.html#a07abafce4382a305ca01821acdae5cd9", null ],
-    [ "m_index", "classpossumwood_1_1PropertyBase.html#af7c815221deea225d200a322e7b52410", null ],
-    [ "m_parent", "classpossumwood_1_1PropertyBase.html#a8c471994572760e6096f1d76817277c9", null ]
+    [ "m_name", "classpossumwood_1_1PropertyBase.html#ae82306dddfab755d71525407703af78f", null ],
+    [ "m_type", "classpossumwood_1_1PropertyBase.html#a13d296c5d39552d7f4c70fcc6edf9552", null ]
 ];

@@ -3,7 +3,7 @@ var searchData=
   ['h_5findex',['h_index',['../classlightfields_1_1NLinks.html#a98e9052148f1f8abf865ea8a20ec45b2',1,'lightfields::NLinks']]],
   ['halfedge',['Halfedge',['../structpossumwood_1_1CGALItems_1_1Halfedge__wrapper.html#afb481782589ba5c2bf17dbd84f6a5660',1,'possumwood::CGALItems::Halfedge_wrapper']]],
   ['halfedge_5fwrapper',['Halfedge_wrapper',['../structpossumwood_1_1CGALItems_1_1Halfedge__wrapper.html',1,'possumwood::CGALItems']]],
-  ['halfedgeproperties',['halfedgeProperties',['../classpossumwood_1_1Mesh.html#a5d0ee5f4bbe316a363f9b3bee15c904f',1,'possumwood::Mesh::halfedgeProperties() const'],['../classpossumwood_1_1Mesh.html#a519603c67e7edb30d23229dc76873013',1,'possumwood::Mesh::halfedgeProperties()']]],
+  ['halfedgeproperties',['halfedgeProperties',['../classpossumwood_1_1Mesh_1_1MeshData.html#a9023438a09870b743534048a8b9ba3bf',1,'possumwood::Mesh::MeshData::halfedgeProperties()'],['../classpossumwood_1_1Mesh.html#a5d0ee5f4bbe316a363f9b3bee15c904f',1,'possumwood::Mesh::halfedgeProperties()']]],
   ['has_5ffrom_5fjson',['has_from_json',['../structpossumwood_1_1io_1_1detail_1_1has__from__json.html',1,'possumwood::io::detail']]],
   ['has_5fnon_5fdefault_5ffrom_5fjson',['has_non_default_from_json',['../structpossumwood_1_1io_1_1detail_1_1has__non__default__from__json.html',1,'possumwood::io::detail']]],
   ['has_5fto_5fjson',['has_to_json',['../structpossumwood_1_1io_1_1detail_1_1has__to__json.html',1,'possumwood::io::detail']]],

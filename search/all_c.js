@@ -1,7 +1,7 @@
 var searchData=
 [
   ['gaussian',['gaussian',['../namespacelightfields_1_1gaussian.html',1,'lightfields']]],
-  ['label',['Label',['../structlightfields_1_1SlicSuperpixels_1_1Label.html',1,'lightfields::SlicSuperpixels::Label'],['../structlightfields_1_1SlicSuperpixels_1_1Label.html#a0db5424d6237dde647919e496ea9bfd7',1,'lightfields::SlicSuperpixels::Label::Label()'],['../structlightfields_1_1ActiveQueue_1_1Item.html#a68010689ca9192c9be2e603ce7ad22a4',1,'lightfields::ActiveQueue::Item::label()'],['../structlightfields_1_1SlicSuperpixels.html#a9a575a1cda67c117944d1765253392dd',1,'lightfields::SlicSuperpixels::label()']]],
+  ['label',['Label',['../structlightfields_1_1SlicSuperpixels_1_1Label.html',1,'lightfields::SlicSuperpixels::Label'],['../structlightfields_1_1ActiveQueue_1_1Item.html#a68010689ca9192c9be2e603ce7ad22a4',1,'lightfields::ActiveQueue::Item::label()'],['../structlightfields_1_1SlicSuperpixels.html#a9a575a1cda67c117944d1765253392dd',1,'lightfields::SlicSuperpixels::label()'],['../structlightfields_1_1SlicSuperpixels_1_1Label.html#a0db5424d6237dde647919e496ea9bfd7',1,'lightfields::SlicSuperpixels::Label::Label()']]],
   ['labeldistance',['labelDistance',['../classTimeline.html#a365fe535feca08a731b1097cdb215339',1,'Timeline']]],
   ['labels',['Labels',['../classlightfields_1_1Labels.html',1,'lightfields::Labels'],['../classlightfields_1_1Labels_1_1Proxy.html#aeff662c731594be561e32f155d9faa8c',1,'lightfields::Labels::Proxy::Labels()'],['../classlightfields_1_1Labels.html#ab29a801cbab2396f4f8fa1cb0541f0f8',1,'lightfields::Labels::Labels()']]],
   ['labels_2ecpp',['labels.cpp',['../labels_8cpp.html',1,'']]],
@@ -53,6 +53,7 @@ var searchData=
   ['load',['load',['../classpossumwood_1_1Font.html#a969ef1857d02d4a7d1482621307dc3b6',1,'possumwood::Font::load()'],['../namespacepossumwood_1_1opencv.html#a523aa596c773ab2f1ae3d876fdb62950',1,'possumwood::opencv::load()']]],
   ['loader_2ecpp',['loader.cpp',['../loader_8cpp.html',1,'']]],
   ['loadfile',['loadFile',['../classMainWindow.html#a5b465ad4bfb6726b130c4bc2d93be83e',1,'MainWindow::loadFile()'],['../classpossumwood_1_1App.html#a9b4c69bcc89fe66473edfb3663d3679e',1,'possumwood::App::loadFile(const Filepath &amp;fn, bool alterCurrentFilename=true)'],['../classpossumwood_1_1App.html#a98000471b954e27deae9d14a51f4ddfb',1,'possumwood::App::loadFile(const possumwood::io::json &amp;json)']]],
+  ['loadobj',['loadObj',['../namespacepossumwood.html#a3ca135d2941e2531ca28c8cb5e304d7e',1,'possumwood']]],
   ['loadscene',['loadScene',['../apps_2possumwood__cli_2main_8cpp.html#aa09934fca2d602843d8935091652cac4',1,'main.cpp']]],
   ['loc',['loc',['../classpossumwood_1_1io_1_1basic__json_1_1serializer.html#a9658cc48ec5787055cc653716d5af098',1,'possumwood::io::basic_json::serializer']]],
   ['localangle',['LocalAngle',['../classanim_1_1metric_1_1LocalAngle.html',1,'anim::metric']]],

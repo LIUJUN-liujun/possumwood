@@ -1,0 +1,7 @@
+<map id="src/plugins/cgal/errors.h" name="src/plugins/cgal/errors.h">
+<area shape="rect" id="node2" href="$errors_8cpp.html" title="src/plugins/cgal/errors.cpp" alt="" coords="5,87,197,114"/>
+<area shape="rect" id="node3" href="$loader_8cpp.html" title="src/plugins/cgal/nodes\l/loader.cpp" alt="" coords="222,80,389,121"/>
+<area shape="rect" id="node4" href="$normals__generator_8cpp.html" title="src/plugins/cgal/nodes\l/normals_generator.cpp" alt="" coords="413,80,587,121"/>
+<area shape="rect" id="node5" href="$simplification_8cpp.html" title="src/plugins/cgal/nodes\l/simplification/simplification.cpp" alt="" coords="611,80,845,121"/>
+<area shape="rect" id="node6" href="$stitch__borders_8cpp.html" title="src/plugins/cgal/nodes\l/topology/stitch_borders.cpp" alt="" coords="869,80,1075,121"/>
+</map>
