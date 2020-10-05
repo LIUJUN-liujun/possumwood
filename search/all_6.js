@@ -1,8 +1,8 @@
 var searchData=
 [
   ['f',['f',['../classpossumwood_1_1opencv_1_1Exif.html#a10de4ff1d24263c16bbcc72246148d22',1,'possumwood::opencv::Exif']]],
-  ['face',['Face',['../classpossumwood_1_1cgal_1_1PolyhedronWrapper_1_1Face.html',1,'possumwood::cgal::PolyhedronWrapper::Face'],['../structpossumwood_1_1CGALPolyhedronItems_1_1Face__wrapper.html#aa049041179aa9cb95f3d00b3b873927c',1,'possumwood::CGALPolyhedronItems::Face_wrapper::Face()']]],
-  ['face_5fwrapper',['Face_wrapper',['../structpossumwood_1_1CGALPolyhedronItems_1_1Face__wrapper.html',1,'possumwood::CGALPolyhedronItems']]],
+  ['face',['Face',['../classpossumwood_1_1cgal_1_1PolyhedronWrapper_1_1Face.html',1,'possumwood::cgal::PolyhedronWrapper::Face'],['../structpossumwood_1_1CGALItems_1_1Face__wrapper.html#a0fcd689bd3eb494703adfc93116a7871',1,'possumwood::CGALItems::Face_wrapper::Face()']]],
+  ['face_5fwrapper',['Face_wrapper',['../structpossumwood_1_1CGALItems_1_1Face__wrapper.html',1,'possumwood::CGALItems']]],
   ['faceculling',['faceCulling',['../classpossumwood_1_1GLSetup.html#ab8bc99a5abd4aa98ae833a239deb563f',1,'possumwood::GLSetup']]],
   ['faceproperties',['faceProperties',['../classpossumwood_1_1Mesh_1_1MeshData.html#aa37269084f74e0e2d156485d8d1073d1',1,'possumwood::Mesh::MeshData::faceProperties()'],['../classpossumwood_1_1Mesh.html#ad0ad549eb638338327cdef423025df22',1,'possumwood::Mesh::faceProperties()']]],
   ['factories',['factories',['../classpossumwood_1_1properties_1_1factories.html',1,'possumwood::properties::factories'],['../structdependency__graph_1_1StaticInitialisation_1_1Pimpl.html#ab4087d14db4334b4c2703c0d71e01028',1,'dependency_graph::StaticInitialisation::Pimpl::factories()'],['../classpossumwood_1_1properties_1_1factories.html#a31ad7a69bc33f9534589b849c6e5b12a',1,'possumwood::properties::factories::factories()']]],

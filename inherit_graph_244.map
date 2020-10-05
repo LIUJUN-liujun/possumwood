@@ -1,3 +1,6 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$structpossumwood_1_1properties_1_1property__updater_3_01T_00_01DERIVED_00_01typename_01std_1_1en89669dad3162c0dd501902104a2e3fc8.html" title="possumwood::properties\l::property_updater\&lt; T,\l DERIVED, typename std\l::enable_if\&lt; std::is_copy\l_constructible\&lt; T \&gt;::value\l \&gt;::type \&gt;" alt="" coords="5,5,200,105"/>
+<area shape="rect" id="node1" href="$classpossumwood_1_1Shader.html" title="possumwood::Shader" alt="" coords="5,56,167,83"/>
+<area shape="rect" id="node2" href="$classpossumwood_1_1FragmentShader.html" title="Concrete type for a Fragment shader &#45; to allow explicit type checking. " alt="" coords="217,5,439,32"/>
+<area shape="rect" id="node3" href="$classpossumwood_1_1GeometryShader.html" title="Concrete type for a Vertex shader &#45; to allow explicit type checking. " alt="" coords="215,56,441,83"/>
+<area shape="rect" id="node4" href="$classpossumwood_1_1VertexShader.html" title="Concrete type for a Vertex shader &#45; to allow explicit type checking. " alt="" coords="227,107,429,133"/>
 </map>

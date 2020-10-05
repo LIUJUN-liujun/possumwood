@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['label',['Label',['../structlightfields_1_1SlicSuperpixels_1_1Label.html#a0db5424d6237dde647919e496ea9bfd7',1,'lightfields::SlicSuperpixels::Label::Label()'],['../structlightfields_1_1SlicSuperpixels.html#a9a575a1cda67c117944d1765253392dd',1,'lightfields::SlicSuperpixels::label()']]],
+  ['label',['label',['../structlightfields_1_1SlicSuperpixels.html#a9a575a1cda67c117944d1765253392dd',1,'lightfields::SlicSuperpixels::label()'],['../structlightfields_1_1SlicSuperpixels_1_1Label.html#a0db5424d6237dde647919e496ea9bfd7',1,'lightfields::SlicSuperpixels::Label::Label()']]],
   ['labeldistance',['labelDistance',['../classTimeline.html#a365fe535feca08a731b1097cdb215339',1,'Timeline']]],
   ['labels',['Labels',['../classlightfields_1_1Labels.html#ab29a801cbab2396f4f8fa1cb0541f0f8',1,'lightfields::Labels']]],
   ['laplacian',['laplacian',['../namespacepossumwood_1_1opencv.html#a299186614385171e0f219eecd5f9e08b',1,'possumwood::opencv']]],
